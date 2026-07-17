@@ -1,0 +1,1940 @@
+Demographic information
+"5  Current age, broken out in ten year age groups"
+6  Race group
+"7  Marital status, self-reported at entry to prison"
+"8  Number of children, self-reported at entry to prison"
+"9  Religious affiliation, self-reported at entry to prison"
+10  Home county - self-reported at entry to prison
+"15  Socioeconomic class, self-reported at entry to prison"
+"16  Environment to age 16, self-reported at entry to prison"
+"17  Guardian status to age 16, self-reported at entry to prison"
+"18  Employment status before prison, self-reported at entry to prison"
+19  Age at admission
+"21  Height, measured at entry to prison"
+"22  Weight, measured at entry to prison"
+24  Military service
+Correctional information
+25  Type of admission to prison
+26  Current / last security status
+27  Current / last institution type
+28  Institution type - transitional centers
+29  Institution type - county prisons
+31  Institution type - state prisons
+33  Institution type - private prisons
+34  Institution type - pre-release centers
+35  Institution type - inmate boot camp
+36  Number of disciplinary reports
+37  Number of transfers
+38  Number of escapes
+40  Probable future release type of still active inmates
+41  Time served in current (or last) institution
+"Educational, psychological and physical information"
+"Educational, psychological and physical information"
+39  Culture fair IQ scores
+42  Highest grade level attained
+43  Culture fair IQ scores
+44  Wide Range Achievement Test (WRAT) reading score
+45  Wide Range Achievement Test (WRAT) math score
+46  Wide Range Achievement Test (WRAT) spelling score
+47  Scope of substance abuse - summary
+48  Scope of substance abuse - detail
+49  Current / last mental health treatment level
+50  PULHESDWIT medical scale - 'P' overall condition ('P'hysical)
+51  PULHESDWIT medical scale - 'U' upper body
+52  PULHESDWIT medical scale - 'L' lower body
+53  PULHESDWIT medical scale - 'H' hearing
+54  PULHESDWIT medical scale - 'E' vision
+55  PULHESDWIT medical scale -'S' psychiatric
+56  PULHESDWIT medical scale - 'D' dental
+57  PULHESDWIT medical scale - 'W' work ability
+58  PULHESDWIT medical scale - 'I' impairment
+59  PULHESDWIT medical scale - 'T' transportability
+"60  Criminality in family, self-reported"
+"61  Alcoholism in family, self-reported"
+"62  Drug abuse in family, self-reported"
+"63  Subjected to frequent beatings, self-reported"
+64  Father absent during inmate's childhood
+65  Mother absent during inmate's childhood
+66  Inmate diagnosed as manipulative
+67  Inmate diagnosed as assaultive
+Crimes and criminal history information
+68  Number of prior Georgia incarcerations
+69  Prison sentence in years
+Crimes and criminal history information
+"70  Primary offense, broken out into felonies vs misdemeanors"
+"71  Primary offense, broken out into six broad crime categories"
+"72  Primary offense, detailed offense code"
+81  County of conviction of primary offense
+86  Circuit of conviction of primary offense
+88  Years served (jail + prison) in this incarceration
+Medical information
+89  Results of most recent HIV test
+90  Results of most recent tuberculosis test
+91  Results of most recent syphilis test
+92  Results of most recent Hepatitis-C test
+"",,Male,,,Female,,Total
+Current Age,Count,Col %,Row %,Count,Col %,Row %,Total Col %
+Teens (1-19),921,1.76%,96.95%,29,0.75%,3.05%,950  1.69%
+Twenties (20-29),"16,183",30.92%,93.81%,"1,067",27.64%,6.19%,"17,250  30.69%"
+Thirties (30-39),"15,200",29.04%,92.16%,"1,293",33.49%,7.84%,"16,493  29.35%"
+Forties (40-49),"11,175",21.35%,91.99%,973,25.20%,8.01%,"12,148  21.62%"
+Fifties (50-59),"6,554",12.52%,94.15%,407,10.54%,5.85%,"6,961  12.39%"
+Sixties (60-69),"1,749",3.34%,95.68%,79,2.05%,4.32%,"1,828  3.25%"
+Seventy + (70 and above),556,1.06%,97.72%,13,0.34%,2.28%,569  1.01%
+Total Reported,"52,338",100%,93.13%,"3,861",100%,6.87%,"56,199  100%"
+Not Reported,46,1,47
+Grand Total,"52,384","3,862","56,246"
+Mean(average),,37.02,36.89,37.01
+Median (middle),,35,36,35
+Mode(most frequent),,23,29,23
+"",,Male,,,Female,,Total
+Race Group,Count,Col %,Row %,Count,Col %,Row %,Total Col %
+1 White,"16,932",32.32%,89.05%,"2,082",53.91%,10.95%,"19,014  33.81%"
+2 Black,"32,900",62.81%,95.11%,"1,692",43.81%,4.89%,"34,592  61.50%"
+5 Other,48,.09%,88.89%,6,.16%,11.11%,54  .10%
+6 Asian,148,.28%,94.27%,9,.23%,5.73%,157  .28%
+9 Unknown,1,.01%,100.00%,,,,1  .01%
+10 Hispanic,"2,324",4.44%,97.08%,70,1.81%,2.92%,"2,394  4.26%"
+12 Native American,31,.06%,91.18%,3,.08%,8.82%,34  .06%
+Total Reported,"52,384",100%,93.13%,"3,862",100%,6.87%,"56,246  100%"
+Not Reported,0,0,0
+Grand Total,"52,384","3,862","56,246"
+Mode (most frequent),Black,White,Black
+"",,Male,,,Female,,Total
+Marital Status,Count,Col %,Row %,Count,Col %,Row %,Total Col %
+0 Unknown,534,1.02%,89.45%,63,1.63%,10.55%,597  1.06%
+D Divorced,"4,955",9.46%,88.36%,653,16.91%,11.64%,"5,608  9.97%"
+M Married,"7,127",13.61%,91.61%,653,16.91%,8.39%,"7,780  13.83%"
+S Separated,"1,833",3.50%,84.24%,343,8.88%,15.76%,"2,176  3.87%"
+U Unmarried,"37,460",71.51%,94.97%,"1,985",51.40%,5.03%,"39,445  70.13%"
+W Widow,475,.91%,74.22%,165,4.27%,25.78%,640  1.14%
+Total Reported,"52,384",100%,93.13%,"3,862",100%,6.87%,"56,246  100%"
+Not Reported,0,0,0
+Grand Total,"52,384","3,862","56,246"
+Mode (most frequent),Unmarried,Unmarried,Unmarried
+"",,Male,,,Female,,Total
+Number of Children,Count,Col %,Row %,Count,Col %,Row %,Total Col %
+0,"21,446",41.35%,94.91%,"1,149",29.78%,5.09%,"22,595  40.55%"
+1,"11,599",22.36%,93.96%,745,19.31%,6.04%,"12,344  22.15%"
+2,"8,556",16.50%,90.96%,850,22.03%,9.04%,"9,406  16.88%"
+3,"5,071",9.78%,88.92%,632,16.38%,11.08%,"5,703  10.23%"
+4,"2,592",5.00%,90.38%,276,7.15%,9.62%,"2,868  5.15%"
+5,"1,256",2.42%,91.75%,113,2.93%,8.25%,"1,369  2.46%"
+6,664,1.28%,92.61%,53,1.37%,7.39%,717  1.29%
+7,280,0.54%,93.02%,21,0.54%,6.98%,301  0.54%
+8,162,0.31%,93.64%,11,0.29%,6.36%,173  0.31%
+9,104,0.20%,98.11%,2,0.05%,1.89%,106  0.19%
+10,58,0.11%,95.08%,3,0.08%,4.92%,61  0.11%
+Over 10,81,0.16%,96.43%,3,0.08%,3.57%,84  0.15%
+Total Reported,"51,869",100%,93.08%,"3,858",100%,6.92%,"55,727  100.0%"
+Not Reported,515,4,519
+Grand Total,"52,384","3,862","56,246"
+Mean(average),,1.36,1.72,1.38
+Median (middle),,1,2,1
+Mode(most frequent),,0,0,0
+"",,Male,,,Female,,Total
+Religious Affiliation,Count,Col %,Row %,Count,Col %,Row %,Total Col %
+1 Islam,987,4.18%,96.58%,35,1.30%,3.42%,"1,022  3.88%"
+2 Catholic,"1,197",5.06%,88.73%,152,5.65%,11.27%,"1,349  5.12%"
+3 Baptist,"11,763",49.77%,86.75%,"1,796",66.74%,13.25%,"13,559  51.50%"
+4 Methodist,520,2.20%,88.29%,69,2.56%,11.71%,589  2.24%
+5 Episcopln,39,.16%,88.64%,5,.19%,11.36%,44  .17%
+6 Presbytrn,83,.35%,91.21%,8,.30%,8.79%,91  .35%
+7 Chc Of God,434,1.84%,80.67%,104,3.86%,19.33%,538  2.04%
+8 Holiness,815,3.45%,82.07%,178,6.61%,17.93%,993  3.77%
+9 Jewish,36,.15%,92.31%,3,.11%,7.69%,39  .15%
+10 Anglican,11,.05%,84.62%,2,.07%,15.38%,13  .05%
+11 Grk Orthdx,4,.02%,80.00%,1,.04%,20.00%,5  .02%
+12 Hindu,8,.03%,100.00%,,,,8  .03%
+13 Buddhist,36,.15%,76.60%,11,.41%,23.40%,47  .18%
+14 Taoist,7,.03%,100.00%,,,,7  .03%
+15 Shintoist,3,.01%,100.00%,,,,3  .01%
+16 Seven D Ad,77,.33%,90.59%,8,.30%,9.41%,85  .32%
+17 Jehovah Wt,277,1.17%,88.78%,35,1.30%,11.22%,312  1.19%
+18 Latr Day S,35,.15%,92.11%,3,.11%,7.89%,38  .14%
+20 Other Prot,"3,749",15.86%,93.84%,246,9.14%,6.16%,"3,995  15.17%"
+96 None,"3,556",15.04%,99.03%,35,1.30%,.97%,"3,591  13.64%"
+Total Reported,"23,637",100%,89.78%,"2,691",100%,10.22%,"26,328  100%"
+Not Reported,"28,747","1,171","29,918"
+Grand Total,"52,384","3,862","56,246"
+Mode (most frequent),Baptist,Baptist,Baptist
+"",,Male,,,Female,,Total
+Home County,Count,Col %,Row %,Count,Col %,Row %,Total Col %
+000 Unknown,"5,572",10.64%,94.11%,349,9.04%,5.89%,"5,921  10.53%"
+001 Appling County,119,.23%,96.75%,4,.10%,3.25%,123  .22%
+002 Atkinson County,44,.08%,97.78%,1,.03%,2.22%,45  .08%
+003 Bacon County,68,.13%,93.15%,5,.13%,6.85%,73  .13%
+004 Baker County,20,.04%,100.00%,,,,20  .04%
+005 Baldwin County,290,.55%,94.16%,18,.47%,5.84%,308  .55%
+006 Banks County,45,.09%,91.84%,4,.10%,8.16%,49  .09%
+007 Barrow County,247,.47%,87.90%,34,.88%,12.10%,281  .50%
+008 Bartow County,575,1.10%,88.73%,73,1.89%,11.27%,648  1.15%
+009 Ben Hill County,207,.40%,94.52%,12,.31%,5.48%,219  .39%
+010 Berrien County,92,.18%,92.93%,7,.18%,7.07%,99  .18%
+011 Bibb County,"1,192",2.28%,95.59%,55,1.42%,4.41%,"1,247  2.22%"
+012 Bleckley County,76,.15%,92.68%,6,.16%,7.32%,82  .15%
+013 Brantley County,47,.09%,83.93%,9,.23%,16.07%,56  .10%
+014 Brooks County,136,.26%,97.14%,4,.10%,2.86%,140  .25%
+015 Bryan County,140,.27%,94.59%,8,.21%,5.41%,148  .26%
+016 Bulloch County,375,.72%,92.14%,32,.83%,7.86%,407  .72%
+017 Burke County,207,.40%,97.18%,6,.16%,2.82%,213  .38%
+018 Butts County,149,.28%,93.13%,11,.28%,6.88%,160  .28%
+019 Calhoun County,70,.13%,97.22%,2,.05%,2.78%,72  .13%
+020 Camden County,118,.23%,90.77%,12,.31%,9.23%,130  .23%
+021 Candler County,110,.21%,92.44%,9,.23%,7.56%,119  .21%
+022 Carroll County,573,1.09%,89.53%,67,1.73%,10.47%,640  1.14%
+023 Catoosa County,235,.45%,90.38%,25,.65%,9.62%,260  .46%
+024 Charlton County,52,.10%,98.11%,1,.03%,1.89%,53  .09%
+025 Chatham County,"2,057",3.93%,95.94%,87,2.25%,4.06%,"2,144  3.81%"
+026 Chattahoochee County,27,.05%,100.00%,,,,27  .05%
+027 Chattooga County,253,.48%,89.40%,30,.78%,10.60%,283  .50%
+028 Cherokee County,415,.79%,91.81%,37,.96%,8.19%,452  .80%
+029 Clarke County,463,.88%,94.49%,27,.70%,5.51%,490  .87%
+030 Clay County,41,.08%,93.18%,3,.08%,6.82%,44  .08%
+031 Clayton County,"1,537",2.93%,93.78%,102,2.64%,6.22%,"1,639  2.91%"
+032 Clinch County,58,.11%,93.55%,4,.10%,6.45%,62  .11%
+033 Cobb County,"2,058",3.93%,90.62%,213,5.52%,9.38%,"2,271  4.04%"
+034 Coffee County,273,.52%,93.81%,18,.47%,6.19%,291  .52%
+035 Colquitt County,249,.48%,95.77%,11,.28%,4.23%,260  .46%
+036 Columbia County,247,.47%,89.82%,28,.73%,10.18%,275  .49%
+037 Cook County,135,.26%,96.43%,5,.13%,3.57%,140  .25%
+"",,Male,,,Female,,Total
+Home County,Count,Col %,Row %,Count,Col %,Row %,Total Col %
+038 Coweta County,441,.84%,93.43%,31,.80%,6.57%,472  .84%
+039 Crawford County,37,.07%,92.50%,3,.08%,7.50%,40  .07%
+040 Crisp County,212,.40%,96.36%,8,.21%,3.64%,220  .39%
+041 Dade County,68,.13%,88.31%,9,.23%,11.69%,77  .14%
+042 Dawson County,84,.16%,86.60%,13,.34%,13.40%,97  .17%
+043 Decatur County,294,.56%,91.59%,27,.70%,8.41%,321  .57%
+044 Dekalb County,"3,140",5.99%,93.54%,217,5.62%,6.46%,"3,357  5.97%"
+045 Dodge County,146,.28%,90.12%,16,.41%,9.88%,162  .29%
+046 Dooly County,75,.14%,87.21%,11,.28%,12.79%,86  .15%
+047 Dougherty County,921,1.76%,94.95%,49,1.27%,5.05%,970  1.72%
+048 Douglas County,672,1.28%,91.43%,63,1.63%,8.57%,735  1.31%
+049 Early County,76,.15%,93.83%,5,.13%,6.17%,81  .14%
+050 Echols County,14,.03%,100.00%,,,,14  .02%
+051 Effingham County,194,.37%,94.17%,12,.31%,5.83%,206  .37%
+052 Elbert County,144,.27%,95.36%,7,.18%,4.64%,151  .27%
+053 Emanuel County,162,.31%,94.19%,10,.26%,5.81%,172  .31%
+054 Evans County,83,.16%,92.22%,7,.18%,7.78%,90  .16%
+055 Fannin County,89,.17%,86.41%,14,.36%,13.59%,103  .18%
+056 Fayette County,179,.34%,88.18%,24,.62%,11.82%,203  .36%
+057 Floyd County,690,1.32%,88.69%,88,2.28%,11.31%,778  1.38%
+058 Forsyth County,206,.39%,87.29%,30,.78%,12.71%,236  .42%
+059 Franklin County,133,.25%,96.38%,5,.13%,3.62%,138  .25%
+060 Fulton County,"5,414",10.34%,94.85%,294,7.61%,5.15%,"5,708  10.15%"
+061 Gilmer County,109,.21%,92.37%,9,.23%,7.63%,118  .21%
+062 Glascock County,7,.01%,100.00%,,,,7  .01%
+063 Glynn County,379,.72%,94.75%,21,.54%,5.25%,400  .71%
+064 Gordon County,272,.52%,86.35%,43,1.11%,13.65%,315  .56%
+065 Grady County,176,.34%,94.62%,10,.26%,5.38%,186  .33%
+066 Greene County,106,.20%,92.98%,8,.21%,7.02%,114  .20%
+067 Gwinnett County,"1,806",3.45%,91.77%,162,4.19%,8.23%,"1,968  3.50%"
+068 Habersham County,107,.20%,91.45%,10,.26%,8.55%,117  .21%
+069 Hall County,623,1.19%,91.22%,60,1.55%,8.78%,683  1.21%
+070 Hancock County,59,.11%,96.72%,2,.05%,3.28%,61  .11%
+071 Haralson County,125,.24%,92.59%,10,.26%,7.41%,135  .24%
+072 Harris County,106,.20%,90.60%,11,.28%,9.40%,117  .21%
+073 Hart County,126,.24%,92.65%,10,.26%,7.35%,136  .24%
+074 Heard County,50,.10%,86.21%,8,.21%,13.79%,58  .10%
+075 Henry County,577,1.10%,93.82%,38,.98%,6.18%,615  1.09%
+"",,Male,,,Female,,Total
+Home County,Count,Col %,Row %,Count,Col %,Row %,Total Col %
+076 Houston County,529,1.01%,91.84%,47,1.22%,8.16%,576  1.02%
+077 Irwin County,85,.16%,95.51%,4,.10%,4.49%,89  .16%
+078 Jackson County,220,.42%,87.30%,32,.83%,12.70%,252  .45%
+079 Jasper County,75,.14%,91.46%,7,.18%,8.54%,82  .15%
+080 Jeff Davis County,78,.15%,93.98%,5,.13%,6.02%,83  .15%
+081 Jefferson County,193,.37%,93.24%,14,.36%,6.76%,207  .37%
+082 Jenkins County,70,.13%,94.59%,4,.10%,5.41%,74  .13%
+083 Johnson County,45,.09%,91.84%,4,.10%,8.16%,49  .09%
+084 Jones County,129,.25%,90.85%,13,.34%,9.15%,142  .25%
+085 Lamar County,58,.11%,90.63%,6,.16%,9.38%,64  .11%
+086 Lanier County,46,.09%,97.87%,1,.03%,2.13%,47  .08%
+087 Laurens County,305,.58%,92.15%,26,.67%,7.85%,331  .59%
+088 Lee County,86,.16%,86.87%,13,.34%,13.13%,99  .18%
+089 Liberty County,271,.52%,95.09%,14,.36%,4.91%,285  .51%
+090 Lincoln County,25,.05%,83.33%,5,.13%,16.67%,30  .05%
+091 Long County,60,.11%,93.75%,4,.10%,6.25%,64  .11%
+092 Lowndes County,518,.99%,95.40%,25,.65%,4.60%,543  .97%
+093 Lumpkin County,88,.17%,95.65%,4,.10%,4.35%,92  .16%
+094 Macon County,78,.15%,97.50%,2,.05%,2.50%,80  .14%
+095 Madison County,137,.26%,92.57%,11,.28%,7.43%,148  .26%
+096 Marion County,42,.08%,89.36%,5,.13%,10.64%,47  .08%
+097 Mcduffie County,171,.33%,96.61%,6,.16%,3.39%,177  .31%
+098 Mcintosh County,81,.15%,95.29%,4,.10%,4.71%,85  .15%
+099 Meriwether County,176,.34%,94.12%,11,.28%,5.88%,187  .33%
+100 Miller County,37,.07%,97.37%,1,.03%,2.63%,38  .07%
+101 Mitchell County,227,.43%,93.80%,15,.39%,6.20%,242  .43%
+102 Monroe County,147,.28%,94.23%,9,.23%,5.77%,156  .28%
+103 Montgomery County,67,.13%,90.54%,7,.18%,9.46%,74  .13%
+104 Morgan County,115,.22%,93.50%,8,.21%,6.50%,123  .22%
+105 Murray County,170,.32%,88.54%,22,.57%,11.46%,192  .34%
+106 Muscogee County,"1,239",2.37%,95.31%,61,1.58%,4.69%,"1,300  2.31%"
+107 Newton County,614,1.17%,91.92%,54,1.40%,8.08%,668  1.19%
+108 Oconee County,47,.09%,88.68%,6,.16%,11.32%,53  .09%
+109 Oglethorpe County,60,.11%,88.24%,8,.21%,11.76%,68  .12%
+110 Paulding County,334,.64%,92.52%,27,.70%,7.48%,361  .64%
+111 Peach County,117,.22%,95.12%,6,.16%,4.88%,123  .22%
+112 Pickens County,115,.22%,89.15%,14,.36%,10.85%,129  .23%
+113 Pierce County,65,.12%,87.84%,9,.23%,12.16%,74  .13%
+"",,Male,,,Female,,Total
+Home County,Count,Col %,Row %,Count,Col %,Row %,Total Col %
+114 Pike County,57,.11%,96.61%,2,.05%,3.39%,59  .10%
+115 Polk County,256,.49%,91.10%,25,.65%,8.90%,281  .50%
+116 Pulaski County,74,.14%,87.06%,11,.28%,12.94%,85  .15%
+117 Putnam County,164,.31%,92.13%,14,.36%,7.87%,178  .32%
+118 Quitman County,20,.04%,95.24%,1,.03%,4.76%,21  .04%
+119 Rabun County,44,.08%,84.62%,8,.21%,15.38%,52  .09%
+120 Randolph County,70,.13%,93.33%,5,.13%,6.67%,75  .13%
+121 Richmond County,"1,732",3.31%,94.75%,96,2.49%,5.25%,"1,828  3.25%"
+122 Rockdale County,360,.69%,93.02%,27,.70%,6.98%,387  .69%
+123 Schley County,21,.04%,95.45%,1,.03%,4.55%,22  .04%
+124 Screven County,139,.27%,93.29%,10,.26%,6.71%,149  .26%
+125 Seminole County,60,.11%,84.51%,11,.28%,15.49%,71  .13%
+126 Spalding County,512,.98%,93.09%,38,.98%,6.91%,550  .98%
+127 Stephens County,139,.27%,93.29%,10,.26%,6.71%,149  .26%
+128 Stewart County,38,.07%,100.00%,,,,38  .07%
+129 Sumter County,223,.43%,94.89%,12,.31%,5.11%,235  .42%
+130 Talbot County,56,.11%,94.92%,3,.08%,5.08%,59  .10%
+131 Taliaferro County,13,.02%,92.86%,1,.03%,7.14%,14  .02%
+132 Tattnall County,168,.32%,94.92%,9,.23%,5.08%,177  .31%
+133 Taylor County,75,.14%,93.75%,5,.13%,6.25%,80  .14%
+134 Telfair County,98,.19%,93.33%,7,.18%,6.67%,105  .19%
+135 Terrell County,81,.15%,94.19%,5,.13%,5.81%,86  .15%
+136 Thomas County,228,.44%,93.83%,15,.39%,6.17%,243  .43%
+137 Tift County,252,.48%,96.18%,10,.26%,3.82%,262  .47%
+138 Toombs County,318,.61%,92.44%,26,.67%,7.56%,344  .61%
+139 Towns County,28,.05%,84.85%,5,.13%,15.15%,33  .06%
+140 Treutlen County,71,.14%,91.03%,7,.18%,8.97%,78  .14%
+141 Troup County,531,1.01%,93.32%,38,.98%,6.68%,569  1.01%
+142 Turner County,68,.13%,95.77%,3,.08%,4.23%,71  .13%
+143 Twiggs County,67,.13%,89.33%,8,.21%,10.67%,75  .13%
+144 Union County,58,.11%,81.69%,13,.34%,18.31%,71  .13%
+145 Upson County,147,.28%,93.63%,10,.26%,6.37%,157  .28%
+146 Walker County,357,.68%,89.03%,44,1.14%,10.97%,401  .71%
+147 Walton County,435,.83%,91.19%,42,1.09%,8.81%,477  .85%
+148 Ware County,287,.55%,95.03%,15,.39%,4.97%,302  .54%
+149 Warren County,38,.07%,92.68%,3,.08%,7.32%,41  .07%
+150 Washington County,195,.37%,89.86%,22,.57%,10.14%,217  .39%
+151 Wayne County,155,.30%,92.81%,12,.31%,7.19%,167  .30%
+"",,Male,,,Female,,Total,
+Home County,Count,Col %,Row %,Count,Col %,Row %,Total,Col %
+152 Webster County,10,.02%,100.00%,,,,10,.02%
+153 Wheeler County,28,.05%,84.85%,5,.13%,15.15%,33,.06%
+154 White County,76,.15%,90.48%,8,.21%,9.52%,84,.15%
+155 Whitfield County,507,.97%,90.70%,52,1.35%,9.30%,559,.99%
+156 Wilcox County,58,.11%,92.06%,5,.13%,7.94%,63,.11%
+157 Wilkes County,56,.11%,90.32%,6,.16%,9.68%,62,.11%
+158 Wilkinson County,54,.10%,94.74%,3,.08%,5.26%,57,.10%
+159 Worth County,107,.20%,92.24%,9,.23%,7.76%,116,.21%
+999 Other Custody/Out Of,259,.49%,92.17%,22,.57%,7.83%,281,.50%
+State,,,,,,,,
+Total Rported,"52,384",100%,93.13%,"3,862",100%,6.87%,"56,246",100%
+Not Reported,0,0,0
+Grand Total,"52,384","3,862","56,246"
+Mode,(most frequent),Unknown,Unknown,Unknown
+"",,Male,,,Female,,Total
+Socioeconomic Class,Count,Col %,Row %,Count,Col %,Row %,Total Col %
+1 Welfare,"1,936",9.84%,95.79%,85,10.35%,4.21%,"2,021  9.86%"
+2 Occ Employ,807,4.10%,99.26%,6,.73%,.74%,813  3.97%
+3 Minimum Std,"8,170",41.51%,96.93%,259,31.55%,3.07%,"8,429  41.11%"
+4 Middle,"8,770",44.56%,94.90%,471,57.37%,5.10%,"9,241  45.07%"
+Total Reported,"19,683",100%,96%,821,100%,4%,"20,504  100%"
+Not Reported,"32,701","3,041","35,742"
+Grand Total,"52,384","3,862","56,246"
+Mode (most frequent),Middle,Middle,Middle
+"",,Male,,,Female,,Total
+Environment to age 16,Count,Col %,Row %,Count,Col %,Row %,Total Col %
+1 Rural/Farm,724,3.65%,96.79%,24,2.91%,3.21%,748  3.62%
+2 Rural/Nfarm,"1,072",5.40%,91.62%,98,11.86%,8.38%,"1,170  5.66%"
+3 S.M.S.A,"7,213",36.32%,97.83%,160,19.37%,2.17%,"7,373  35.64%"
+4 Urban,"4,432",22.31%,93.60%,303,36.68%,6.40%,"4,735  22.89%"
+5 Small Town,"6,421",32.33%,96.38%,241,29.18%,3.62%,"6,662  32.20%"
+Total Reported,"19,862",100%,96.01%,826,100%,3.99%,"20,688  100%"
+Not Reported,"32,522","3,036","35,558"
+Grand Total,"52,384","3,862","56,246"
+Mode (most frequent),S.M.S.A,Urban,S.M.S.A
+"",,Male,,,Female,,Total
+Guardian Status To Age 16,Count,Col %,Row %,Count,Col %,Row %,Total Col %
+1 Orphanage,13,.07%,100.00%,,,,13  .07%
+2 Father Only,543,3.11%,97.84%,12,2.91%,2.16%,555  3.10%
+3 Both Parents,"6,776",38.77%,97.51%,173,41.99%,2.49%,"6,949  38.84%"
+4 Mother Only,"7,660",43.82%,98.17%,143,34.71%,1.83%,"7,803  43.61%"
+6 Oth Female,448,2.56%,98.25%,8,1.94%,1.75%,456  2.55%
+7 Oth Male,78,.45%,98.73%,1,.24%,1.27%,79  .44%
+8 Step-Parents,175,1.00%,98.87%,2,.49%,1.13%,177  .99%
+9 Foster Home,290,1.66%,96.99%,9,2.18%,3.01%,299  1.67%
+10Grand Parents,"1,496",8.56%,95.90%,64,15.53%,4.10%,"1,560  8.72%"
+Total Reported,"17,479",100%,97.7%,412,100%,2.3%,"17,891  100%"
+Not Reported,"34,905","3,450","38,355"
+Grand Total,"52,384","3,862","56,246"
+Mode (most frequent),Mother Only,Both Parents,Mother Only
+"",,Male,,,Female,,Total
+Employment Status,Count,Col %,Row %,Count,Col %,Row %,Total Col %
+1 Full Time,"20,590",48.31%,96.58%,730,23.39%,3.42%,"21,320  46.61%"
+2 Part Time,"4,238",9.94%,95.73%,189,6.06%,4.27%,"4,427  9.68%"
+3 Unempl < 6m,"3,250",7.63%,97.25%,92,2.95%,2.75%,"3,342  7.31%"
+4 Unempl > 6m,"7,164",16.81%,82.34%,"1,537",49.25%,17.66%,"8,701  19.02%"
+5 Never Workd,"4,435",10.41%,96.48%,162,5.19%,3.52%,"4,597  10.05%"
+6 Student,"1,036",2.43%,92.50%,84,2.69%,7.50%,"1,120  2.45%"
+7 Incapable,"1,904",4.47%,85.34%,327,10.48%,14.66%,"2,231  4.88%"
+Total Reported,"42,617",100%,93.18%,"3,121",100%,6.82%,"45,738  100%"
+Not Reported,"9,767",741,"10,508"
+Grand Total,"52,384","3,862","56,246"
+Mode (most frequent),Full Time,Unempl > 6m,Full Time
+"",,Male,,,Female,,Total
+Age At Admission,Count,Col %,Row %,Count,Col %,Row %,Total Col %
+14,19,0.04%,95.00%,1,0.03%,5.00%,20  0.04%
+15,63,0.12%,98.44%,1,0.03%,1.56%,64  0.11%
+16,191,0.36%,95.98%,8,0.21%,4.02%,199  0.35%
+17,726,1.39%,97.06%,22,0.57%,2.94%,748  1.33%
+18,"1,515",2.89%,97.24%,43,1.11%,2.76%,"1,558  2.77%"
+19,"2,191",4.18%,96.86%,71,1.84%,3.14%,"2,262  4.02%"
+20,"2,394",4.57%,95.53%,112,2.90%,4.47%,"2,506  4.46%"
+21,"2,347",4.48%,95.14%,120,3.11%,4.86%,"2,467  4.39%"
+22,"2,396",4.57%,94.67%,135,3.50%,5.33%,"2,531  4.50%"
+23,"2,172",4.15%,93.78%,144,3.73%,6.22%,"2,316  4.12%"
+24,"2,067",3.95%,94.00%,132,3.42%,6.00%,"2,199  3.91%"
+25,"2,005",3.83%,94.00%,128,3.32%,6.00%,"2,133  3.79%"
+26,"1,895",3.62%,94.09%,119,3.08%,5.91%,"2,014  3.58%"
+27,"1,857",3.55%,92.48%,151,3.91%,7.52%,"2,008  3.57%"
+28,"1,813",3.46%,93.02%,136,3.52%,6.98%,"1,949  3.47%"
+29,"1,717",3.28%,92.26%,144,3.73%,7.74%,"1,861  3.31%"
+30,"1,726",3.29%,93.45%,121,3.13%,6.55%,"1,847  3.28%"
+31,"1,667",3.18%,92.51%,135,3.50%,7.49%,"1,802  3.20%"
+32,"1,571",3.00%,91.87%,139,3.60%,8.13%,"1,710  3.04%"
+33,"1,436",2.74%,91.93%,126,3.26%,8.07%,"1,562  2.78%"
+34,"1,402",2.68%,90.74%,143,3.70%,9.26%,"1,545  2.75%"
+35,"1,314",2.51%,91.95%,115,2.98%,8.05%,"1,429  2.54%"
+36,"1,279",2.44%,91.49%,119,3.08%,8.51%,"1,398  2.49%"
+37,"1,203",2.30%,92.18%,102,2.64%,7.82%,"1,305  2.32%"
+38,"1,165",2.22%,92.53%,94,2.43%,7.47%,"1,259  2.24%"
+39,"1,099",2.10%,91.58%,101,2.62%,8.42%,"1,200  2.13%"
+40,"1,098",2.10%,91.04%,108,2.80%,8.96%,"1,206  2.14%"
+41,"1,039",1.98%,91.95%,91,2.36%,8.05%,"1,130  2.01%"
+42,984,1.88%,90.44%,104,2.69%,9.56%,"1,088  1.93%"
+43,936,1.79%,90.61%,97,2.51%,9.39%,"1,033  1.84%"
+44,915,1.75%,91.23%,88,2.28%,8.77%,"1,003  1.78%"
+45,847,1.62%,90.78%,86,2.23%,9.22%,933  1.66%
+46,810,1.55%,90.60%,84,2.18%,9.40%,894  1.59%
+47,769,1.47%,90.36%,82,2.12%,9.64%,851  1.51%
+48,733,1.40%,90.94%,73,1.89%,9.06%,806  1.43%
+49,654,1.25%,91.85%,58,1.50%,8.15%,712  1.27%
+50,609,1.16%,92.27%,51,1.32%,7.73%,660  1.17%
+51,530,1.01%,91.38%,50,1.30%,8.62%,580  1.03%
+52,492,0.94%,90.11%,54,1.40%,9.89%,546  0.97%
+53,456,0.87%,92.12%,39,1.01%,7.88%,495  0.88%
+"",,Male,,,Female,,Total
+Age At Admission,Count,Col %,Row %,Count,Col %,Row %,Total Col %
+54,364,0.69%,93.33%,26,0.67%,6.67%,390  0.69%
+55,305,0.58%,93.85%,20,0.52%,6.15%,325  0.58%
+56,275,0.52%,93.22%,20,0.52%,6.78%,295  0.52%
+57,231,0.44%,96.65%,8,0.21%,3.35%,239  0.42%
+58,189,0.36%,95.45%,9,0.23%,4.55%,198  0.35%
+59,162,0.31%,92.57%,13,0.34%,7.43%,175  0.31%
+60,120,0.23%,96.00%,5,0.13%,4.00%,125  0.22%
+61,122,0.23%,93.85%,8,0.21%,6.15%,130  0.23%
+62,93,0.18%,95.88%,4,0.10%,4.12%,97  0.17%
+63,80,0.15%,96.39%,3,0.08%,3.61%,83  0.15%
+64,71,0.14%,93.42%,5,0.13%,6.58%,76  0.14%
+65,45,0.09%,93.75%,3,0.08%,6.25%,48  0.09%
+66,37,0.07%,90.24%,4,0.10%,9.76%,41  0.07%
+67,38,0.07%,100.00%,,,,38  0.07%
+68,27,0.05%,96.43%,1,0.03%,3.57%,28  0.05%
+69,32,0.06%,100.00%,,,,32  0.06%
+70,19,0.04%,86.36%,3,0.08%,13.64%,22  0.04%
+71,11,0.02%,100.00%,,,,11  0.02%
+72,15,0.03%,93.75%,1,0.03%,6.25%,16  0.03%
+73,10,0.02%,100.00%,,,,10  0.02%
+74,8,0.02%,100.00%,,,,8  0.01%
+75,7,0.01%,100.00%,,,,7  0.01%
+76,7,0.01%,100.00%,,,,7  0.01%
+77,4,0.01%,100.00%,,,,4  0.01%
+78,4,0.01%,100.00%,,,,4  0.01%
+79,2,0.01%,66.67%,1,0.03%,33.33%,3  0.01%
+82,2,0.01%,100.00%,,,,2  0.01%
+84,1,0.01%,100.00%,,,,1  0.01%
+Total Reported,"52,383",100%,93.14%,"3,861",100%,6.86%,"56,244  100%"
+Not Reported,1,1,2
+Grand Total,"52,384","3,862","56,246"
+Mean(average),,32.18,34.26,32.33
+Median (middle),,30,33,30
+Mode(most frequent),,22,27,22
+"",,Male,,,Female,,Total
+Height,Count,Col %,Row %,Count,Col %,Row %,Total Col %
+4'10'',3,0.02%,14.29%,18,8.53%,85.71%,21  0.17%
+4'11'',12,0.10%,15.19%,67,31.75%,84.81%,79  0.63%
+5'02'',2,0.02%,66.67%,1,0.47%,33.33%,3  0.02%
+5'03'',1,0.01%,100.00%,,,,1  0.01%
+5'05'',8,0.07%,100.00%,,,,8  0.06%
+5'06'',9,0.07%,100.00%,,,,9  0.07%
+5'07'',12,0.10%,100.00%,,,,12  0.10%
+5'08'',12,0.10%,100.00%,,,,12  0.10%
+5'09'',15,0.12%,100.00%,,,,15  0.12%
+5'10'',"5,976",48.59%,98.87%,68,32.23%,1.13%,"6,044  48.31%"
+5'11'',"6,202",50.43%,99.09%,57,27.01%,0.91%,"6,259  50.03%"
+6'00'',13,0.11%,100.00%,,,,13  0.10%
+6'01'',7,0.06%,100.00%,,,,7  0.06%
+6'02'',6,0.05%,100.00%,,,,6  0.05%
+6'03'',1,0.01%,100.00%,,,,1  0.01%
+6'04'',2,0.02%,100.00%,,,,2  0.02%
+6'05'',2,0.02%,100.00%,,,,2  0.02%
+6'10'',5,0.04%,100.00%,,,,5  0.04%
+6'11'',11,0.09%,100.00%,,,,11  0.09%
+Total Reported,"12,299",100%,98.31%,211,100%,1.69%,"12,510  100%"
+Not Reported,"40,085","3,651","43,736"
+Grand Total,"52,384","3,862","56,246"
+Mean(average),,5'11'',5'06'',5'10''
+Median (middle),,5'11'',5'10'',5'11''
+Mode(most frequent),,5'11'',5'10'',5'11''
+"",,Male,,,Female,,Total
+Weight,Count,Col %,Row %,Count,Col %,Row %,Total Col %
+Under 80 pounds,20,0.04%,95.24%,1,0.03%,4.76%,21  0.04%
+80 - 89 pounds,4,0.01%,80.00%,1,0.03%,20.00%,5  0.01%
+90 - 99 pounds,2,0.01%,16.67%,10,0.26%,83.33%,12  0.02%
+100 - 109 pounds,22,0.04%,43.14%,29,0.75%,56.86%,51  0.09%
+110 - 119 pounds,93,0.18%,47.69%,102,2.65%,52.31%,195  0.35%
+120 - 129 pounds,427,0.83%,66.51%,215,5.59%,33.49%,642  1.15%
+130 - 139 pounds,"1,414",2.73%,79.84%,357,9.28%,20.16%,"1,771  3.19%"
+140 - 149 pounds,"3,171",6.13%,88.23%,423,10.99%,11.77%,"3,594  6.47%"
+150 - 159 pounds,"5,094",9.85%,92.33%,423,10.99%,7.67%,"5,517  9.93%"
+160 - 169 pounds,"6,863",13.27%,93.41%,484,12.58%,6.59%,"7,347  13.22%"
+170 - 179 pounds,"6,582",12.72%,94.62%,374,9.72%,5.38%,"6,956  12.51%"
+180 - 189 pounds,"6,939",13.41%,95.16%,353,9.17%,4.84%,"7,292  13.12%"
+190 - 199 pounds,"4,821",9.32%,95.20%,243,6.31%,4.80%,"5,064  9.11%"
+200 - 209 pounds,"4,178",8.08%,95.45%,199,5.17%,4.55%,"4,377  7.87%"
+210 - 219 pounds,"3,195",6.18%,95.72%,143,3.72%,4.28%,"3,338  6.01%"
+220 - 229 pounds,"2,626",5.08%,95.77%,116,3.01%,4.23%,"2,742  4.93%"
+230 - 239 pounds,"1,793",3.47%,94.57%,103,2.68%,5.43%,"1,896  3.41%"
+240 - 249 pounds,"1,399",2.70%,94.27%,85,2.21%,5.73%,"1,484  2.67%"
+250 - 259 pounds,920,1.78%,93.88%,60,1.56%,6.12%,980  1.76%
+260 - 269 pounds,675,1.30%,94.94%,36,0.94%,5.06%,711  1.28%
+270 - 279 pounds,439,0.85%,96.27%,17,0.44%,3.73%,456  0.82%
+280 - 289 pounds,334,0.65%,93.82%,22,0.57%,6.18%,356  0.64%
+290 - 299 pounds,180,0.35%,92.78%,14,0.36%,7.22%,194  0.35%
+300 - 309 pounds,175,0.34%,90.21%,19,0.49%,9.79%,194  0.35%
+310 - 319 pounds,101,0.20%,99.02%,1,0.03%,0.98%,102  0.18%
+320 - 329 pounds,97,0.19%,97.00%,3,0.08%,3.00%,100  0.18%
+330 - 339 pounds,40,0.08%,93.02%,3,0.08%,6.98%,43  0.08%
+340 - 349 pounds,35,0.07%,94.59%,2,0.05%,5.41%,37  0.07%
+350 - 359 pounds,33,0.06%,94.29%,2,0.05%,5.71%,35  0.06%
+360 - 369 pounds,16,0.03%,84.21%,3,0.08%,15.79%,19  0.03%
+370 - 379 pounds,11,0.02%,100.00%,,,,11  0.02%
+380 - 389 pounds,6,0.01%,85.71%,1,0.03%,14.29%,7  0.01%
+390 - 399 pounds,6,0.01%,100.00%,,,,6  0.01%
+400 pounds and over,26,0.05%,86.67%,4,0.10%,13.33%,30  0.05%
+Total Reported,"51,737",100%,93.08%,"3,848",100%,6.92%,"55,585  100%"
+Not Reported,647,14,661
+Grand Total,"52,384","3,862","56,246"
+"",Male,Female,Total
+Mean    (average),187,172,186
+Median (middle),180,165,180
+Mode    (most frequent),180,150,180
+"",,Male,,,Female,,Total
+Military service,Count,Col %,Row %,Count,Col %,Row %,Total Col %
+1 Air Force,"1,597",59.37%,97.98%,33,73.33%,2.02%,"1,630  59.60%"
+2 Army,211,7.84%,98.14%,4,8.89%,1.86%,215  7.86%
+3 Navy,504,18.74%,98.63%,7,15.56%,1.37%,511  18.68%
+4 Marines,23,.86%,100.00%,,,,23  .84%
+5 Coast Guard,355,13.20%,99.72%,1,2.22%,.28%,356  13.02%
+Total Reported,"2,690",100%,98.35%,45,100%,1.65%,"2,735  100%"
+Not Reported,"49,694","3,817","53,511"
+Grand Total,"52,384","3,862","56,246"
+Mode (most frequent),Air Force,Air Force,Air Force
+"",,Male,,Female,,Total
+Type of Admission,Count,Col %,Row % Count,Col %,Row %,Total Col %
+52 New Sentence,"42,711",81.60%,"93.38%  3,029",78.49%,6.62%,"45,740  81.39%"
+53 Probation Rev Partial,"2,164",4.13%,88.62%  278,7.20%,11.38%,"2,442  4.35%"
+54 Probation Rev Remainder,"3,018",5.77%,89.08%  370,9.59%,10.92%,"3,388  6.03%"
+55 Parole Rev New Sentence,"3,004",5.74%,95.94%  127,3.29%,4.06%,"3,131  5.57%"
+56 Parole Rev No New,"1,360",2.60%,96.18%  54,1.40%,3.82%,"1,414  2.52%"
+Sentence,,,,,,
+57 Released In Error,17,.03%,94.44%  1,.03%,5.56%,18  .03%
+65 Return Appeal/Bond,2,.01%,100.00%,,,2  .01%
+66 Prob Viol/Total Rev,1,.01%,100.00%,,,1  .01%
+67 Admit Fm Other Cust,8,.02%,100.00%,,,8  .01%
+69 New Sent/Par Rev Pnd,7,.01%,100.00%,,,7  .01%
+70 Life W/O Parole,15,.03%,100.00%,,,15  .03%
+72 Par Rev/Rsn Unknown,32,.06%,100.00%,,,32  .06%
+74 Pb Parole Rescinded,2,.01%,100.00%,,,2  .01%
+76 Par Rev/Revoc Center,2,.01%,100.00%,,,2  .01%
+Total Reported,"52,343",100%,"93.13%  3,859",100%,6.87%,"56,202  100%"
+Not Reported,41,3,44
+Grand Total,"52,384","3,862","56,246"
+Mode (most frequent),New Sentence,New Sentence,New Sentence
+"",,Male,,,Female,,Total
+Security Status,Count,Col %,Row %,Count,Col %,Row %,Total Col %
+1 Wrk Releas,2,.01%,66.67%,1,.03%,33.33%,3  .01%
+2 Trusty,4,.01%,100.00%,,.00%,,4  .01%
+3 Minimum,"10,484",20.92%,86.77%,"1,598",47.72%,13.23%,"12,082  22.60%"
+4 Medium,"30,920",61.69%,95.19%,"1,563",46.67%,4.81%,"32,483  60.75%"
+5 Close,"8,624",17.21%,97.88%,187,5.58%,2.12%,"8,811  16.48%"
+6 Maximum,87,.17%,100.00%,,.00%,,87  .16%
+Total Reported,"50,121",100%,93.74%,"3,349",100%,6.26%,"53,470  100%"
+Still being diagnosed,0,0,0
+Not Reported,"2,263",513,"2,776"
+Grand Total,"52,384","3,862","56,246"
+Mode (most frequent),Medium,Minimum,Medium
+"",,Male,,,Female,,Total
+Type of Institution,Count,Col %,Row %,Count,Col %,Row %,Total Col %
+County Ci,"5,193",9.95%,99.98%,1,.03%,.02%,"5,194  9.26%"
+State Prison,"36,936",70.75%,91.15%,"3,587",92.88%,8.85%,"40,523  72.28%"
+Transitional Center,"1,966",3.77%,89.40%,233,6.03%,10.60%,"2,199  3.92%"
+Private Prison,"8,071",15.46%,100.00%,,,,"8,071  14.40%"
+County Jail,28,.05%,93.33%,2,.05%,6.67%,30  .05%
+Rsat - Center,8,.02%,17.39%,38,.98%,82.61%,46  .08%
+State Hospital,3,.01%,75.00%,1,.03%,25.00%,4  .01%
+Total Reported,"52,205",100%,93.11%,"3,862",100%,6.89%,"56,067  100%"
+Not Reported,0,0,0
+Grand Total,"52,205","3,862","56,067"
+Mode (most frequent),State Prison,State Prison,State Prison
+"",,Male,,,Female,,Total
+Institution Type - Trans. Centers,Count,Col %,Row %,Count,Col %,Row %,Total Col %
+Albany Transitional Ct,154,6.81%,100.00%,,,,154  5.91%
+Arrendale State Prison,,,,109,31.87%,100.00%,109  4.19%
+Atl. Transitional Ctr (M),244,10.79%,100.00%,,,,244  9.37%
+Augusta Tc,198,8.75%,100.00%,,,,198  7.60%
+Clayton Tc,350,15.47%,100.00%,,,,350  13.44%
+Coastal Tc,259,11.45%,100.00%,,,,259  9.95%
+Columbus Tc,100,4.42%,100.00%,,,,100  3.84%
+Lagrange Tc,154,6.81%,100.00%,,,,154  5.91%
+Macon Transitional Ctr (M),154,6.81%,100.00%,,,,154  5.91%
+Macon Womens Transit Ctr,,,,3,.88%,100.00%,3  .12%
+Metro Transitional Ctr,,,,230,67.25%,100.00%,230  8.83%
+Phillips State Prison,296,13.09%,100.00%,,,,296  11.37%
+Smith T.C,207,9.15%,100.00%,,,,207  7.95%
+Valdosta Tc,146,6.45%,100.00%,,,,146  5.61%
+Total Reported,"2,262",100%,86.87%,342,100%,13.13%,"2,604  100%"
+Not Reported,0,0,0
+Grand Total,"2,262",342,"2,604"
+Mode (most frequent),Phillips State Prison,Arrendale State Prison,Phillips State
+"",,,Prison
+"",,Male,,,Female,,Total
+Institution Type -  County Prisons,Count,Col %,Row %,Count,Col %,Row %,Total Col %
+Baldwin County Ci,2,.04%,100.00%,,,,2  .04%
+Bulloch County Ci,144,2.77%,100.00%,,,,144  2.77%
+Carroll County Ci,248,4.78%,100.00%,,,,248  4.77%
+Clarke County Ci,108,2.08%,100.00%,,,,108  2.08%
+Clayton County Ci,238,4.58%,100.00%,,,,238  4.58%
+Colquitt County Ci,190,3.66%,100.00%,,,,190  3.66%
+Cook County Ci,1,.02%,100.00%,,,,1  .02%
+Coweta County Ci,212,4.08%,100.00%,,,,212  4.08%
+Decatur County Ci,224,4.31%,100.00%,,,,224  4.31%
+Dougherty County Ci,1,.02%,100.00%,,,,1  .02%
+Effingham County Ci,196,3.77%,100.00%,,,,196  3.77%
+Fayette County Ci,1,.02%,100.00%,,,,1  .02%
+Floyd County Ci,437,8.42%,100.00%,,,,437  8.41%
+Fulton County Ci,9,.17%,100.00%,,,,9  .17%
+Gilmer County Ci,5,.10%,100.00%,,,,5  .10%
+Grady County Ci,2,.04%,100.00%,,,,2  .04%
+Gwinnett County Ci,127,2.45%,100.00%,,,,127  2.45%
+Hall County Ci,214,4.12%,100.00%,,,,214  4.12%
+Hancock County Ci,1,.02%,100.00%,,,,1  .02%
+Harris County Ci,127,2.45%,100.00%,,,,127  2.45%
+Hart County Ci,5,.10%,100.00%,,,,5  .10%
+Henry County Ci,1,.02%,100.00%,,,,1  .02%
+Jackson County Ci,149,2.87%,100.00%,,,,149  2.87%
+Jefferson County Ci,196,3.77%,100.00%,,,,196  3.77%
+Meriwether County Ci,3,.06%,100.00%,,,,3  .06%
+Miller County Ci,1,.02%,100.00%,,,,1  .02%
+Mitchell County Ci,100,1.93%,100.00%,,,,100  1.93%
+Morgan County Ci,1,.02%,100.00%,,,,1  .02%
+Muscogee County Ci,527,10.15%,100.00%,,,,527  10.15%
+Richmond County Ci,228,4.39%,100.00%,,,,228  4.39%
+Screven County Ci,144,2.77%,100.00%,,,,144  2.77%
+Spalding County Ci,388,7.47%,100.00%,,,,388  7.47%
+Stewart County Ci,2,.04%,100.00%,,,,2  .04%
+Sumter County Ci,349,6.72%,100.00%,,,,349  6.72%
+Terrell County Ci,140,2.70%,100.00%,,,,140  2.70%
+Thomas County Ci,187,3.60%,100.00%,,,,187  3.60%
+Tift County Ci,1,.02%,100.00%,,,,1  .02%
+Troup County Ci,273,5.26%,100.00%,,,,273  5.26%
+"",,Male,,,Female,,Total,
+Institution Type -  County Prisons,Count,Col %,Row %,Count,Col %,Row %,Total,Col %
+Turner County Ci,1,.02%,100.00%,,,,1,.02%
+Upson County Ci,2,.04%,100.00%,,,,2,.04%
+Walker County Ci,3,.06%,100.00%,,,,3,.06%
+Walton County Ci,3,.06%,100.00%,,,,3,.06%
+Wilkes County Ci,1,.02%,100.00%,,,,1,.02%
+Womens Ci,,,,1  100.00%,,100.00%,1,.02%
+Worth County Ci,1,.02%,100.00%,,,,1,.02%
+Total Reported,"5,193",100%,99.98%,1,100%,.02%,"5,194",100%
+Not Reported,0,0,0
+Grand Total,"5,193",1,"5,194"
+Mode (most frequent),Muscogee County Ci,Womens Ci,Muscogee County
+"",,,Ci
+"",,Male,,,Female,,Total
+Institution Type - State Prisons,Count,Col %,Row %,Count,Col %,Row %,Total Col %
+Arrendale State Prison,,,,"1,591",44.35%,100.00%,"1,591  3.93%"
+Augusta State Med. Prison,"1,316",3.56%,99.62%,5,.14%,.38%,"1,321  3.26%"
+Autry State Prison,"1,707",4.62%,100.00%,,,,"1,707  4.21%"
+Baldwin State Prison,857,2.32%,100.00%,,,,857  2.11%
+Burrus Corr Trn Cntr,689,1.87%,100.00%,,,,689  1.70%
+Calhoun State Prison,"1,673",4.53%,100.00%,,,,"1,673  4.13%"
+Central State Prison,"1,131",3.06%,100.00%,,,,"1,131  2.79%"
+Chatham State Prison,6,.02%,100.00%,,,,6  .01%
+Coastal State Prison,"1,703",4.61%,100.00%,,,,"1,703  4.20%"
+Dodge State Prison,"1,239",3.35%,100.00%,,,,"1,239  3.06%"
+Dooly State Prison,"1,695",4.59%,100.00%,,,,"1,695  4.18%"
+Emanuel - Swainsboro,,,,355,9.90%,100.00%,355  .88%
+Ga Diag Class Prison,"3,437",9.31%,99.97%,1,.03%,.03%,"3,438  8.48%"
+Ga State Prison,"1,501",4.06%,100.00%,,,,"1,501  3.70%"
+Hancock State Prison,"1,259",3.41%,100.00%,,,,"1,259  3.11%"
+Hays State Prison,"1,310",3.55%,100.00%,,,,"1,310  3.23%"
+Helms Facility,16,.04%,48.48%,17,.47%,51.52%,33  .08%
+Johnson State Prison,"1,587",4.30%,100.00%,,,,"1,587  3.92%"
+Lee State Prison,752,2.04%,100.00%,,,,752  1.86%
+Long,227,.61%,100.00%,,,,227  .56%
+Lowndes Unit,6,.02%,100.00%,,,,6  .01%
+Macon State Prison,"1,766",4.78%,100.00%,,,,"1,766  4.36%"
+Metro State Prison (W),,,,1,.03%,100.00%,1  .01%
+Montgomery State Prison,416,1.13%,100.00%,,,,416  1.03%
+Phillips State Prison,"1,157",3.13%,100.00%,,,,"1,157  2.86%"
+Pulaski State Prison,,,,"1,204",33.57%,100.00%,"1,204  2.97%"
+Putnam State Prison,3,.01%,100.00%,,,,3  .01%
+Rivers State Prison,1,.01%,100.00%,,,,1  .01%
+Rogers State Prison,"1,496",4.05%,100.00%,,,,"1,496  3.69%"
+Rutledge State Prison,629,1.70%,100.00%,,,,629  1.55%
+Smith State Prison,"1,552",4.20%,100.00%,,,,"1,552  3.83%"
+Telfair State Prison,"1,265",3.42%,100.00%,,,,"1,265  3.12%"
+Valdosta Sp,"1,351",3.66%,100.00%,,,,"1,351  3.33%"
+Walker State Prison,410,1.11%,100.00%,,,,410  1.01%
+Ware State Prison,"1,554",4.21%,100.00%,,,,"1,554  3.83%"
+Washington State Prison,"1,344",3.64%,100.00%,,,,"1,344  3.32%"
+Wayne State Prison,2,.01%,100.00%,,,,2  .01%
+Whitworth Facility,,,,413,11.51%,100.00%,413  1.02%
+"",,Male,,,Female,,Total
+Institution Type - State Prisons,Count,Col %,Row %,Count,Col %,Row %,Total Col %
+Wilcox State Prison,"1,879",5.09%,100.00%,,,,"1,879  4.64%"
+Total Reported,"36,936",100%,91.15%,"3,587",100%,8.85%,"40,523  100%"
+Not Reported,0,0,0
+Grand Total,"36,936","3,587","40,523"
+Mode (most frequent),Ga Diag Class Prison,Arrendale State Prison,Ga Diag Class
+"",,,Prison
+"",,Male,,,Female,,Total
+Institution Type - Private Prisons,Count,Col %,Row %,Count,Col %,Row %,Total Col %
+Coffee Corr Facility,"2,654",32.88%,100.00%,,,,"2,654  32.88%"
+Jenkins Corr Facility,"1,164",14.42%,100.00%,,,,"1,164  14.42%"
+Riverbend Corr Facility,"1,509",18.70%,100.00%,,,,"1,509  18.70%"
+Wheeler Corr Facility,"2,744",34.00%,100.00%,,,,"2,744  34.00%"
+Total Reported,"8,071",100%,100%,,,%,"8,071  100%"
+Not Reported,0,0,0
+Grand Total,"8,071",0,"8,071"
+Mode (most frequent),Wheeler Corr Facility,Null,Wheeler Corr
+"",,,Facility
+"",,Male,,,Female,,Total,
+Institution Type - Prison Annexe,Count,Col %,Row %,Count,Col %,Row %,Total,Col %
+Total Reported,,,,,,,,
+Not Reported,0,0,0
+Grand Total,,,
+Mode (most frequent),Null,Null,Null
+"",,Male,,,Female,,Total,
+Institution Type - Boot Camps,Count,Col %,Row %,Count,Col %,Row %,Total,Col %
+Total Rported,,,,,,,,
+Not Reported,0,0,0
+Grand Total,,,
+Mode (most frequent),Null,Null,Null
+"",,Male,,,Female,,Total
+Number of Disciplinary Reports,Count,Col %,Row %,Count,Col %,Row %,Total Col %
+0,"23,394",44.66%,90.68%,"2,404",62.25%,9.32%,"25,798  45.87%"
+1,"6,645",12.69%,93.34%,474,12.27%,6.66%,"7,119  12.66%"
+2,"4,122",7.87%,94.85%,224,5.80%,5.15%,"4,346  7.73%"
+3,"2,612",4.99%,95.12%,134,3.47%,4.88%,"2,746  4.88%"
+4,"1,946",3.71%,95.02%,102,2.64%,4.98%,"2,048  3.64%"
+5,"1,588",3.03%,96.01%,66,1.71%,3.99%,"1,654  2.94%"
+More Than 5,"12,077",23.05%,96.35%,458,11.86%,3.65%,"12,535  22.29%"
+Total Reported,"52,384",100%,93.13%,"3,862",100%,6.87%,"56,246  100.0%"
+Not Reported,0,0,0
+Grand Total,"52,384","3,862","56,246"
+Mean(average),,5.27,2.64,5.09
+Median (middle),,1,0,1
+Mode(most frequent),,0,0,0
+"",,Male,,,Female,,Total
+Number of Transfers,Count,Col %,Row %,Count,Col %,Row %,Total Col %
+0,"4,476",8.54%,83.07%,912,23.61%,16.93%,"5,388  9.58%"
+1,508,0.97%,86.54%,79,2.05%,13.46%,587  1.04%
+2,"15,749",30.06%,92.50%,"1,277",33.07%,7.50%,"17,026  30.27%"
+3,"2,358",4.50%,91.11%,230,5.96%,8.89%,"2,588  4.60%"
+4,"6,830",13.04%,92.50%,554,14.34%,7.50%,"7,384  13.13%"
+5,"2,701",5.16%,94.08%,170,4.40%,5.92%,"2,871  5.10%"
+More Than 5,"19,762",37.73%,96.86%,640,16.57%,3.14%,"20,402  36.27%"
+Total Reported,"52,384",100%,93.13%,"3,862",100%,6.87%,"56,246  100%"
+Not Reported,0,0,0
+Grand Total,"52,384","3,862","56,246"
+Mean(average),,5.93,3.07,5.73
+Median (middle),,4,2,4
+Mode(most frequent),,2,2,2
+"",,Male,,,Female,,Total
+Number of Escapes,Count,Col %,Row %,Count,Col %,Row %,Total Col %
+0,"51,768",98.82%,93.08%,"3,850",99.69%,6.92%,"55,618  98.88%"
+1,541,1.03%,97.83%,12,0.31%,2.17%,553  0.98%
+2,65,0.12%,100.00%,,,,65  0.12%
+3,8,0.02%,100.00%,,,,8  0.01%
+4,2,0.01%,100.00%,,,,2  0.01%
+Total Reported,"52,384",100%,93.13%,"3,862",100%,6.87%,"56,246  100%"
+Not Reported,0,0,0
+Grand Total,"52,384","3,862","56,246"
+Mean(average),,.01,,.01
+Median (middle),,0,0,0
+Mode(most frequent),,0,0,0
+"",,Male,,,Female,,Total
+Probation to follow,Count,Col %,Row %,Count,Col %,Row %,Total Col %
+Yes,"34,674",66.19%,92.34%,"2,875",74.44%,7.66%,"37,549  66.76%"
+No,"17,710",33.81%,94.72%,987,25.56%,5.28%,"18,697  33.24%"
+Total Reported,"52,384",100%,93.13%,"3,862",100%,6.87%,"56,246  100%"
+Grand Total,"52,384","3,862","56,246"
+Mode,(most frequent),Yes,Yes,Yes
+"",,Male,,Female,,Total
+Probable Future Release Type,Count,Col %,Row % Count,Col %,Row %,Total Col %
+Paroled with probation to follow,"10,190",19.82%,91.61%  933,24.81%,8.39%,"11,123  20.16%"
+Paroled w/o probation to follow,"3,147",6.12%,93.88%  205,5.45%,6.12%,"3,352  6.08%"
+Maxout with probation to follow,"22,911",44.56%,"92.58%  1,836",48.82%,7.42%,"24,747  44.85%"
+Maxout w/o probation to follow,"7,413",14.42%,94.37%  442,11.75%,5.63%,"7,855  14.24%"
+"Life, LWOP or death sentence","7,752",15.08%,95.74%  345,9.17%,4.26%,"8,097  14.68%"
+Total Reported,"51,413",100%,"93.18%  3,761",100%,6.82%,"55,174  100%"
+Released,0,0,0
+Grand Total,"51,413","3,761","55,174"
+Mode (most frequent),Maxout with PROB follow,Maxout with PROB follow,Maxout with PROB
+"",,,follow
+"",,Male,,,Female,,Total
+Time In Institution,Count,Col %,Row %,Count,Col %,Row %,Total Col %
+0 to 3 months,"13,744",26.24%,89.28%,"1,650",42.72%,10.72%,"15,394  27.37%"
+3.01 to 6 months,"7,061",13.48%,94.94%,376,9.74%,5.06%,"7,437  13.22%"
+6.01 to 9 months,"5,943",11.35%,94.42%,351,9.09%,5.58%,"6,294  11.19%"
+9.01 to 12 months,"4,978",9.50%,95.24%,249,6.45%,4.76%,"5,227  9.29%"
+12.01 to 18 months,"6,619",12.64%,95.21%,333,8.62%,4.79%,"6,952  12.36%"
+18.01 to 24 months,"4,162",7.95%,91.86%,369,9.55%,8.14%,"4,531  8.06%"
+2.01 to 3 years,"4,089",7.81%,94.65%,231,5.98%,5.35%,"4,320  7.68%"
+3.01 to 4 years,"2,047",3.91%,95.30%,101,2.62%,4.70%,"2,148  3.82%"
+4.01 to 5 years,"1,373",2.62%,95.28%,68,1.76%,4.72%,"1,441  2.56%"
+5.01 to 6 years,590,1.13%,96.09%,24,0.62%,3.91%,614  1.09%
+6.01 to 7 years,381,0.73%,94.78%,21,0.54%,5.22%,402  0.71%
+7.01 to 8 years,311,0.59%,87.36%,45,1.17%,12.64%,356  0.63%
+8.01 to 9 years,170,0.32%,93.41%,12,0.31%,6.59%,182  0.32%
+9.01 to 10 years,149,0.28%,97.39%,4,0.10%,2.61%,153  0.27%
+Over 10 years,767,1.46%,96.48%,28,0.73%,3.52%,795  1.41%
+Total Reported,"52,384",100%,93.13%,"3,862",100%,6.87%,"56,246  100%"
+Not Reported,0,0,0
+Grand Total,"52,384","3,862","56,246"
+Mean(average),,20 months,13 months,20 months
+Median (middle),,9 months,5 months,8 months
+Mode(most frequent),,0 months,1 months,1 months
+"",,Male,,,Female,,Total
+Grade Level,Count,Col %,Row %,Count,Col %,Row %,Total Col %
+No school at all,21,0.04%,95.45%,1,0.03%,4.55%,22  0.04%
+Grade 1,41,0.08%,93.18%,3,0.08%,6.82%,44  0.08%
+Grade 2,85,0.17%,96.59%,3,0.08%,3.41%,88  0.16%
+Grade 3,121,0.24%,94.53%,7,0.19%,5.47%,128  0.24%
+Grade 4,127,0.25%,98.45%,2,0.05%,1.55%,129  0.24%
+Grade 5,186,0.37%,93.94%,12,0.32%,6.06%,198  0.37%
+Grade 6,679,1.36%,95.77%,30,0.81%,4.23%,709  1.32%
+Grade 7,898,1.80%,92.86%,69,1.86%,7.14%,967  1.80%
+Grade 8,"3,344",6.70%,92.61%,267,7.20%,7.39%,"3,611  6.74%"
+Grade 9,"6,098",12.22%,94.40%,362,9.76%,5.60%,"6,460  12.05%"
+Grade 10,"8,124",16.28%,95.18%,411,11.08%,4.82%,"8,535  15.92%"
+Grade 11,"8,162",16.36%,95.34%,399,10.76%,4.66%,"8,561  15.97%"
+Grade 12 or GED,"16,685",33.44%,93.19%,"1,219",32.87%,6.81%,"17,904  33.40%"
+Some tech school,287,0.58%,70.34%,121,3.26%,29.66%,408  0.76%
+Completed tech school,306,0.61%,70.18%,130,3.50%,29.82%,436  0.81%
+"College, 1 year","1,471",2.95%,87.98%,201,5.42%,12.02%,"1,672  3.12%"
+"College, 2 year","1,943",3.89%,87.48%,278,7.50%,12.52%,"2,221  4.14%"
+"College, 3 year",506,1.01%,88.46%,66,1.78%,11.54%,572  1.07%
+Bachelor's degree,651,1.30%,86.57%,101,2.72%,13.43%,752  1.40%
+Master's degree,117,0.23%,84.17%,22,0.59%,15.83%,139  0.26%
+Ph.D. degree,20,0.04%,100.00%,,,,20  0.04%
+Law degree,19,0.04%,86.36%,3,0.08%,13.64%,22  0.04%
+Medical degree,9,0.02%,81.82%,2,0.05%,18.18%,11  0.02%
+Total Reported,"49,900",100%,93.08%,"3,709",100%,6.92%,"53,609  100%"
+Not Reported,"2,484",153,"2,637"
+Grand Total,"52,384","3,862","56,246"
+Mean(average),,10.83,11.40,10.87
+Median (middle),,Grade 11,Grade 12 or GED,Grade 11
+Mode(most frequent),,Grade 12 or GED,Grade 12 or GED,Grade 12 or GED
+"",,Male,,,Female,,Total
+IQ Scores,Count,Col %,Row %,Count,Col %,Row %,Total Col %
+60 - 69,"1,273",2.71%,94.51%,74,2.21%,5.49%,"1,347  2.68%"
+70 - 79,"3,533",7.53%,92.49%,287,8.57%,7.51%,"3,820  7.60%"
+80 - 89,"7,155",15.24%,89.43%,846,25.25%,10.57%,"8,001  15.91%"
+90 - 99,"12,978",27.65%,91.38%,"1,224",36.54%,8.62%,"14,202  28.24%"
+100 - 109,"12,516",26.66%,96.37%,471,14.06%,3.63%,"12,987  25.82%"
+110 - 119,"8,016",17.08%,97.18%,233,6.96%,2.82%,"8,249  16.40%"
+120 - 129,"1,404",2.99%,91.47%,131,3.91%,8.53%,"1,535  3.05%"
+130 - 139,58,0.12%,50.00%,58,1.73%,50.00%,116  0.23%
+140  & Up,12,0.03%,31.58%,26,0.78%,68.42%,38  0.08%
+Total Reported,"46,945",100%,93.34%,"3,350",100.0%,6.66%,"50,295  100.0%"
+Not Reported,"4,584",321,"4,905"
+Not Valid (under 60),855,191,"1,046"
+Grand Total,"52,384","3,862","56,246"
+Mean(average),,98,95,98
+Median (middle),,99,94,99
+Mode(most frequent),,99,99,99
+"",,Male,,,Female,,Total
+WRAT Reading Score,Count,Col %,Row %,Count,Col %,Row %,Total Col %
+0.1 to 0.9,524,2.07%,98.87%,6,0.54%,1.13%,530  2.01%
+1.0 to 1.9,609,2.41%,98.54%,9,0.81%,1.46%,618  2.34%
+2.0 to 2.9,"1,136",4.49%,97.51%,29,2.61%,2.49%,"1,165  4.41%"
+3.0 to 3.9,"2,129",8.41%,97.66%,51,4.59%,2.34%,"2,180  8.25%"
+4.0 to 4.9,"2,429",9.59%,96.70%,83,7.48%,3.30%,"2,512  9.50%"
+5.0 to 5.9,"2,135",8.43%,97.44%,56,5.05%,2.56%,"2,191  8.29%"
+6.0 to 6.9,"2,154",8.51%,96.59%,76,6.85%,3.41%,"2,230  8.44%"
+7.0 to 7.9,"1,048",4.14%,95.62%,48,4.32%,4.38%,"1,096  4.15%"
+8.0 to 8.9,"2,064",8.15%,96.45%,76,6.85%,3.55%,"2,140  8.10%"
+9.0 to 9.9,"1,660",6.56%,96.62%,58,5.23%,3.38%,"1,718  6.50%"
+10.0 to 10.9,"1,372",5.42%,95.41%,66,5.95%,4.59%,"1,438  5.44%"
+11.0 to 11.9,"1,718",6.78%,94.86%,93,8.38%,5.14%,"1,811  6.85%"
+12.0 to 12.9,"5,140",20.30%,94.14%,320,28.83%,5.86%,"5,460  20.66%"
+13,"1,203",4.75%,89.64%,139,12.52%,10.36%,"1,342  5.08%"
+Total Reported,"25,321",100%,95.80%,"1,110",100.0%,4.20%,"26,431  100.0%"
+Not Reported,"27,063","2,752","29,815"
+Grand Total,"52,384","3,862","56,246"
+Mean(average),,8.04,9.57,8.10
+Median (middle),,8.2,10.8,8.2
+Mode(most frequent),,12.8,12.9,12.8
+"",,Male,,,Female,,Total
+WRAT Mathematic Score,Count,Col %,Row %,Count,Col %,Row %,Total Col %
+0.1 to 0.9,74,0.29%,98.67%,1,0.09%,1.33%,75  0.28%
+1.0 to 1.9,178,0.70%,98.34%,3,0.27%,1.66%,181  0.69%
+2.0 to 2.9,615,2.43%,97.00%,19,1.71%,3.00%,634  2.40%
+3.0 to 3.9,"1,519",6.00%,97.31%,42,3.79%,2.69%,"1,561  5.91%"
+4.0 to 4.9,"2,983",11.79%,97.26%,84,7.57%,2.74%,"3,067  11.62%"
+5.0 to 5.9,"3,658",14.46%,96.59%,129,11.63%,3.41%,"3,787  14.34%"
+6.0 to 6.9,"5,729",22.65%,96.32%,219,19.75%,3.68%,"5,948  22.53%"
+7.0 to 7.9,"2,942",11.63%,96.24%,115,10.37%,3.76%,"3,057  11.58%"
+8.0 to 8.9,"2,127",8.41%,94.66%,120,10.82%,5.34%,"2,247  8.51%"
+9.0 to 9.9,"1,718",6.79%,95.18%,87,7.84%,4.82%,"1,805  6.84%"
+10.0 to 10.9,838,3.31%,96.77%,28,2.52%,3.23%,866  3.28%
+11.0 to 11.9,902,3.57%,92.89%,69,6.22%,7.11%,971  3.68%
+12 .0 to 12.9,"1,860",7.35%,91.85%,165,14.88%,8.15%,"2,025  7.67%"
+13,153,0.60%,84.53%,28,2.52%,15.47%,181  0.69%
+Total Reported,"25,296",100%,95.80%,"1,109",100%,4.20%,"26,405  100.0%"
+Not Reported,"27,088","2,753","29,841"
+Grand Total,"52,384","3,862","56,246"
+Mean(average),,7.08,8.08,7.13
+Median (middle),,6.5,7.4,6.8
+Mode(most frequent),,6.5,12.9,6.5
+"",,Male,,,Female,,Total
+WRAT Spelling Score,Count,Col %,Row %,Count,Col %,Row %,Total Col %
+0.1 to 0.9,551,2.17%,99.46%,3,0.27%,0.54%,554  2.09%
+1.0 to 1.9,952,3.75%,98.76%,12,1.08%,1.24%,964  3.64%
+2.0 to 2.9,"1,639",6.46%,98.44%,26,2.34%,1.56%,"1,665  6.29%"
+3.0 to 3.9,"2,117",8.34%,98.51%,32,2.88%,1.49%,"2,149  8.11%"
+4.0 to 4.9,"2,142",8.44%,97.50%,55,4.94%,2.50%,"2,197  8.30%"
+5.0 to 5.9,"3,006",11.85%,97.16%,88,7.91%,2.84%,"3,094  11.68%"
+6.0 to 6.9,"2,704",10.66%,96.71%,92,8.27%,3.29%,"2,796  10.56%"
+7.0 to 7.9,"2,154",8.49%,95.90%,92,8.27%,4.10%,"2,246  8.48%"
+8.0 to 8.9,"1,971",7.77%,95.26%,98,8.81%,4.74%,"2,069  7.81%"
+9.0 to 9.9,"1,569",6.18%,95.67%,71,6.38%,4.33%,"1,640  6.19%"
+10.0 to 10.9,"1,433",5.65%,95.53%,67,6.02%,4.47%,"1,500  5.66%"
+11.0 to 11.9,"1,339",5.28%,94.03%,85,7.64%,5.97%,"1,424  5.38%"
+12.0 to 12.9,"3,241",12.77%,91.19%,313,28.12%,8.81%,"3,554  13.42%"
+13,553,2.18%,87.50%,79,7.10%,12.50%,632  2.39%
+Total Reported,"25,371",100%,95.80%,"1,113",100.0%,4.20%,"26,484  100%"
+Not Reported,"27,013","2,749","29,762"
+Grand Total,"52,384","3,862","56,246"
+Mean(average),,7.21,9.35,7.30
+Median (middle),,6.7,9.6,6.7
+Mode(most frequent),,12.9,12.9,12.9
+"",,Male,,,Female,,Total
+Substance Abuse,Count,Col %,Row %,Count,Col %,Row %,Total Col %
+None,"39,225",74.88%,92.11%,"3,362",87.05%,7.89%,"42,587  75.72%"
+Drugs only,"7,044",13.45%,94.96%,374,9.68%,5.04%,"7,418  13.19%"
+Alcohol only,"1,532",2.92%,98.08%,30,0.78%,1.92%,"1,562  2.78%"
+Drugs and alcohol,"4,583",8.75%,97.95%,96,2.49%,2.05%,"4,679  8.32%"
+Total Reported,"52,384",100%,93.13%,"3,862",100%,6.87%,"56,246  100.0%"
+Not Reported,0,0,0
+Grand Total,"52,384","3,862","56,246"
+Mode,(most frequent),None,None,None
+"",,Male,,,Female,,Total
+Substance Abuse,Count,Col %,Row %,Count,Col %,Row %,Total Col %
+No drug or alcohol problems,"39,225",74.88%,92.11%,"3,362",87.05%,7.89%,"42,587  75.72%"
+Drug addiction but no alcohol,130,0.25%,92.86%,10,0.26%,7.14%,140  0.25%
+Drug addiction and alcohol,66,0.13%,98.51%,1,0.03%,1.49%,67  0.12%
+abuse,,,,,,,
+Drug addiction and alcoholism,46,0.09%,100.00%,,,,46  0.08%
+No drug problem but alcohol,"1,275",2.43%,99.07%,12,0.31%,0.93%,"1,287  2.29%"
+abuse,,,,,,,
+No drug problem but alcoholism,257,0.49%,93.45%,18,0.47%,6.55%,275  0.49%
+Drug experiment but no alcohol,"3,588",6.85%,97.29%,100,2.59%,2.71%,"3,688  6.56%"
+Drug experiment & alcohol,729,1.39%,98.65%,10,0.26%,1.35%,739  1.31%
+abuse,,,,,,,
+Drug experiment & alcoholism,233,0.44%,95.88%,10,0.26%,4.12%,243  0.43%
+Drug abuse but no alcohol,"3,326",6.35%,92.65%,264,6.84%,7.35%,"3,590  6.38%"
+Drug abuse and alcohol abuse,"2,961",5.65%,98.80%,36,0.93%,1.20%,"2,997  5.33%"
+Drug abuse and alcoholism,548,1.05%,93.36%,39,1.01%,6.64%,587  1.04%
+Total Reported,"52,384",100%,93.13%,"3,862",100%,6.87%,"56,246  100%"
+Not Reported,0,0,0
+Grand Total,"52,384","3,862","56,246"
+Mode,(most frequent),No drug or alcohol problems No drug or alcohol problems No drug or alcohol
+"",,problems
+"",,Male,,,Female,,Total
+Mental Health Treatment Lev,Count,Col %,Row %,Count,Col %,Row %,Total Col %
+1 No problem at current time,"7,848",51.10%,91.12%,765,30.85%,8.88%,"8,613  48.29%"
+2 Receiving outpatient,"5,420",35.29%,76.51%,"1,664",67.10%,23.49%,"7,084  39.72%"
+treatment,,,,,,,
+"3 Inpatient, moderate","1,702",11.08%,97.87%,37,1.49%,2.13%,"1,739  9.75%"
+treatment,,,,,,,
+"4 Inpatient, intensive",362,2.36%,96.28%,14,0.56%,3.72%,376  2.11%
+treatment,,,,,,,
+5 Undergoing crisis,19,0.12%,100.00%,,,,19  0.11%
+stabilization,,,,,,,
+6 Hospital for criminally,6,0.04%,100.00%,,,,6  0.03%
+insane,,,,,,,
+Total Evaluated,"15,357",100%,86.10%,"2,480",100%,13.90%,"17,837  100.0%"
+Never had MH evaluation,"37,027","1,382","38,409"
+Grand Total,"52,384","3,862","56,246"
+Median (middle),No problem at current time,Receiving outpatient,Receiving
+"",,treatment,outpatient
+"",,,treatment
+Mode(most frequent),No problem at current time,Receiving outpatient,No problem at
+"",,treatment,current time
+"",,Male,,,Female,,Total
+'P' Overall Condition,Count,Col %,Row %,Count,Col %,Row %,Total Col %
+1  No medical illness,"34,894",74.01%,94.42%,"2,062",61.55%,5.58%,"36,956  73.18%"
+2  Well-controlled chronic,"11,038",23.41%,90.25%,"1,192",35.58%,9.75%,"12,230  24.22%"
+illness,,,,,,,
+3  Poorly-controlled chronic,"1,123",2.38%,96.07%,46,1.37%,3.93%,"1,169  2.31%"
+illness,,,,,,,
+4  Significant problems requiring,80,0.17%,87.91%,11,0.33%,12.09%,91  0.18%
+special housing,,,,,,,
+"5  Terminal illness, < 6 months",14,0.03%,100.00%,,,,14  0.03%
+to live,,,,,,,
+6  Inmate is pregnant,,,,39,1.16%,100.00%,39  0.08%
+Total Reported,"47,149",100%,93.37%,"3,350",100%,6.63%,"50,499  100%"
+Not Reported,"5,235",512,"5,747"
+Grand Total,"52,384","3,862","56,246"
+Mode,(most frequent),1 No medical illness,1 No medical illness,1 No medical
+"",,,,illness
+"",,Male,,,Female,,Total
+'U' Upper Body,Count,Col %,Row %,Count,Col %,Row %,Total Col %
+"1  Upper bones, joints,","44,907",95.41%,93.43%,"3,158",94.32%,6.57%,"48,065  95.34%"
+muscles all OK,,,,,,,
+2  One or both arms minimally,"1,823",3.87%,91.47%,170,5.08%,8.53%,"1,993  3.95%"
+limited,,,,,,,
+3  One or both arms,286,0.61%,94.08%,18,0.54%,5.92%,304  0.60%
+moderately limited,,,,,,,
+"4  One arm disabled,",45,0.10%,95.74%,2,0.06%,4.26%,47  0.09%
+"paralyzed, or amputated",,,,,,,
+"5  Both arms disabled,",5,0.01%,100.00%,,,,5  0.01%
+"paralyzed, or amputated",,,,,,,
+Total Reported,"47,066",100%,93.36%,"3,348",100%,6.64%,"50,414  100%"
+Not Reported,"5,318",514,"5,832"
+Grand Total,"52,384","3,862","56,246"
+Mode,(most frequent),"1 Upper bones, joints,","1 Upper bones, joints,","1 Upper bones,"
+"",,muscles all OK,muscles all OK,"joints, muscles all"
+"",,,,OK
+"",,Male,,,Female,,Total
+'L' Lower Body,Count,Col %,Row %,Count,Col %,Row %,Total Col %
+"1  Lower bones, joints,","41,637",88.46%,93.59%,"2,854",85.27%,6.41%,"44,491  88.24%"
+muscles all OK,,,,,,,
+2  One or both legs minimally,"4,608",9.79%,90.87%,463,13.83%,9.13%,"5,071  10.06%"
+limited,,,,,,,
+3  One or both legs,696,1.48%,96.53%,25,0.75%,3.47%,721  1.43%
+moderately limited,,,,,,,
+"4  One leg disabled, paralyzed,",123,0.26%,96.09%,5,0.15%,3.91%,128  0.25%
+or amputated,,,,,,,
+"5  Both legs disabled,",7,0.01%,100.00%,,,,7  0.01%
+"paralyzed, or amputated",,,,,,,
+Total Reported,"47,071",100%,93.36%,"3,347",100%,6.64%,"50,418  100%"
+Not Reported,"5,313",515,"5,828"
+Grand Total,"52,384","3,862","56,246"
+Mode,(most frequent),"1 Lower bones, joints,","1 Lower bones, joints,","1 Lower bones,"
+"",,muscles all OK,muscles all OK,"joints, muscles all"
+"",,,,OK
+"",,Male,,,Female,,Total
+'H' Hearing,Count,Col %,Row %,Count,Col %,Row %,Total Col %
+1  Normal hearing both ears,"46,466",98.75%,93.36%,"3,305",98.77%,6.64%,"49,771  98.76%"
+2  Some loss in one ear with,450,0.96%,92.21%,38,1.14%,7.79%,488  0.97%
+"other OK, or mild loss in both",,,,,,,
+3  Total loss in one ear with,102,0.22%,97.14%,3,0.09%,2.86%,105  0.21%
+mild loss in other,,,,,,,
+4  Severe loss in both ears,22,0.05%,100.00%,,,,22  0.04%
+"5  Total loss in both ears,",12,0.03%,100.00%,,,,12  0.02%
+requiring special housing,,,,,,,
+Total Reported,"47,052",100%,93.36%,"3,346",100%,6.64%,"50,398  100%"
+Not Reported,"5,332",516,"5,848"
+Grand Total,"52,384","3,862","56,246"
+Mode,(most frequent),1 Normal hearing both ears,1 Normal hearing both ears,1 Normal hearing
+"",,,,both ears
+"",,Male,,,Female,,Total
+'E' Vision,Count,Col %,Row %,Count,Col %,Row %,Total Col %
+1  Correctable to 20/40 in both,"36,713",79.49%,95.75%,"1,629",48.87%,4.25%,"38,342  77.43%"
+eyes,,,,,,,
+2  Correctable to 20/70 in one,"8,539",18.49%,84.75%,"1,536",46.08%,15.25%,"10,075  20.35%"
+"eye, may be blind in other",,,,,,,
+3  Correctable to 20/200 in one,804,1.74%,85.62%,135,4.05%,14.38%,939  1.90%
+"eye, may be blind in other",,,,,,,
+4  One eye not correctable to,120,0.26%,79.47%,31,0.93%,20.53%,151  0.30%
+"20/200, other may be blind",,,,,,,
+"5  Blind in both eyes, requiring",11,0.02%,84.62%,2,0.06%,15.38%,13  0.03%
+special housing,,,,,,,
+Total Reported,"46,187",100%,93.27%,"3,333",100%,6.73%,"49,520  100.0%"
+Not Reported,"6,197",529,"6,726"
+Grand Total,"52,384","3,862","56,246"
+Mode,(most frequent),1 Correctable to 20/40 in both,1 Correctable to 20/40 in,1 Correctable to
+"",,eyes,both eyes,20/40 in both eyes
+"",,Male,,,Female,,Total
+'S' pSychiatric,Count,Col %,Row %,Count,Col %,Row %,Total Col %
+1  No impairment or disorders,"39,755",86.26%,95.64%,"1,812",55.43%,4.36%,"41,567  84.22%"
+"2  Stable, or in remission, or","4,938",10.71%,77.47%,"1,436",43.93%,22.53%,"6,374  12.91%"
+mild impairment or retardation,,,,,,,
+3  Requires moderate inpatient,"1,184",2.57%,98.67%,16,0.49%,1.33%,"1,200  2.43%"
+treatment,,,,,,,
+4  Requires intensive inpatient,189,0.41%,97.42%,5,0.15%,2.58%,194  0.39%
+treatment,,,,,,,
+5  Requires Crisis Stabilization,22,0.05%,100.00%,,,,22  0.04%
+Unit (CSU) inpatient care,,,,,,,
+Total Reported,"46,088",100%,93.38%,"3,269",100%,6.62%,"49,357  100%"
+Not Reported,"6,296",593,"6,889"
+Grand Total,"52,384","3,862","56,246"
+Mode,(most frequent),1 No impairment or disorders,1 No impairment or,1 No impairment or
+"",,,disorders,disorders
+"",,Male,,,Female,,Total
+'D' Dental,Count,Col %,Row %,Count,Col %,Row %,Total Col %
+1  Minimal routine dental health,"24,234",54.78%,92.26%,"2,032",61.84%,7.74%,"26,266  55.27%"
+needs,,,,,,,
+2  Moderate cavities and/or gum,"15,250",34.47%,93.59%,"1,044",31.77%,6.41%,"16,294  34.28%"
+disease,,,,,,,
+3  Extensive gum disease,"4,737",10.71%,95.76%,210,6.39%,4.24%,"4,947  10.41%"
+and/or widespread decay,,,,,,,
+4  Urgent need for dental,17,0.04%,100.00%,,,,17  0.04%
+services,,,,,,,
+5  Life-threatening disease or,2,0.01%,100.00%,,,,2  0.01%
+extreme pain or infection,,,,,,,
+Total Reported,"44,240",100%,93.09%,"3,286",100%,6.91%,"47,526  100.0%"
+Not Reported,"8,144",576,"8,720"
+Grand Total,"52,384","3,862","56,246"
+Mode,(most frequent),1 Minimal routine dental,1 Minimal routine dental,1 Minimal routine
+"",,health needs,health needs,dental health
+"",,,,needs
+"",,Male,,,Female,,Total
+'W' work ability,Count,Col %,Row %,Count,Col %,Row %,Total Col %
+1  Unrestricted work or activity,"39,166",83.21%,93.31%,"2,809",83.95%,6.69%,"41,975  83.26%"
+2  Minor restrictions on type of,"6,214",13.20%,94.08%,391,11.69%,5.92%,"6,605  13.10%"
+work,,,,,,,
+3  Moderate restrictions on type,"1,134",2.41%,94.11%,71,2.12%,5.89%,"1,205  2.39%"
+of work,,,,,,,
+4  Major restrictions on type of,397,0.84%,89.01%,49,1.46%,10.99%,446  0.88%
+work,,,,,,,
+5  Cannot work under any,156,0.33%,85.71%,26,0.78%,14.29%,182  0.36%
+circumstances,,,,,,,
+Total Reported,"47,067",100%,93.36%,"3,346",100%,6.64%,"50,413  100%"
+Not Reported,"5,317",516,"5,833"
+Grand Total,"52,384","3,862","56,246"
+Mode,(most frequent),1 Unrestricted work or,1 Unrestricted work or,1 Unrestricted
+"",,activity,activity,work or activity
+"",,Male,,,Female,,Total
+'I' Impairment,Count,Col %,Row %,Count,Col %,Row %,Total Col %
+1  No impairments or,"46,718",99.29%,93.38%,"3,311",99.01%,6.62%,"50,029  99.27%"
+disabilities,,,,,,,
+2  Wheelchair-bound but,236,0.50%,89.39%,28,0.84%,10.61%,264  0.52%
+otherwise OK,,,,,,,
+3  Needs low-level Assisted,34,0.07%,94.44%,2,0.06%,5.56%,36  0.07%
+Living (level I),,,,,,,
+4  Needs moderate Assisted,9,0.02%,90.00%,1,0.03%,10.00%,10  0.02%
+Living (level II),,,,,,,
+5  Needs maximal Assisted,54,0.11%,96.43%,2,0.06%,3.57%,56  0.11%
+Living (level III),,,,,,,
+Total Reported,"47,051",100%,93.36%,"3,344",100%,6.64%,"50,395  100%"
+Not Reported,"5,333",518,"5,851"
+Grand Total,"52,384","3,862","56,246"
+Mode,(most frequent),1 No impairments or,1 No impairments or,1 No impairments
+"",,disabilities,disabilities,or disabilities
+"",,Male,,,Female,,Total
+'T' Transportability,Count,Col %,Row %,Count,Col %,Row %,Total Col %
+1  Can be transported in any,"46,816",99.45%,93.38%,"3,317",99.52%,6.62%,"50,133  99.45%"
+ordinary approved vehicle,,,,,,,
+"2  Wheelchair-bound, not",72,0.15%,90.00%,8,0.24%,10.00%,80  0.16%
+needing special vehicle,,,,,,,
+"3  Wheelchair-bound, requires",14,0.03%,100.00%,,,,14  0.03%
+special vehicle,,,,,,,
+4  Needs specially-equipped,6,0.01%,100.00%,,,,6  0.01%
+medical vehicle,,,,,,,
+5  Requires ambulance,168,0.36%,95.45%,8,0.24%,4.55%,176  0.35%
+transport,,,,,,,
+Total Reported,"47,076",100%,93.39%,"3,333",100%,6.61%,"50,409  100%"
+Not Reported,"5,308",529,"5,837"
+Grand Total,"52,384","3,862","56,246"
+Mode,(most frequent),1 Can be transported in any,1 Can be transported in any,1 Can be
+"",,ordinary approved vehicle,ordinary approved vehicle,transported in any
+"",,,,ordinary approved
+"",,,,vehicle
+"",,Male,,,Female,,Total
+Criminality In Family,Count,Col %,Row %,Count,Col %,Row %,Total Col %
+"Yes, criminality in family","4,928",23.48%,93.71%,331,39.45%,6.29%,"5,259  24.09%"
+No criminality in family,"16,064",76.52%,96.93%,508,60.55%,3.07%,"16,572  75.91%"
+Total Reported,"20,992",100%,96.16%,839,100%,3.84%,"21,831  100%"
+Not Reported,"31,392","3,023","34,415"
+Grand Total,"52,384","3,862","56,246"
+Mode,(most frequent),No criminality in family,No criminality in family,No criminality in
+"",,,,family
+"",,Male,,,Female,,Total
+Alcoholism In Family,Count,Col %,Row %,Count,Col %,Row %,Total Col %
+"Yes, alcoholism in family","3,099",14.76%,93.80%,205,24.43%,6.20%,"3,304  15.13%"
+No alcoholism in family,"17,893",85.24%,96.58%,634,75.57%,3.42%,"18,527  84.87%"
+Total Reported,"20,992",100%,96.16%,839,100%,3.84%,"21,831  100%"
+Not Reported,"31,392","3,023","34,415"
+Grand Total,"52,384","3,862","56,246"
+Mode,(most frequent),No alcoholism in family,No alcoholism in family,No alcoholism in
+"",,,,family
+"",,Male,,,Female,,Total
+Drug Abuse In Family,Count,Col %,Row %,Count,Col %,Row %,Total Col %
+"Yes, drug abuse in family","1,733",8.26%,90.17%,189,22.53%,9.83%,"1,922  8.80%"
+No drug abuse in family,"19,259",91.74%,96.74%,650,77.47%,3.26%,"19,909  91.20%"
+Total Reported,"20,992",100%,96.16%,839,100%,3.84%,"21,831  100%"
+Not Reported,"31,392","3,023","34,415"
+Grand Total,"52,384","3,862","56,246"
+Mode,(most frequent),No drug abuse in family,No drug abuse in family,No drug abuse in
+"",,,,family
+"",,Male,,,Female,,Total
+Frequent beatings,Count,Col %,Row %,Count,Col %,Row %,Total Col %
+"Yes, subjected to frequent",997,4.75%,87.30%,145,17.28%,12.70%,"1,142  5.23%"
+beatings,,,,,,,
+Not  subjected to frequent,"19,995",95.25%,96.65%,694,82.72%,3.35%,"20,689  94.77%"
+beatings,,,,,,,
+Total Reported,"20,992",100%,96.16%,839,100%,3.84%,"21,831  100%"
+Not Reported,"31,392","3,023","34,415"
+Grand Total,"52,384","3,862","56,246"
+Mode,(most frequent),Not subjected to frequent,Not subjected to frequent,Not subjected to
+"",,beatings,beatings,frequent beatings
+"",,Male,,,Female,,Total
+Father Absent,Count,Col %,Row %,Count,Col %,Row %,Total Col %
+"Yes, father was absent","10,218",48.68%,96.97%,319,38.02%,3.03%,"10,537  48.27%"
+"No, father was not absent","10,774",51.32%,95.40%,520,61.98%,4.60%,"11,294  51.73%"
+Total Reported,"20,992",100%,96.16%,839,100%,3.84%,"21,831  100%"
+Not Reported,"31,392","3,023","34,415"
+Grand Total,"52,384","3,862","56,246"
+Mode,(most frequent),"No, father was not absent","No, father was not absent","No, father was not"
+"",,,,absent
+"",,Male,,,Female,,Total
+Mother Absent,Count,Col %,Row %,Count,Col %,Row %,Total Col %
+"Yes, mother was absent","2,682",12.78%,95.82%,117,13.95%,4.18%,"2,799  12.82%"
+"No, mother was not absent","18,310",87.22%,96.21%,722,86.05%,3.79%,"19,032  87.18%"
+Total Reported,"20,992",100%,96.16%,839,100%,3.84%,"21,831  100%"
+Not Reported,"31,392","3,023","34,415"
+Grand Total,"52,384","3,862","56,246"
+Mode,(most frequent),"No, mother was not absent","No, mother was not absent","No, mother was"
+"",,,,not absent
+"",,Male,,,Female,,Total
+Manipulative,Count,Col %,Row %,Count,Col %,Row %,Total Col %
+"Yes, manipulative","4,098",20.35%,99.56%,18,2.15%,0.44%,"4,116  19.63%"
+"No, not manipulative","16,036",79.65%,95.14%,820,97.85%,4.86%,"16,856  80.37%"
+Total Reported,"20,134",100%,96.00%,838,100%,4.00%,"20,972  100%"
+Not Reported,"32,250","3,024","35,274"
+Grand Total,"52,384","3,862","56,246"
+Mode,(most frequent),"No, not manipulative","No, not manipulative","No, not"
+"",,,,manipulative
+"",,Male,,,Female,,Total
+Assaultive,Count,Col %,Row %,Count,Col %,Row %,Total Col %
+"Yes, assaultive","11,617",57.70%,95.83%,505,60.26%,4.17%,"12,122  57.80%"
+"No, not assaultive","8,517",42.30%,96.24%,333,39.74%,3.76%,"8,850  42.20%"
+Total Reported,"20,134",100%,96.00%,838,100%,4.00%,"20,972  100%"
+Not Reported,"32,250","3,024","35,274"
+Grand Total,"52,384","3,862","56,246"
+Mode,(most frequent),"Yes, assaultive","Yes, assaultive","Yes, assaultive"
+"",,Male,,,Female,,Total
+Num of Prior GA Incarcerations,Count,Col %,Row %,Count,Col %,Row %,Total Col %
+0,"30,252",57.75%,91.57%,"2,786",72.14%,8.43%,"33,038  58.74%"
+1,"9,395",17.93%,95.21%,473,12.25%,4.79%,"9,868  17.54%"
+2,"5,211",9.95%,95.39%,252,6.53%,4.61%,"5,463  9.71%"
+3,"3,002",5.73%,94.97%,159,4.12%,5.03%,"3,161  5.62%"
+4,"1,848",3.53%,95.90%,79,2.05%,4.10%,"1,927  3.43%"
+5,"1,097",2.09%,96.65%,38,0.98%,3.35%,"1,135  2.02%"
+More Than 5,"1,579",3.01%,95.47%,75,1.94%,4.53%,"1,654  2.94%"
+Total Reported,"52,384",100%,93.13%,"3,862",100.0%,6.87%,"56,246  100%"
+Not Reported,0,0,0
+Grand Total,"52,384","3,862","56,246"
+Mean(average),,1.01,.64,.99
+Median (middle),,0,0,0
+Mode(most frequent),,0,0,0
+"",,Male,,,Female,,Total
+Prison Sentence In Years,Count,Col %,Row %,Count,Col %,Row %,Total Col %
+0 - 1,"1,478",2.82%,90.18%,161,4.17%,9.82%,"1,639  2.91%"
+1.1 - 2,"3,193",6.10%,90.27%,344,8.91%,9.73%,"3,537  6.29%"
+2.1 - 3,"3,836",7.32%,89.02%,473,12.25%,10.98%,"4,309  7.66%"
+3.1 - 4,"3,114",5.94%,90.50%,327,8.47%,9.50%,"3,441  6.12%"
+4.1 - 5,"4,922",9.40%,91.30%,469,12.14%,8.70%,"5,391  9.58%"
+5.1 - 6,"2,310",4.41%,90.16%,252,6.53%,9.84%,"2,562  4.55%"
+6.1 - 7,"2,265",4.32%,92.07%,195,5.05%,7.93%,"2,460  4.37%"
+7.1 - 8,"2,026",3.87%,92.05%,175,4.53%,7.95%,"2,201  3.91%"
+8.1 - 9,"1,605",3.06%,93.48%,112,2.90%,6.52%,"1,717  3.05%"
+9.1 - 10,"5,518",10.53%,93.56%,380,9.84%,6.44%,"5,898  10.49%"
+10.1 - 12,"2,844",5.43%,94.74%,158,4.09%,5.26%,"3,002  5.34%"
+12.1 - 15,"4,000",7.64%,95.24%,200,5.18%,4.76%,"4,200  7.47%"
+15.1 - 20,"4,009",7.65%,95.91%,171,4.43%,4.09%,"4,180  7.43%"
+20.1 - Over,"3,482",6.65%,97.26%,98,2.54%,2.74%,"3,580  6.36%"
+Life,"6,903",13.18%,95.50%,325,8.42%,4.50%,"7,228  12.85%"
+Life Without Parole,787,1.50%,97.40%,21,0.54%,2.60%,808  1.44%
+Death,90,0.17%,98.90%,1,0.03%,1.10%,91  0.16%
+Youthful Offenders,2,0.01%,100.00%,,,,2  0.01%
+Total Reported,"52,384",100%,93.13%,"3,862",100.0%,6.87%,"56,246  100%"
+Not Reported,0,0,0
+Grand Total,"52,384","3,862","56,246"
+Mean,(average),15.19,13.16,15.11
+Mean,(average),24.50,23.63,24.46
+"",,Male,,,Female,,Total
+Felonies and Misdemeanors,Count,Col %,Row %,Count,Col %,Row %,Total Col %
+Felonies,"52,209",99.81%,93.12%,"3,856",99.87%,6.88%,"56,065  99.81%"
+Misdemeanors,99,.19%,95.19%,5,.13%,4.81%,104  .19%
+Total Reported,"52,308",100%,93.13%,"3,861",100%,6.87%,"56,169  100%"
+Not Reported,76,1,77
+Grand Total,"52,384","52,309","56,246"
+Mode (most frequent),Felonies,Felonies,Felonies
+"",,Male,,,Female,,Total
+Crime Categories,Count,Col %,Row %,Count,Col %,Row %,Total Col %
+1 Violent,"24,890",47.74%,94.20%,"1,532",39.85%,5.80%,"26,422  47.20%"
+2 Sex Crime,"8,142",15.62%,98.63%,113,2.94%,1.37%,"8,255  14.75%"
+3 Property,"10,461",20.07%,89.23%,"1,263",32.86%,10.77%,"11,724  20.94%"
+4 Drug,"6,514",12.49%,89.27%,783,20.37%,10.73%,"7,297  13.04%"
+5 Habit/DUI,104,.20%,88.14%,14,.36%,11.86%,118  .21%
+6 Other,"2,022",3.88%,93.57%,139,3.62%,6.43%,"2,161  3.86%"
+Total Reported,"52,133",100%,93.13%,"3,844",100%,6.87%,"55,977  100%"
+Not Reported,251,18,269
+Grand Total,"52,384","3,862","56,246"
+Mode (most frequent),Violent,Violent,Violent
+"",,Male,,,Female,,Total
+Primary Offense,Count,Col %,Row %,Count,Col %,Row %,Total Col %
+F Abandonment Of Child,2,.01%,100.00%,,,,2  .01%
+F Agg Aslt W Intnt To Rape,55,.11%,100.00%,,,,55  .10%
+F Agg Sex Battery Atmpt,1,.01%,100.00%,,,,1  .01%
+F Aggrav Assault,"5,036",9.63%,95.05%,262,6.79%,4.95%,"5,298  9.43%"
+F Aggrav Assault Peace,287,.55%,95.03%,15,.39%,4.97%,302  .54%
+Ofcr,,,,,,,
+F Aggrav Battery,"1,089",2.08%,93.64%,74,1.92%,6.36%,"1,163  2.07%"
+F Aggrav Battery Peace,21,.04%,95.45%,1,.03%,4.55%,22  .04%
+Ofcr,,,,,,,
+"F Aggrav Ch Molest, Atmpt",4,.01%,100.00%,,,,4  .01%
+F Aggrav Child Molestation,"1,264",2.42%,98.52%,19,.49%,1.48%,"1,283  2.28%"
+F Aggrav Cruelty To,9,.02%,90.00%,1,.03%,10.00%,10  .02%
+Animals,,,,,,,
+F Aggrav Sexual Battery,187,.36%,99.47%,1,.03%,.53%,188  .33%
+F Aggrav Sodomy,210,.40%,99.06%,2,.05%,.94%,212  .38%
+F Aggrav Stalking,287,.55%,97.29%,8,.21%,2.71%,295  .53%
+F Aggravated Assault On,5,.01%,100.00%,,,,5  .01%
+65+,,,,,,,
+F Aiding Escape,2,.01%,100.00%,,,,2  .01%
+F Aircraft Hijacking,3,.01%,100.00%,,,,3  .01%
+F Alter Id,2,.01%,100.00%,,,,2  .01%
+F Armed Robbery,"5,529",10.57%,96.75%,186,4.82%,3.25%,"5,715  10.17%"
+F Arson 1st Degree,79,.15%,83.16%,16,.41%,16.84%,95  .17%
+F Arson 2nd Degree,4,.01%,57.14%,3,.08%,42.86%,7  .01%
+F Arson 3rd Degree,1,.01%,100.00%,,,,1  .01%
+F Arson Misc,1,.01%,100.00%,,,,1  .01%
+F Atmpt Aggrav Assault,9,.02%,100.00%,,,,9  .02%
+F Atmpt Aggrav Sodomy,4,.01%,100.00%,,,,4  .01%
+F Atmpt Armed Robbery,96,.18%,96.00%,4,.10%,4.00%,100  .18%
+F Atmpt Burglary,29,.06%,100.00%,,,,29  .05%
+F Atmpt Child Molestation,20,.04%,100.00%,,,,20  .04%
+F Atmpt Cruelty To,1,.01%,100.00%,,,,1  .01%
+Children,,,,,,,
+F Atmpt Kidnap,6,.01%,100.00%,,,,6  .01%
+F Atmpt Murder,45,.09%,93.75%,3,.08%,6.25%,48  .09%
+F Atmpt Rape,41,.08%,97.62%,1,.03%,2.38%,42  .07%
+F Atmpt Robbery,63,.12%,95.45%,3,.08%,4.55%,66  .12%
+F Atmpt Theft By Taking,5,.01%,100.00%,,,,5  .01%
+F Atmpt Viol Substance,22,.04%,78.57%,6,.16%,21.43%,28  .05%
+Act,,,,,,,
+"",,Male,,,Female,,Total
+Primary Offense,Count,Col %,Row %,Count,Col %,Row %,Total Col %
+F Att/Consprcy Commt,50,.10%,87.72%,7,.18%,12.28%,57  .10%
+C/S/Of,,,,,,,
+F Bad Checks,5,.01%,50.00%,5,.13%,50.00%,10  .02%
+F Bail Jumping,2,.01%,100.00%,,,,2  .01%
+F Barratry,1,.01%,100.00%,,,,1  .01%
+F Bestiality,1,.01%,50.00%,1,.03%,50.00%,2  .01%
+F Bigamy,1,.01%,100.00%,,,,1  .01%
+F Bribery Of Contestant,1,.01%,100.00%,,,,1  .01%
+F Burglary,"6,366",12.17%,95.93%,270,6.99%,4.07%,"6,636  11.81%"
+F Carry Concealed Weapon,4,.01%,100.00%,,,,4  .01%
+F Carry Weapon At School,8,.02%,100.00%,,,,8  .01%
+F Child Molestation,"2,621",5.01%,98.05%,52,1.35%,1.95%,"2,673  4.76%"
+F Chop Shop Violation,1,.01%,100.00%,,,,1  .01%
+F Cnspire Traffic Cntrl Sub,15,.03%,93.75%,1,.03%,6.25%,16  .03%
+F Cntrbtng Delinqency,,,,1,.03%,100.00%,1  .01%
+Minor,,,,,,,
+F Computer Pornography,70,.13%,100.00%,,,,70  .12%
+F Computer Theft,10,.02%,52.63%,9,.23%,47.37%,19  .03%
+F Computer Trespass,2,.01%,100.00%,,,,2  .01%
+F Conceal Contraband,1,.01%,100.00%,,,,1  .01%
+F Conceal Death Of,10,.02%,83.33%,2,.05%,16.67%,12  .02%
+Another,,,,,,,
+F Conspiracy,40,.08%,83.33%,8,.21%,16.67%,48  .09%
+F Convsn Paymnts Real,1,.01%,100.00%,,,,1  .01%
+Propy,,,,,,,
+F Convynce Handle,,,,1,.03%,100.00%,1  .01%
+Contrabnd,,,,,,,
+F Crmnl Atmpt,2,.01%,100.00%,,,,2  .01%
+F Crmnl Damage 1st,32,.06%,91.43%,3,.08%,8.57%,35  .06%
+Degree,,,,,,,
+F Crmnl Damage 2nd,90,.17%,92.78%,7,.18%,7.22%,97  .17%
+Degree,,,,,,,
+F Crmnl Interfere Govt,27,.05%,96.43%,1,.03%,3.57%,28  .05%
+Prop,,,,,,,
+F Crmnl Poss Explosives,1,.01%,100.00%,,,,1  .01%
+F Crmnl Solicitation,,,,1,.03%,100.00%,1  .01%
+F Crmnl Trespassing,1,.01%,100.00%,,,,1  .01%
+F Cruelty To Animals,4,.01%,100.00%,,,,4  .01%
+F Cruelty To Children,290,.55%,74.74%,98,2.54%,25.26%,388  .69%
+F Cruelty To Elder Person,15,.03%,65.22%,8,.21%,34.78%,23  .04%
+F Defrauding State,2,.01%,100.00%,,,,2  .01%
+"",,Male,,,Female,,Total
+Primary Offense,Count,Col %,Row %,Count,Col %,Row %,Total Col %
+F Distributing Obscene Mat,1,.01%,100.00%,,,,1  .01%
+F Dogfighting,1,.01%,100.00%,,,,1  .01%
+F Drvng Habtl Violator,11,.02%,84.62%,2,.05%,15.38%,13  .02%
+F Eavesdrop &,3,.01%,100.00%,,,,3  .01%
+Surveillance,,,,,,,
+F Entering Vehicle,90,.17%,96.77%,3,.08%,3.23%,93  .17%
+"F Entice Child, Attempted",5,.01%,100.00%,,,,5  .01%
+F Enticing Child-Indec,71,.14%,95.95%,3,.08%,4.05%,74  .13%
+Purp,,,,,,,
+F Escape,20,.04%,90.91%,2,.05%,9.09%,22  .04%
+F False Certificates,,,,1,.03%,100.00%,1  .01%
+F False Impris Color Legal,1,.01%,100.00%,,,,1  .01%
+F False Imprisonment,188,.36%,96.91%,6,.16%,3.09%,194  .35%
+F False Public Alarm,1,.01%,100.00%,,,,1  .01%
+F False Statements Govt,26,.05%,76.47%,8,.21%,23.53%,34  .06%
+F False Swearing,3,.01%,75.00%,1,.03%,25.00%,4  .01%
+F False Swearng Writtn,5,.01%,100.00%,,,,5  .01%
+Stmt,,,,,,,
+F Family Violence Battery,125,.24%,99.21%,1,.03%,.79%,126  .22%
+F Feticide,1,.01%,50.00%,1,.03%,50.00%,2  .01%
+F Feticide By Vehicle,1,.01%,20.00%,4,.10%,80.00%,5  .01%
+F Financial Identity Fraud,41,.08%,59.42%,28,.73%,40.58%,69  .12%
+F Fleeing/Eluding Police,218,.42%,94.78%,12,.31%,5.22%,230  .41%
+F Forgery 1st Degree,"1,070",2.05%,71.52%,426,11.03%,28.48%,"1,496  2.66%"
+F Forgery 2nd Degree,27,.05%,72.97%,10,.26%,27.03%,37  .07%
+F Fraudulent Access,3,.01%,100.00%,,,,3  .01%
+Compute,,,,,,,
+F Fraudulent Checks,2,.01%,66.67%,1,.03%,33.33%,3  .01%
+F Fraudulent Credit Card,62,.12%,72.94%,23,.60%,27.06%,85  .15%
+F Gang Participation,33,.06%,100.00%,,,,33  .06%
+F Guard Line,11,.02%,68.75%,5,.13%,31.25%,16  .03%
+W/Weapon/Drugs,,,,,,,
+F Habit Traf Viol/Impaired,21,.04%,91.30%,2,.05%,8.70%,23  .04%
+F Habit Traf Viol/Other,23,.04%,100.00%,,,,23  .04%
+F Hijacking Motor Vehicle,38,.07%,100.00%,,,,38  .07%
+F Hindering Appreh Or Pun,4,.01%,66.67%,2,.05%,33.33%,6  .01%
+F Hit-Run W/Injury/Fatality,10,.02%,83.33%,2,.05%,16.67%,12  .02%
+F Homicide By Vessel,24,.05%,85.71%,4,.10%,14.29%,28  .05%
+F Illegal Attm To Obt Drugs,7,.01%,63.64%,4,.10%,36.36%,11  .02%
+F Impersonating Officer,6,.01%,100.00%,,,,6  .01%
+"",,Male,,,Female,,Total
+Primary Offense,Count,Col %,Row %,Count,Col %,Row %,Total Col %
+F Impersonation,2,.01%,66.67%,1,.03%,33.33%,3  .01%
+F Incest,185,.35%,98.40%,3,.08%,1.60%,188  .33%
+"F Incest,Atmpt",2,.01%,100.00%,,,,2  .01%
+F Influencing Witness,1,.01%,50.00%,1,.03%,50.00%,2  .01%
+F Injury By Vehicle,94,.18%,82.46%,20,.52%,17.54%,114  .20%
+F Interference With,16,.03%,100.00%,,,,16  .03%
+Custody,,,,,,,
+F Involuntary Manslaughter,136,.26%,85.53%,23,.60%,14.47%,159  .28%
+F Kidnapping,"1,532",2.93%,96.90%,49,1.27%,3.10%,"1,581  2.81%"
+F Livestock Theft,2,.01%,100.00%,,,,2  .01%
+F Machine Gun Activities,1,.01%,100.00%,,,,1  .01%
+F Malicious Conf Sane,,,,1,.03%,100.00%,1  .01%
+Pers,,,,,,,
+F Manf Methamph 200-399,3,.01%,42.86%,4,.10%,57.14%,7  .01%
+Gm,,,,,,,
+F Manf Methamph 28-199,21,.04%,84.00%,4,.10%,16.00%,25  .04%
+Gm,,,,,,,
+F Manf Methamph 400+ Gm,1,.01%,100.00%,,,,1  .01%
+F Manf Methamph Unspec,201,.38%,89.33%,24,.62%,10.67%,225  .40%
+Amt,,,,,,,
+F Manufact Meth Near,14,.03%,73.68%,5,.13%,26.32%,19  .03%
+Child,,,,,,,
+F Misc Assault/Battery,12,.02%,100.00%,,,,12  .02%
+F Misc Correctionl Inst Off,3,.01%,100.00%,,,,3  .01%
+F Misc Criminal Damage,1,.01%,100.00%,,,,1  .01%
+F Misc Drugs Trafficking,21,.04%,100.00%,,,,21  .04%
+F Misc Forgery,1,.01%,100.00%,,,,1  .01%
+F Misc Fraud,9,.02%,60.00%,6,.16%,40.00%,15  .03%
+F Misc Homicide Offense,8,.02%,88.89%,1,.03%,11.11%,9  .02%
+F Misc Invasion Of Privacy,1,.01%,100.00%,,,,1  .01%
+F Misc Mrals/Pblic H/Safty,2,.01%,100.00%,,,,2  .01%
+F Misc Obscenity,2,.01%,100.00%,,,,2  .01%
+F Misc Public Order,2,.01%,100.00%,,,,2  .01%
+F Misc Sexual Offense,20,.04%,100.00%,,,,20  .04%
+F Misc Weapon/Explosive,1,.01%,100.00%,,,,1  .01%
+Off,,,,,,,
+F Murder,"5,306",10.14%,94.28%,322,8.34%,5.72%,"5,628  10.02%"
+"F Murder,Conspire To",8,.02%,88.89%,1,.03%,11.11%,9  .02%
+Commit,,,,,,,
+F Mutiny In Penal Inst,2,.01%,100.00%,,,,2  .01%
+F Obstr Of Law Enf Officer,495,.95%,91.33%,47,1.22%,8.67%,542  .96%
+"",,Male,,,Female,,Total
+Primary Offense,Count,Col %,Row %,Count,Col %,Row %,Total Col %
+F Pandering By,2,.01%,100.00%,,,,2  .01%
+Compulsion,,,,,,,
+F Peeping Tom,21,.04%,100.00%,,,,21  .04%
+F Perjury,1,.01%,100.00%,,,,1  .01%
+F Pimping A Minor Under,7,.01%,100.00%,,,,7  .01%
+18,,,,,,,
+F Poss Contraband,3,.01%,100.00%,,,,3  .01%
+Articles,,,,,,,
+F Poss Dep Stim Cntrf,73,.14%,81.11%,17,.44%,18.89%,90  .16%
+Drugs,,,,,,,
+F Poss Drug Related Matrl,13,.02%,72.22%,5,.13%,27.78%,18  .03%
+F Poss Ephedrine,9,.02%,69.23%,4,.10%,30.77%,13  .02%
+F Poss Firearm 1st,66,.13%,95.65%,3,.08%,4.35%,69  .12%
+Offender,,,,,,,
+F Poss Firearm Convct,873,1.67%,96.68%,30,.78%,3.32%,903  1.61%
+Felon,,,,,,,
+F Poss Knife During Crime,3,.01%,100.00%,,,,3  .01%
+F Poss Mda/Extsy,11,.02%,78.57%,3,.08%,21.43%,14  .02%
+F Poss Methamphetamine,366,.70%,77.38%,107,2.77%,22.62%,473  .84%
+F Poss Narcotics Opiates,56,.11%,81.16%,13,.34%,18.84%,69  .12%
+F Poss Of Certain,24,.05%,88.89%,3,.08%,11.11%,27  .05%
+Weapons,,,,,,,
+F Poss Of Cocaine,719,1.37%,84.99%,127,3.29%,15.01%,846  1.51%
+F Poss Of Firearm Dur,456,.87%,95.40%,22,.57%,4.60%,478  .85%
+Crime,,,,,,,
+F Poss Of Marijuana,102,.19%,93.58%,7,.18%,6.42%,109  .19%
+F Poss Tools Commit,32,.06%,100.00%,,,,32  .06%
+Crime,,,,,,,
+F Poss W Int Dis Other,87,.17%,82.86%,18,.47%,17.14%,105  .19%
+Drug,,,,,,,
+F Poss W Int Dist Cocaine,473,.90%,94.60%,27,.70%,5.40%,500  .89%
+F Poss W Int Dist,813,1.55%,95.99%,34,.88%,4.01%,847  1.51%
+Marijuana,,,,,,,
+F Poss W Int Dist Meth,258,.49%,80.63%,62,1.61%,19.38%,320  .57%
+"F Poss Wpn,Drugs By",37,.07%,90.24%,4,.10%,9.76%,41  .07%
+Prisnr,,,,,,,
+F Racketeering,60,.11%,72.29%,23,.60%,27.71%,83  .15%
+F Rape,"1,765",3.37%,99.77%,4,.10%,.23%,"1,769  3.15%"
+F Reck Cond Infected,9,.02%,81.82%,2,.05%,18.18%,11  .02%
+Person,,,,,,,
+F Reckless Abandonment,3,.01%,100.00%,,,,3  .01%
+"F Recv Gds,Srvs Fraud",,,,1,.03%,100.00%,1  .01%
+Obtnd,,,,,,,
+"",,Male,,,Female,,Total
+Primary Offense,Count,Col %,Row %,Count,Col %,Row %,Total Col %
+"F Removal Baggage,Cargo",1,.01%,100.00%,,,,1  .01%
+Etc,,,,,,,
+F Robbery,"1,663",3.18%,92.44%,136,3.52%,7.56%,"1,799  3.20%"
+F Robbery By Force,287,.55%,90.82%,29,.75%,9.18%,316  .56%
+F Robbery By Intimidation,287,.55%,91.99%,25,.65%,8.01%,312  .56%
+F Robbery By Sudden,138,.26%,92.00%,12,.31%,8.00%,150  .27%
+Snatch,,,,,,,
+F S/D  Of Alcoholic Intox,1,.01%,100.00%,,,,1  .01%
+F S/D Cocaine,862,1.65%,94.21%,53,1.37%,5.79%,915  1.63%
+F S/D Cont Sub Public,43,.08%,97.73%,1,.03%,2.27%,44  .08%
+F S/D Cont Sub School,41,.08%,97.62%,1,.03%,2.38%,42  .07%
+F S/D Dep Stim Cntrf Drugs,72,.14%,70.59%,30,.78%,29.41%,102  .18%
+F S/D Narcotics Opiates,34,.06%,77.27%,10,.26%,22.73%,44  .08%
+F S/D Of Marijuana,397,.76%,96.59%,14,.36%,3.41%,411  .73%
+F Sale Mda/Extsy,6,.01%,85.71%,1,.03%,14.29%,7  .01%
+F Sale Methamphetamine,126,.24%,77.78%,36,.93%,22.22%,162  .29%
+F Sex Exploitation Child,167,.32%,98.82%,2,.05%,1.18%,169  .30%
+F Sex Offender Fail Registr,397,.76%,99.75%,1,.03%,.25%,398  .71%
+F Sex Offender Fail To,14,.03%,100.00%,,,,14  .02%
+Move,,,,,,,
+F Sexl/Asslt/Agn/Pers/Cstdy,10,.02%,100.00%,,,,10  .02%
+F Sexual Battery,202,.39%,99.02%,2,.05%,.98%,204  .36%
+F Simple Battery,18,.03%,90.00%,2,.05%,10.00%,20  .04%
+F Sodomy,20,.04%,100.00%,,,,20  .04%
+F Solicit Sodomy From,4,.01%,100.00%,,,,4  .01%
+Minor,,,,,,,
+F Stalking,3,.01%,100.00%,,,,3  .01%
+F Statutory Rape,815,1.56%,97.37%,22,.57%,2.63%,837  1.49%
+"F Statutory Rape,Atmpt",1,.01%,100.00%,,,,1  .01%
+F Subornation Of Perjury,1,.01%,100.00%,,,,1  .01%
+F Tampering With,13,.02%,76.47%,4,.10%,23.53%,17  .03%
+Evidence,,,,,,,
+F Terrorist Threats & Acts,407,.78%,96.67%,14,.36%,3.33%,421  .75%
+F Theft Bring Prop In State,8,.02%,100.00%,,,,8  .01%
+F Theft By Conversion,28,.05%,87.50%,4,.10%,12.50%,32  .06%
+F Theft By Deception,48,.09%,85.71%,8,.21%,14.29%,56  .10%
+F Theft By Extortion,2,.01%,100.00%,,,,2  .01%
+F Theft By Rec Stolen Prop,841,1.61%,94.18%,52,1.35%,5.82%,893  1.59%
+F Theft By Shoplifting,387,.74%,67.89%,183,4.74%,32.11%,570  1.01%
+F Theft By Taking,"1,014",1.94%,85.00%,179,4.64%,15.00%,"1,193  2.12%"
+"",,Male,,,Female,,Total,
+Primary Offense,Count,Col %,Row %,Count,Col %,Row %,Total,Col %
+F Theft Credit Card,18,.03%,90.00%,2,.05%,10.00%,20,.04%
+F Theft Motorveh Or Part,68,.13%,93.15%,5,.13%,6.85%,73,.13%
+F Theft Of Lost Property,4,.01%,100.00%,,,,4,.01%
+F Theft Of Services,5,.01%,100.00%,,,,5,.01%
+F Traf Amphtmine 28-199,4,.01%,100.00%,,,,4,.01%
+Gm,,,,,,,,
+F Traf Amphtmine 400+ Gm,3,.01%,100.00%,,,,3,.01%
+F Traf Cocaine 201-400,200,.38%,93.90%,13,.34%,6.10%,213,.38%
+Gm,,,,,,,,
+F Traf Cocaine 401+ Gm,140,.27%,93.96%,9,.23%,6.04%,149,.27%
+F Traf Cocaine Less 200,399,.76%,96.38%,15,.39%,3.62%,414,.74%
+Gm,,,,,,,,
+F Traf Marijna 10-2000 Lb,109,.21%,94.78%,6,.16%,5.22%,115,.20%
+F Traf Marijna 10001+ Lb,3,.01%,75.00%,1,.03%,25.00%,4,.01%
+F Traf Marijna 2001-10k Lb,2,.01%,100.00%,,,,2,.01%
+F Traf Mda/Extsy 200-,6,.01%,85.71%,1,.03%,14.29%,7,.01%
+399gm,,,,,,,,
+F Traf Mda/Extsy 28-199gm,23,.04%,92.00%,2,.05%,8.00%,25,.04%
+F Traf Mda/Extsy 400+Gm,4,.01%,100.00%,,,,4,.01%
+F Traf Methamph 200-399,63,.12%,88.73%,8,.21%,11.27%,71,.13%
+Gm,,,,,,,,
+F Traf Methamph 28-199,215,.41%,85.32%,37,.96%,14.68%,252,.45%
+Gm,,,,,,,,
+F Traf Methamph 400+ Gm,46,.09%,93.88%,3,.08%,6.12%,49,.09%
+F Traf Methamph Unspec,79,.15%,92.94%,6,.16%,7.06%,85,.15%
+Amt,,,,,,,,
+F Traf Narcotic 15-28 Gm,10,.02%,100.00%,,,,10,.02%
+F Traf Narcotic 29+ Gm,6,.01%,100.00%,,,,6,.01%
+F Traf Narcotic Less 14 Gm,10,.02%,90.91%,1,.03%,9.09%,11,.02%
+F Unknown Offense,22,.04%,84.62%,4,.10%,15.38%,26,.05%
+F Unlwfl Mfg/Del/Dist N-C S,20,.04%,90.91%,2,.05%,9.09%,22,.04%
+F Use Comm Faclty Vio C,7,.01%,77.78%,2,.05%,22.22%,9,.02%
+Sub,,,,,,,,
+F Vehicular Homicide,304,.58%,84.21%,57,1.48%,15.79%,361,.64%
+F Viol Dngrous Drgs Act,153,.29%,80.95%,36,.93%,19.05%,189,.34%
+F Viol Ga Cntrl Sbst Act,110,.21%,85.27%,19,.49%,14.73%,129,.23%
+F Viol Ga Securities Act,2,.01%,100.00%,,,,2,.01%
+F Viol Motor Vehicle Laws,29,.06%,80.56%,7,.18%,19.44%,36,.06%
+F Viol Oath Public Offcr,2,.01%,100.00%,,,,2,.01%
+F Violatn Othr States Law,10,.02%,90.91%,1,.03%,9.09%,11,.02%
+F Vol Manslaughter Of,2,.01%,100.00%,,,,2,.01%
+"",,Male,,,Female,,Total
+Primary Offense,Count,Col %,Row %,Count,Col %,Row %,Total Col %
+Fetus,,,,,,,
+F Voluntary Manslaughter,"1,080",2.06%,88.60%,139,3.60%,11.40%,"1,219  2.17%"
+M Abandonment Of Dep,5,.01%,100.00%,,,,5  .01%
+Child,,,,,,,
+M Abusive Language,1,.01%,100.00%,,,,1  .01%
+M Agg Assault With,1,.01%,100.00%,,,,1  .01%
+Firearm,,,,,,,
+M Agg Assault With Knife,1,.01%,100.00%,,,,1  .01%
+M Assault & Battery,6,.01%,100.00%,,,,6  .01%
+M Bad Checks,2,.01%,66.67%,1,.03%,33.33%,3  .01%
+M Burglary,8,.02%,100.00%,,,,8  .01%
+M Cheating & Swindling,1,.01%,100.00%,,,,1  .01%
+M Cpwl & Concealed,3,.01%,100.00%,,,,3  .01%
+Weapon,,,,,,,
+M Crmnl Attempt,1,.01%,100.00%,,,,1  .01%
+M Crmnl Intfer Govt Prop,1,.01%,100.00%,,,,1  .01%
+M Cruelty To Children,1,.01%,50.00%,1,.03%,50.00%,2  .01%
+M Dui,10,.02%,90.91%,1,.03%,9.09%,11  .02%
+M Escape,4,.01%,100.00%,,,,4  .01%
+M Forgery,2,.01%,100.00%,,,,2  .01%
+M Fraudulent Checks,1,.01%,100.00%,,,,1  .01%
+M Misc Misdemeanor,1,.01%,100.00%,,,,1  .01%
+M Other Misdemeanor,7,.01%,100.00%,,,,7  .01%
+M Pointing Gun At Another,1,.01%,100.00%,,,,1  .01%
+M Prostitution,,,,1,.03%,100.00%,1  .01%
+M Public Drunkenness,2,.01%,100.00%,,,,2  .01%
+M Public Indecency,6,.01%,100.00%,,,,6  .01%
+M Simple Battery,1,.01%,50.00%,1,.03%,50.00%,2  .01%
+M Theft By Deception <,1,.01%,100.00%,,,,1  .01%
+$500,,,,,,,
+M Theft By Taking -,23,.04%,100.00%,,,,23  .04%
+Larceny,,,,,,,
+"M Theft Motor Vehicle,Parts",1,.01%,100.00%,,,,1  .01%
+M Vagrancy,3,.01%,100.00%,,,,3  .01%
+M Viol Motor Veh Law,2,.01%,100.00%,,,,2  .01%
+M Wife Beating,2,.01%,100.00%,,,,2  .01%
+M Worthless Checks,1,.01%,100.00%,,,,1  .01%
+Total Rported,"52,308",101%,93.13%,"3,861",100%,6.87%,"56,169  101%"
+"",Male,Female,Total
+Not Reported,76,1,77
+Grand Total,"52,384","3,862","56,246"
+"",,,
+Mode (most frequent),1601 Burglary,1701 Forgery 1st Degree,1601 Burglary
+"",,Male,,,Female,,Total
+County of Conviction,Count,Col %,Row %,Count,Col %,Row %,Total Col %
+000 Unknown,251,.48%,93.31%,18,.47%,6.69%,269  .48%
+001 Appling County,102,.19%,94.44%,6,.16%,5.56%,108  .19%
+002 Atkinson County,54,.10%,93.10%,4,.10%,6.90%,58  .10%
+003 Bacon County,69,.13%,95.83%,3,.08%,4.17%,72  .13%
+004 Baker County,13,.02%,100.00%,,,,13  .02%
+005 Baldwin County,344,.66%,95.03%,18,.47%,4.97%,362  .64%
+006 Banks County,63,.12%,94.03%,4,.10%,5.97%,67  .12%
+007 Barrow County,256,.49%,91.43%,24,.62%,8.57%,280  .50%
+008 Bartow County,676,1.29%,88.37%,89,2.30%,11.63%,765  1.36%
+009 Ben Hill County,241,.46%,94.51%,14,.36%,5.49%,255  .45%
+010 Berrien County,94,.18%,92.16%,8,.21%,7.84%,102  .18%
+011 Bibb County,"1,104",2.11%,94.93%,59,1.53%,5.07%,"1,163  2.07%"
+012 Bleckley County,75,.14%,91.46%,7,.18%,8.54%,82  .15%
+013 Brantley County,63,.12%,90.00%,7,.18%,10.00%,70  .12%
+014 Brooks County,62,.12%,95.38%,3,.08%,4.62%,65  .12%
+015 Bryan County,126,.24%,98.44%,2,.05%,1.56%,128  .23%
+016 Bulloch County,521,.99%,91.08%,51,1.32%,8.92%,572  1.02%
+017 Burke County,224,.43%,96.55%,8,.21%,3.45%,232  .41%
+018 Butts County,158,.30%,96.93%,5,.13%,3.07%,163  .29%
+019 Calhoun County,39,.07%,86.67%,6,.16%,13.33%,45  .08%
+020 Camden County,163,.31%,92.09%,14,.36%,7.91%,177  .31%
+021 Candler County,126,.24%,90.00%,14,.36%,10.00%,140  .25%
+022 Carroll County,614,1.17%,91.10%,60,1.55%,8.90%,674  1.20%
+023 Catoosa County,344,.66%,89.35%,41,1.06%,10.65%,385  .68%
+024 Charlton County,58,.11%,93.55%,4,.10%,6.45%,62  .11%
+025 Chatham County,"2,284",4.36%,96.05%,94,2.43%,3.95%,"2,378  4.23%"
+026 Chattahoochee County,33,.06%,94.29%,2,.05%,5.71%,35  .06%
+027 Chattooga County,246,.47%,88.17%,33,.85%,11.83%,279  .50%
+028 Cherokee County,573,1.09%,93.78%,38,.98%,6.22%,611  1.09%
+029 Clarke County,447,.85%,95.11%,23,.60%,4.89%,470  .84%
+030 Clay County,31,.06%,91.18%,3,.08%,8.82%,34  .06%
+031 Clayton County,"1,594",3.04%,94.04%,101,2.62%,5.96%,"1,695  3.01%"
+032 Clinch County,66,.13%,97.06%,2,.05%,2.94%,68  .12%
+033 Cobb County,"2,637",5.03%,90.43%,279,7.22%,9.57%,"2,916  5.18%"
+034 Coffee County,263,.50%,93.26%,19,.49%,6.74%,282  .50%
+035 Colquitt County,269,.51%,93.40%,19,.49%,6.60%,288  .51%
+036 Columbia County,382,.73%,90.31%,41,1.06%,9.69%,423  .75%
+037 Cook County,137,.26%,95.80%,6,.16%,4.20%,143  .25%
+"",,Male,,,Female,,Total
+County of Conviction,Count,Col %,Row %,Count,Col %,Row %,Total Col %
+038 Coweta County,543,1.04%,93.30%,39,1.01%,6.70%,582  1.03%
+039 Crawford County,18,.03%,100.00%,,,,18  .03%
+040 Crisp County,282,.54%,94.63%,16,.41%,5.37%,298  .53%
+041 Dade County,109,.21%,90.08%,12,.31%,9.92%,121  .22%
+042 Dawson County,117,.22%,90.00%,13,.34%,10.00%,130  .23%
+043 Decatur County,330,.63%,91.67%,30,.78%,8.33%,360  .64%
+044 Dekalb County,"3,222",6.15%,95.02%,169,4.38%,4.98%,"3,391  6.03%"
+045 Dodge County,161,.31%,94.71%,9,.23%,5.29%,170  .30%
+046 Dooly County,92,.18%,93.88%,6,.16%,6.12%,98  .17%
+047 Dougherty County,"1,004",1.92%,94.36%,60,1.55%,5.64%,"1,064  1.89%"
+048 Douglas County,"1,331",2.54%,90.24%,144,3.73%,9.76%,"1,475  2.62%"
+049 Early County,92,.18%,94.85%,5,.13%,5.15%,97  .17%
+050 Echols County,10,.02%,90.91%,1,.03%,9.09%,11  .02%
+051 Effingham County,205,.39%,94.04%,13,.34%,5.96%,218  .39%
+052 Elbert County,129,.25%,92.81%,10,.26%,7.19%,139  .25%
+053 Emanuel County,169,.32%,91.35%,16,.41%,8.65%,185  .33%
+054 Evans County,105,.20%,96.33%,4,.10%,3.67%,109  .19%
+055 Fannin County,102,.19%,90.27%,11,.28%,9.73%,113  .20%
+056 Fayette County,397,.76%,88.42%,52,1.35%,11.58%,449  .80%
+057 Floyd County,812,1.55%,88.74%,103,2.67%,11.26%,915  1.63%
+058 Forsyth County,350,.67%,86.00%,57,1.48%,14.00%,407  .72%
+059 Franklin County,144,.27%,96.64%,5,.13%,3.36%,149  .26%
+060 Fulton County,"5,014",9.57%,95.58%,232,6.01%,4.42%,"5,246  9.33%"
+061 Gilmer County,120,.23%,93.02%,9,.23%,6.98%,129  .23%
+062 Glascock County,7,.01%,87.50%,1,.03%,12.50%,8  .01%
+063 Glynn County,453,.86%,94.77%,25,.65%,5.23%,478  .85%
+064 Gordon County,343,.65%,87.06%,51,1.32%,12.94%,394  .70%
+065 Grady County,225,.43%,94.54%,13,.34%,5.46%,238  .42%
+066 Greene County,134,.26%,93.71%,9,.23%,6.29%,143  .25%
+067 Gwinnett County,"2,526",4.82%,92.26%,212,5.49%,7.74%,"2,738  4.87%"
+068 Habersham County,107,.20%,96.40%,4,.10%,3.60%,111  .20%
+069 Hall County,722,1.38%,91.28%,69,1.79%,8.72%,791  1.41%
+070 Hancock County,38,.07%,97.44%,1,.03%,2.56%,39  .07%
+071 Haralson County,96,.18%,95.05%,5,.13%,4.95%,101  .18%
+072 Harris County,119,.23%,94.44%,7,.18%,5.56%,126  .22%
+073 Hart County,135,.26%,95.07%,7,.18%,4.93%,142  .25%
+074 Heard County,45,.09%,90.00%,5,.13%,10.00%,50  .09%
+075 Henry County,614,1.17%,92.47%,50,1.29%,7.53%,664  1.18%
+"",,Male,,,Female,,Total
+County of Conviction,Count,Col %,Row %,Count,Col %,Row %,Total Col %
+076 Houston County,706,1.35%,94.89%,38,.98%,5.11%,744  1.32%
+077 Irwin County,84,.16%,93.33%,6,.16%,6.67%,90  .16%
+078 Jackson County,247,.47%,89.82%,28,.73%,10.18%,275  .49%
+079 Jasper County,69,.13%,90.79%,7,.18%,9.21%,76  .14%
+080 Jeff Davis County,88,.17%,95.65%,4,.10%,4.35%,92  .16%
+081 Jefferson County,168,.32%,97.11%,5,.13%,2.89%,173  .31%
+082 Jenkins County,67,.13%,94.37%,4,.10%,5.63%,71  .13%
+083 Johnson County,53,.10%,92.98%,4,.10%,7.02%,57  .10%
+084 Jones County,222,.42%,89.16%,27,.70%,10.84%,249  .44%
+085 Lamar County,83,.16%,94.32%,5,.13%,5.68%,88  .16%
+086 Lanier County,52,.10%,98.11%,1,.03%,1.89%,53  .09%
+087 Laurens County,326,.62%,93.95%,21,.54%,6.05%,347  .62%
+088 Lee County,76,.15%,89.41%,9,.23%,10.59%,85  .15%
+089 Liberty County,326,.62%,94.49%,19,.49%,5.51%,345  .61%
+090 Lincoln County,27,.05%,93.10%,2,.05%,6.90%,29  .05%
+091 Long County,84,.16%,94.38%,5,.13%,5.62%,89  .16%
+092 Lowndes County,577,1.10%,94.59%,33,.85%,5.41%,610  1.08%
+093 Lumpkin County,97,.19%,92.38%,8,.21%,7.62%,105  .19%
+094 Macon County,62,.12%,96.88%,2,.05%,3.13%,64  .11%
+095 Madison County,97,.19%,92.38%,8,.21%,7.62%,105  .19%
+096 Marion County,29,.06%,96.67%,1,.03%,3.33%,30  .05%
+097 Mcduffie County,200,.38%,94.79%,11,.28%,5.21%,211  .38%
+098 Mcintosh County,82,.16%,95.35%,4,.10%,4.65%,86  .15%
+099 Meriwether County,198,.38%,95.19%,10,.26%,4.81%,208  .37%
+100 Miller County,36,.07%,100.00%,,,,36  .06%
+101 Mitchell County,222,.42%,91.74%,20,.52%,8.26%,242  .43%
+102 Monroe County,159,.30%,89.83%,18,.47%,10.17%,177  .31%
+103 Montgomery County,48,.09%,94.12%,3,.08%,5.88%,51  .09%
+104 Morgan County,157,.30%,93.45%,11,.28%,6.55%,168  .30%
+105 Murray County,169,.32%,91.35%,16,.41%,8.65%,185  .33%
+106 Muscogee County,"1,460",2.79%,95.05%,76,1.97%,4.95%,"1,536  2.73%"
+107 Newton County,705,1.35%,92.16%,60,1.55%,7.84%,765  1.36%
+108 Oconee County,51,.10%,96.23%,2,.05%,3.77%,53  .09%
+109 Oglethorpe County,57,.11%,93.44%,4,.10%,6.56%,61  .11%
+110 Paulding County,312,.60%,91.76%,28,.73%,8.24%,340  .60%
+111 Peach County,86,.16%,97.73%,2,.05%,2.27%,88  .16%
+112 Pickens County,102,.19%,92.73%,8,.21%,7.27%,110  .20%
+113 Pierce County,72,.14%,96.00%,3,.08%,4.00%,75  .13%
+"",,Male,,,Female,,Total
+County of Conviction,Count,Col %,Row %,Count,Col %,Row %,Total Col %
+114 Pike County,45,.09%,90.00%,5,.13%,10.00%,50  .09%
+115 Polk County,171,.33%,92.93%,13,.34%,7.07%,184  .33%
+116 Pulaski County,65,.12%,92.86%,5,.13%,7.14%,70  .12%
+117 Putnam County,170,.32%,91.89%,15,.39%,8.11%,185  .33%
+118 Quitman County,20,.04%,100.00%,,,,20  .04%
+119 Rabun County,50,.10%,89.29%,6,.16%,10.71%,56  .10%
+120 Randolph County,75,.14%,94.94%,4,.10%,5.06%,79  .14%
+121 Richmond County,"1,928",3.68%,94.23%,118,3.06%,5.77%,"2,046  3.64%"
+122 Rockdale County,465,.89%,94.13%,29,.75%,5.87%,494  .88%
+123 Schley County,22,.04%,95.65%,1,.03%,4.35%,23  .04%
+124 Screven County,141,.27%,94.63%,8,.21%,5.37%,149  .26%
+125 Seminole County,70,.13%,89.74%,8,.21%,10.26%,78  .14%
+126 Spalding County,572,1.09%,92.41%,47,1.22%,7.59%,619  1.10%
+127 Stephens County,165,.31%,93.75%,11,.28%,6.25%,176  .31%
+128 Stewart County,33,.06%,97.06%,1,.03%,2.94%,34  .06%
+129 Sumter County,234,.45%,95.12%,12,.31%,4.88%,246  .44%
+130 Talbot County,55,.10%,94.83%,3,.08%,5.17%,58  .10%
+131 Taliaferro County,25,.05%,83.33%,5,.13%,16.67%,30  .05%
+132 Tattnall County,208,.40%,93.27%,15,.39%,6.73%,223  .40%
+133 Taylor County,78,.15%,95.12%,4,.10%,4.88%,82  .15%
+134 Telfair County,95,.18%,91.35%,9,.23%,8.65%,104  .18%
+135 Terrell County,78,.15%,97.50%,2,.05%,2.50%,80  .14%
+136 Thomas County,231,.44%,94.67%,13,.34%,5.33%,244  .43%
+137 Tift County,291,.56%,96.68%,10,.26%,3.32%,301  .54%
+138 Toombs County,355,.68%,91.26%,34,.88%,8.74%,389  .69%
+139 Towns County,39,.07%,88.64%,5,.13%,11.36%,44  .08%
+140 Treutlen County,87,.17%,96.67%,3,.08%,3.33%,90  .16%
+141 Troup County,649,1.24%,91.41%,61,1.58%,8.59%,710  1.26%
+142 Turner County,66,.13%,95.65%,3,.08%,4.35%,69  .12%
+143 Twiggs County,76,.15%,95.00%,4,.10%,5.00%,80  .14%
+144 Union County,78,.15%,85.71%,13,.34%,14.29%,91  .16%
+145 Upson County,173,.33%,95.05%,9,.23%,4.95%,182  .32%
+146 Walker County,402,.77%,89.53%,47,1.22%,10.47%,449  .80%
+147 Walton County,529,1.01%,89.81%,60,1.55%,10.19%,589  1.05%
+148 Ware County,332,.63%,93.52%,23,.60%,6.48%,355  .63%
+149 Warren County,50,.10%,96.15%,2,.05%,3.85%,52  .09%
+150 Washington County,197,.38%,89.95%,22,.57%,10.05%,219  .39%
+151 Wayne County,131,.25%,90.97%,13,.34%,9.03%,144  .26%
+"",,Male,,,Female,,Total
+County of Conviction,Count,Col %,Row %,Count,Col %,Row %,Total Col %
+152 Webster County,9,.02%,100.00%,,,,9  .02%
+153 Wheeler County,33,.06%,97.06%,1,.03%,2.94%,34  .06%
+154 White County,111,.21%,87.40%,16,.41%,12.60%,127  .23%
+155 Whitfield County,619,1.18%,90.63%,64,1.66%,9.37%,683  1.21%
+156 Wilcox County,47,.09%,87.04%,7,.18%,12.96%,54  .10%
+157 Wilkes County,72,.14%,94.74%,4,.10%,5.26%,76  .14%
+158 Wilkinson County,47,.09%,94.00%,3,.08%,6.00%,50  .09%
+159 Worth County,115,.22%,94.26%,7,.18%,5.74%,122  .22%
+Total Rported,"52,384",100%,93.13%,"3,862",100%,6.87%,"56,246  100%"
+Not Reported,0,0,0
+Grand Total,"52,384","3,862","56,246"
+Mode (most frequent),Fulton County,Cobb County,Fulton County
+"",,Male,,,Female,,Total
+Circuit of Conviction,Count,Col %,Row %,Count,Col %,Row %,Total Col %
+1 Alapaha Circuit,403,.77%,95.05%,21,.55%,4.95%,424  .76%
+2 Alcovy Circuit,"1,234",2.37%,91.14%,120,3.12%,8.86%,"1,354  2.42%"
+3 Atlanta Circuit,"5,014",9.62%,95.58%,232,6.04%,4.42%,"5,246  9.37%"
+4 Atlantic Circuit,931,1.79%,95.00%,49,1.27%,5.00%,980  1.75%
+5 Augusta Circuit,"2,534",4.86%,93.82%,167,4.34%,6.18%,"2,701  4.83%"
+6 Blue Ridge Circuit,573,1.10%,93.78%,38,.99%,6.22%,611  1.09%
+7 Brunswick Circuit,937,1.80%,93.79%,62,1.61%,6.21%,999  1.78%
+8 Chattahoochee Circuit,"1,774",3.40%,95.02%,93,2.42%,4.98%,"1,867  3.34%"
+9 Cherokee Circuit,"1,019",1.95%,87.92%,140,3.64%,12.08%,"1,159  2.07%"
+10 Clayton Circuit,"1,594",3.06%,94.04%,101,2.63%,5.96%,"1,695  3.03%"
+11 Cobb Circuit,"2,637",5.06%,90.43%,279,7.26%,9.57%,"2,916  5.21%"
+12 Conasauga Circuit,788,1.51%,90.78%,80,2.08%,9.22%,868  1.55%
+13 Cordele Circuit,662,1.27%,93.90%,43,1.12%,6.10%,705  1.26%
+14 Coweta Circuit,"2,049",3.93%,92.13%,175,4.55%,7.87%,"2,224  3.97%"
+15 Dougherty Circuit,"1,004",1.93%,94.36%,60,1.56%,5.64%,"1,064  1.90%"
+16 Dublin Circuit,542,1.04%,94.43%,32,.83%,5.57%,574  1.03%
+17 Eastern Circuit,"2,284",4.38%,96.05%,94,2.45%,3.95%,"2,378  4.25%"
+18 Flint Circuit,614,1.18%,92.47%,50,1.30%,7.53%,664  1.19%
+19 Griffin Circuit,"1,187",2.28%,91.31%,113,2.94%,8.69%,"1,300  2.32%"
+20 Gwinnett Circuit,"2,526",4.85%,92.26%,212,5.52%,7.74%,"2,738  4.89%"
+21 Houston Circuit,706,1.35%,94.89%,38,.99%,5.11%,744  1.33%
+22 Lookout Mountain Circuit,"1,101",2.11%,89.22%,133,3.46%,10.78%,"1,234  2.20%"
+23 Macon Circuit,"1,208",2.32%,95.19%,61,1.59%,4.81%,"1,269  2.27%"
+24 Middle Circuit,"1,015",1.95%,91.77%,91,2.37%,8.23%,"1,106  1.98%"
+25 Mountain Circuit,322,.62%,93.88%,21,.55%,6.12%,343  .61%
+26 Northeastern Circuit,839,1.61%,91.10%,82,2.13%,8.90%,921  1.65%
+27 Northern Circuit,562,1.08%,94.30%,34,.88%,5.70%,596  1.06%
+28 Ocmulgee Circuit,"1,181",2.27%,92.85%,91,2.37%,7.15%,"1,272  2.27%"
+29 Oconee Circuit,477,.91%,93.35%,34,.88%,6.65%,511  .91%
+30 Ogeechee Circuit,934,1.79%,92.48%,76,1.98%,7.52%,"1,010  1.80%"
+31 Pataula Circuit,402,.77%,94.81%,22,.57%,5.19%,424  .76%
+32 Piedmont Circuit,566,1.09%,91.00%,56,1.46%,9.00%,622  1.11%
+33 Rome Circuit,812,1.56%,88.74%,103,2.68%,11.26%,915  1.63%
+34 South Georgia Circuit,829,1.59%,92.32%,69,1.80%,7.68%,898  1.60%
+35 Southern Circuit,"1,149",2.20%,94.33%,69,1.80%,5.67%,"1,218  2.18%"
+36 Southwestern Circuit,436,.84%,94.58%,25,.65%,5.42%,461  .82%
+37 Stone Mountain Circuit,"3,222",6.18%,95.02%,169,4.40%,4.98%,"3,391  6.06%"
+38 Tallapoosa Circuit,267,.51%,93.68%,18,.47%,6.32%,285  .51%
+"",,Male,,,Female,,Total
+Circuit of Conviction,Count,Col %,Row %,Count,Col %,Row %,Total Col %
+39 Tifton Circuit,556,1.07%,95.53%,26,.68%,4.47%,582  1.04%
+40 Toombs Circuit,381,.73%,93.84%,25,.65%,6.16%,406  .73%
+41 Waycross Circuit,857,1.64%,93.56%,59,1.53%,6.44%,916  1.64%
+42 Western Circuit,498,.96%,95.22%,25,.65%,4.78%,523  .93%
+43 Rockdale Circuit,465,.89%,94.13%,29,.75%,5.87%,494  .88%
+44 Douglas Circuit,"1,331",2.55%,90.24%,144,3.75%,9.76%,"1,475  2.64%"
+45 Appalachian Circuit,324,.62%,92.05%,28,.73%,7.95%,352  .63%
+46 Enotah Circuit,325,.62%,88.56%,42,1.09%,11.44%,367  .66%
+47 Bell-Forsyth Circuit,350,.67%,86.00%,57,1.48%,14.00%,407  .73%
+48 Towaliga Circuit,400,.77%,93.46%,28,.73%,6.54%,428  .76%
+49 Paulding Circuit,312,.60%,91.76%,28,.73%,8.24%,340  .61%
+Total Rported,"52,133",100%,93.13%,"3,844",100%,6.87%,"55,977  100%"
+Not Reported,251,18,269
+Grand Total,"52,384","3,862","56,246"
+Mode (most frequent),Atlanta,Cobb,Atlanta
+"",,Male,,,Female,,Total
+Years Served,Count,Col %,Row %,Count,Col %,Row %,Total Col %
+Less than one year,"10,174",19.42%,90.69%,"1,045",27.06%,9.31%,"11,219  19.95%"
+1 to 1.99 years,"9,165",17.50%,91.66%,834,21.60%,8.34%,"9,999  17.78%"
+2 to 2.99 years,"6,408",12.23%,92.59%,513,13.28%,7.41%,"6,921  12.30%"
+3 to 3.99 years,"4,653",8.88%,92.93%,354,9.17%,7.07%,"5,007  8.90%"
+4 to 4.99 years,"2,842",5.43%,93.18%,208,5.39%,6.82%,"3,050  5.42%"
+5 to 5.99 years,"2,975",5.68%,93.88%,194,5.02%,6.12%,"3,169  5.63%"
+6 to 6.99 years,"2,384",4.55%,94.53%,138,3.57%,5.47%,"2,522  4.48%"
+7 to 7.99 years,"1,756",3.35%,93.80%,116,3.00%,6.20%,"1,872  3.33%"
+8 to 8.99 years,"1,438",2.75%,95.04%,75,1.94%,4.96%,"1,513  2.69%"
+9 to 9.99 years,"1,343",2.56%,94.91%,72,1.86%,5.09%,"1,415  2.52%"
+10 to 10.99 years,"1,029",1.96%,95.28%,51,1.32%,4.72%,"1,080  1.92%"
+11 to 11.99 years,919,1.75%,96.13%,37,0.96%,3.87%,956  1.70%
+12 to 12.99 years,805,1.54%,96.87%,26,0.67%,3.13%,831  1.48%
+13 to 13.99 years,731,1.40%,95.93%,31,0.80%,4.07%,762  1.35%
+14 to 14.99 years,686,1.31%,95.01%,36,0.93%,4.99%,722  1.28%
+15 to 15.99 years,648,1.24%,97.30%,18,0.47%,2.70%,666  1.18%
+16 to 16.99 years,589,1.12%,96.72%,20,0.52%,3.28%,609  1.08%
+17 to 17.99 years,547,1.04%,97.50%,14,0.36%,2.50%,561  1.00%
+18 to 18.99 years,465,0.89%,96.67%,16,0.41%,3.33%,481  0.86%
+19 to 19.99 years,435,0.83%,96.45%,16,0.41%,3.55%,451  0.80%
+20 to 20.99 years,313,0.60%,96.90%,10,0.26%,3.10%,323  0.57%
+21 to 21.99 years,293,0.56%,97.02%,9,0.23%,2.98%,302  0.54%
+22 to 22.99 years,236,0.45%,96.72%,8,0.21%,3.28%,244  0.43%
+23 to 23.99 years,189,0.36%,98.44%,3,0.08%,1.56%,192  0.34%
+24 to 24.99 years,179,0.34%,99.44%,1,0.03%,0.56%,180  0.32%
+25 to 25.99 years,171,0.33%,97.16%,5,0.13%,2.84%,176  0.31%
+26 to 26.99 years,119,0.23%,100.00%,,,,119  0.21%
+27 to 27.99 years,118,0.23%,97.52%,3,0.08%,2.48%,121  0.22%
+28 to 28.99 years,92,0.18%,98.92%,1,0.03%,1.08%,93  0.17%
+29 to 29.99 years,80,0.15%,98.77%,1,0.03%,1.23%,81  0.14%
+Thirty + years,602,1.15%,98.85%,7,0.18%,1.15%,609  1.08%
+Total Reported,"52,384",100%,93.13%,"3,862",100%,6.87%,"56,246  100%"
+Not Reported,0,0,0
+Grand Total,"52,384","3,862","56,246"
+Mean(average),,5.76,3.68,5.62
+Median (middle),,3.08,2.09,2.99
+Mode(most frequent),,Less than one year,Less than one year,Less than one
+"",,,,year
+"",,Male,,,Female,,Total
+HIV Test Results,Count,Col %,Row %,Count,Col %,Row %,Total Col %
+Positive,772,1.58%,91.25%,74,2.00%,8.75%,846  1.61%
+Negative,"48,103",98.41%,92.99%,"3,628",98.00%,7.01%,"51,731  98.39%"
+Indeterminate,3,0.01%,100.00%,,,,3  0.01%
+Total Reported,"48,878",100%,92.96%,"3,702",100%,7.04%,"52,580  100.0%"
+Not Reported,"3,506",160,"3,666"
+Grand Total,"52,384","3,862","56,246"
+"",,Male,,,Female,,Total
+Tuberculosis Test Results,Count,Col %,Row %,Count,Col %,Row %,Total Col %
+Positive on current test,"8,924",18.17%,97.93%,189,5.43%,2.07%,"9,113  17.33%"
+Positive on previous test,39,0.08%,100.00%,,,,39  0.07%
+Negative,"40,142",81.75%,92.43%,"3,289",94.57%,7.57%,"43,431  82.60%"
+Total Reported,"49,105",100%,93.39%,"3,478",100%,6.61%,"52,583  100%"
+Not Reported,"3,279",384,"3,663"
+Grand Total,"52,384","3,862","56,246"
+"",,Male,,,Female,,Total
+Syphilis Test Results,Count,Col %,Row %,Count,Col %,Row %,Total Col %
+Positive on current test,366,1.41%,94.33%,22,1.78%,5.67%,388  1.43%
+Negative,"25,622",98.59%,95.47%,"1,216",98.22%,4.53%,"26,838  98.57%"
+Total Reported,"25,988",100%,95.45%,"1,238",100%,4.55%,"27,226  100%"
+Not Reported,"26,396","2,624","29,020"
+Grand Total,"52,384","3,862","56,246"
+"",,Male,,,Female,,Total
+Hepatitis-C  Test Results,Count,Col %,Row %,Count,Col %,Row %,Total Col %
+Positive on current test,450,29.76%,93.75%,30,44.12%,6.25%,480  30.38%
+Negative,"1,062",70.24%,96.55%,38,55.88%,3.45%,"1,100  69.62%"
+Total Reported,"1,512",100%,95.70%,68,100%,4.30%,"1,580  100%"
+Not Reported,"50,872","3,794","54,666"
+Grand Total,"52,384","3,862","56,246"
