@@ -76,7 +76,7 @@ def PSIY_csv_data_to_airtable():
 
 
 def race_csv_data_to_airtable():
-    records = airtab.all(view='current_age', fields=['report', 'current_age_page_no', 'race_page_no', 'psiy_page_no'])
+    records = airtab.all(view='race_group', fields=['report', 'current_age_page_no', 'race_page_no', 'psiy_page_no'])
     for record in records:
         report = record['fields']['report']
         pg_no = record['fields']['race_page_no']
@@ -128,6 +128,13 @@ def race_csv_data_to_airtable():
                     this_dict['race_not_reported_male_pop'] = int(not_reported_m_string)
                     this_dict['race_not_reported_female_pop'] = int(not_reported_f_string)
                     this_dict['race_not_reported_pop'] = int(not_reported_string)
+                elif row['Race Group'] == 'Total Reported':
+                    total_reported_m_string = row['M Count'].replace(',', '')
+                    total_reported_f_string = row['F Count'].replace(',', '')
+                    total_reported_string = row['Total'].replace(',', '')
+                    this_dict['race_total_reported_male_pop'] = int(total_reported_m_string)
+                    this_dict['race_total_reported_female_pop'] = int(total_reported_f_string)
+                    this_dict['race_total_reported_pop'] = int(total_reported_string)
                 elif row['Race Group'] == 'Hispanic':
                     hispanic_m_string = row['M Count'].replace(',', '')
                     hispanic_f_string = row['F Count'].replace(',', '')
