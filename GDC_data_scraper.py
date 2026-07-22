@@ -254,3 +254,15 @@ def current_age_csv_data_to_airtable():
         airtab.update(record['id'], this_dict)
         time.sleep(3)
 
+def append_csv2_to_csv1():
+    records = airtab.all(view='testing', fields=['report', 'age_page_no', 'race_page_no', 'psiy_page_no'])
+    for record in records:
+        report = record['fields']['report']
+        pg_no = record['fields']['race_page_no']
+        print(f"report: {report}\tpage: {pg_no}")
+        fn1 = f'/Users/blakefeldman/code/GDC_data/GDC_monthly_reports/csv/camelot/race_group/{report}-page-{pg_no}-table-1.csv'
+        fn2 = f'/Users/blakefeldman/code/GDC_data/GDC_monthly_reports/csv/camelot/race_group/{report}-page-{pg_no}-table-2.csv'
+        # Append the contents of file2 directly into file1
+        with open(fn1, 'a', encoding='utf-8') as outfile:
+            with open(fn2, 'r', encoding='utf-8') as infile:
+                outfile.write('\n' + infile.read())
