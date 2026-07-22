@@ -7,7 +7,7 @@ The Georgia Department of Corrections publishes monthly statistical reports that
  - each monthly report in PDF format (available at `GDC_monthly_reports/pdf`)
  - csv tables extracted from the PDFs (available at `GDC_monthly_reports/csv/camelot`)
 
-One of the goals of this project was to be able to visualize trends in GDC admissions and population. `csv` files of data aggregated from hundreds of monthly reports to better understand trends will be made available `GDC_monthly_reports/csv/`. Line charts and other data visualizations might also be added in the future. For now, Airtable views of aggregated data are hyperlinked in the final column of the table at the bottom of this README document. 
+One of the goals of this project was to be able to visualize trends in GDC admissions and population. `csv` files of data aggregated from hundreds of monthly reports to better understand trends will be made available `GDC_monthly_reports/csv/`. Line charts and other data visualizations might also be added in the future. For now, Airtable views of aggregated data are hyperlinked in the [final section of this README document](https://github.com/bfeldman89/GDC_data/blob/main/README.md#tabular-data). 
 
 _note that the PDFs are also available in a public [DocumentCloud project](https://www.documentcloud.org/projects/225200-gdc_monthly_reports/)_
 
