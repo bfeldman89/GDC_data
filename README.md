@@ -1,6 +1,8 @@
 # GDC_data
 
-## GDC Monthly 
+## GDC Monthly Reports
+
+### summary
 
 The Georgia Department of Corrections publishes monthly statistical reports that describe its population and admissions according to several data points, such as race, age, offense, sentence, etc. The reports are [published](https://gdc.georgia.gov/organization/about-gdc/agency-activity/research-and-reports/monthly-statistical-reports/profiles) in PDF format. This repository includes:
  - a python script used to (1) convert tables in the PDF files into csv files and (2) upload the data into an Airtable base
@@ -13,10 +15,15 @@ _note that the PDFs are also available in a public [DocumentCloud project](https
 
 ### example
 
+#### pdf
+
 `Profile_all_inmates_2026_01.pdf` is available on GDC's website. Page 5 of the report breaks down the GDC population by race and gender. The PDF is available in the repository at `GDC_monthly_reports/pdf/monthly-report_2026-01.pdf`.
 
 <img width="2480" height="3509" alt="monthly-report_2026-01_page-5" src="https://github.com/user-attachments/assets/439ed144-c6f3-4381-bf89-dc7b6fe63db6" />
+<br/>
+<br/>
 
+#### extracted csv files
 
 The python script is used to extract the 3 tables from the page and create 3 csv files. I use regex "find and replace" in Visual Studio Code and a simple python script to merge table 2 (`2026-01-page-5-table-2.csv`) into table 1 `2026-01-page-5-table-1.csv` before deleting table 2. The two csv files for page 5 of the `monthly-report_2026-01.pdf` are `2026-01-page-5-table-1.csv` and `2026-01-page-5-table-3.csv`. Here is what they look like:
 
@@ -39,10 +46,13 @@ The python script is used to extract the 3 tables from the page and create 3 csv
 |--------------------------|----------|------------|-----------|
 | **Mode (most frequent)** | Black    | White      | Black     |
 
+#### airtable 
 
 This data is taken from each monthly report's "Race Group" table (mid-2005 to present) and uploaded to an Airtable Base. Here is a screenshot highlighting the data "Race Group" data for the 2026_01 report. 
 
 <img width="1210" height="566" alt="Screenshot 2026-07-22 at 1 25 04 AM" src="https://github.com/user-attachments/assets/a04e0952-74c0-4319-a79f-8bd48ebf01e0" />
+<br/>
+<br/>
 
 ### script
 
