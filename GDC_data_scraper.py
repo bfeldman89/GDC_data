@@ -2,47 +2,56 @@
 import csv
 import os
 import time
+import camelot
 
 from pyairtable import Api
+from pyairtable.formulas import match
 from documentcloud import DocumentCloud
-import camelot
 
 api = Api(os.environ['AIRTABLE_PAT'])
 airtab = api.table(os.environ['GAGA_db'], 'GDC monthly reports')
 dc = DocumentCloud(os.environ['MUCKROCK_USERNAME'], os.environ['MUCKROCK_PW'])
 
+# get_page_number('broad crime categories', 'primary_offense_category_page_no')
+# get_page_number('years served', 'years_served_page_no')
+# get_page_number('current age', 'current_age_page_no')
+# get_page_number('race group', 'race_page_no')
+# get_page_number('County of conviction','county_of_conviction_page_no')
+# get_page_number('Age at admission', 'age_at_admission_page_no')
 
-def get_page_number():
+def get_page_number(search_terms, page_number_field):
+    """Look up page mentions for a search term and update the matching Airtable record."""
     # use the documentcloud API to get the page number of the mention
-    # obj_list = dc.documents.search('project:225200 "current age"', sort='title', mentions=True)
-    # obj_list = dc.documents.search('project:225200 "race group"', sort='title', mentions=True)
-    obj_list = dc.documents.search('project:225200 "Prison Sentence In Years"', sort='title', mentions=True)
+    obj_list = dc.documents.search(f'project:225200 "{search_terms}"', sort='title', mentions=True)
     for search_result in obj_list:
         this_dict = {}
-        this_dict['title'] = search_result.title
-        # search_result.access = 'public'
-        # search_result.put()
-        search_mentions = search_result.mentions
-        page_number = search_mentions[1].page
-        this_dict['page_number'] = page_number
-        this_dict['id'] = search_result.id
-        time.sleep(3)
-        print(f"{this_dict['title']}\t{this_dict['id']}\t{this_dict['page_number']}")
+        pange_numbers = []
+        dc_id = search_result.id
+        record = airtab.first(formula=match({'dc_id': dc_id}))
+        mentions = search_result.mentions
+        for mention in mentions:
+            page_number = mention.page
+            pange_numbers.append(page_number)
+        this_dict[page_number_field] = ",".join(pange_numbers[1:])
+        airtab.update(record['id'], this_dict)
+        print(f"Updated record {record['fields']['report']} with page numbers: {this_dict[page_number_field]}")
+        time.sleep(1)
 
 
-def create_csv_from_pdf():
-    # extract csv files from the correct page of the pdfs using camelot
-    records = airtab.all(view='testing', fields=['report', 'race_page_no'])
+# example folders: 'primary_offense_category', 'county_of_conviction', 'age_at_admission'
+
+def create_csv_from_pdf(folder):
+    """Extract CSV tables from monthly report PDFs using the correct page number."""
+    pg_no_field = f"{folder}_page_no"
+    records = airtab.all(view='testing', fields=['report', pg_no_field])
     for record in records:
         report = record['fields']['report']
-        pg_no = record['fields']['race_page_no']
+        pg_no = record['fields'][pg_no_field]
         print(f"report: {report}\tpage: {pg_no}")
-        test_pdf = f'/Users/blakefeldman/code/GDC_data/GDC_monthly_reports/pdf/monthly-report_{report}.pdf'
-        tables = camelot.read_pdf(test_pdf, pages=pg_no)
-        # print(tables[0].parsing_report)
-        # tables[0].df
-        tables.export(f'{report}.csv', f='csv')
-        time.sleep(1.5)
+        this_pdf = f'/Users/blakefeldman/code/GDC_data/GDC_monthly_reports/pdf/monthly-report_{report}.pdf'
+        tables = camelot.read_pdf(this_pdf, pages=pg_no)
+        tables.export(f'/Users/blakefeldman/code/GDC_data/GDC_monthly_reports/csv/{folder}/{report}.csv', f='csv')
+        time.sleep(.5)
 
 
 def PSIY_csv_data_to_airtable():
