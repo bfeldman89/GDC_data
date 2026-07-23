@@ -48,7 +48,7 @@ The python script is used to extract the 3 tables from the page and create 3 csv
 
 #### airtable 
 
-This data is taken from each monthly report's "Race Group" table (mid-2005 to present) and uploaded to an Airtable Base. Here is a screenshot highlighting the data "Race Group" data for the 2026_01 report. 
+This data is taken from each monthly report's "Race Group" table (mid-2005 to present) and uploaded to an Airtable Base. Here is a screenshot highlighting the "Race Group" data for the 2026_01 report. 
 
 <img width="1210" height="566" alt="Screenshot 2026-07-22 at 1 25 04 AM" src="https://github.com/user-attachments/assets/a04e0952-74c0-4319-a79f-8bd48ebf01e0" />
 <br/>
@@ -64,8 +64,13 @@ This data is taken from each monthly report's "Race Group" table (mid-2005 to pr
 
 ### tabular data
 
-| Table (as titled by GDC) | csv extracted from each PDF | data pulled from all reports (2005-07 to present) |
-|--------------------------|-----------------------------|---------------------------------------------------|
-| Prison sentence in years | `GDC_monthly_reports/csv/camelot/prison_sentence_in_years/` | [Airtable](https://airtable.com/appxNeOaDgZm07EhE/shr3i1YAdVlAX3XbW) |
-| Current age, broken out in ten-year age groups | `GDC_monthly_reports/csv/camelot/current_age/` | [Airtable](https://airtable.com/appxNeOaDgZm07EhE/shrjripCdl7TxwEWl) |
-| Race group | `GDC_monthly_reports/csv/camelot/race_group/` | [Airtable](https://airtable.com/appxNeOaDgZm07EhE/shr8EFMIix4AJ7JeT) |
+| Table (as titled by GDC)                                    | csv extracted from each PDF                         | data pulled from all reports (2005-07 to present)                    |
+|-------------------------------------------------------------|-----------------------------------------------------|----------------------------------------------------------------------|
+| Prison sentence in years                                    | `GDC_monthly_reports/csv/prison_sentence_in_years/` | [Airtable](https://airtable.com/appxNeOaDgZm07EhE/shr3i1YAdVlAX3XbW) |
+| Current age, broken out in ten-year age groups              | `GDC_monthly_reports/csv/current_age/`              | [Airtable](https://airtable.com/appxNeOaDgZm07EhE/shrjripCdl7TxwEWl) |
+| Race group                                                  | `GDC_monthly_reports/csv/race_group/`               | [Airtable](https://airtable.com/appxNeOaDgZm07EhE/shr8EFMIix4AJ7JeT) |
+| Primary offense, broken out into six broad crime categories | `GDC_monthly_reports/csv/primary_offense_category/` | [Airtable](https://airtable.com/appxNeOaDgZm07EhE/shr07wH3tMwmNX9Tc) |
+| Years served (jail + prison) in this incarceration          | `GDC_monthly_reports/csv/years_served/`              | Airtable                                                             |
+| Age at admission                                            | `GDC_monthly_reports/csv/age_at_admission/`          | Airtable                                                             |
+| County of conviction of primary offense                     | `GDC_monthly_reports/csv/county_of_conviction/`      | Airtable                                                             |
+
