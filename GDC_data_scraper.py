@@ -44,6 +44,7 @@ def create_csv_from_pdf(folder):
     """Extract CSV tables from monthly report PDFs using the correct page number."""
     pg_no_field = f"{folder}_page_no"
     records = airtab.all(view='testing', fields=['report', pg_no_field])
+    print(f"found {len(records)} records in the testing view")
     for record in records:
         report = record['fields']['report']
         pg_no = record['fields'][pg_no_field]
@@ -269,8 +270,8 @@ def append_csv2_to_csv1():
         report = record['fields']['report']
         pg_no = record['fields']['race_page_no']
         print(f"report: {report}\tpage: {pg_no}")
-        fn1 = f'/Users/blakefeldman/code/GDC_data/GDC_monthly_reports/csv/camelot/race_group/{report}-page-{pg_no}-table-1.csv'
-        fn2 = f'/Users/blakefeldman/code/GDC_data/GDC_monthly_reports/csv/camelot/race_group/{report}-page-{pg_no}-table-2.csv'
+        fn1 = f'/Users/blakefeldman/code/GDC_data/GDC_monthly_reports/csv/race_group/{report}-page-{pg_no}-table-1.csv'
+        fn2 = f'/Users/blakefeldman/code/GDC_data/GDC_monthly_reports/csv/race_group/{report}-page-{pg_no}-table-2.csv'
         # Append the contents of file2 directly into file1
         with open(fn1, 'a', encoding='utf-8') as outfile:
             with open(fn2, 'r', encoding='utf-8') as infile:
