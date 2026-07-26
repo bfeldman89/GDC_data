@@ -487,9 +487,9 @@ Total Reported,"46,015",100%,93.76%,"3,063",100%,6.24%,"49,078  100%"
 Not Reported,"1,082",297,"1,379"
 Grand Total,"47,097","3,360","50,457"
 "",Male,Female,Total
-Mean    (average),5'10'',5'05'',5'10''
+Mean (average),5'10'',5'05'',5'10''
 Median (middle),5'10'',5'05'',5'10''
-Mode    (most frequent),5'11'',5'04'',5'09''
+Mode (most frequent),5'11'',5'04'',5'09''
 "",,Male,,,Female,,Total
 Weight,Count,Col %,Row %,Count,Col %,Row %,Total Col %
 Under 80 pounds,5,0.01%,100.00%,,,,5  0.01%
@@ -530,9 +530,9 @@ Total Reported,"46,015",100%,93.76%,"3,063",100%,6.24%,"49,078  100.0%"
 Not Reported,"1,082",297,"1,379"
 Grand Total,"47,097","3,360","50,457"
 "",Male,Female,Total
-Mean    (average),185,177,185
+Mean (average),185,177,185
 Median (middle),180,170,180
-Mode    (most frequent),180,160,180
+Mode (most frequent),180,160,180
 "",,Male,,Female,,Total
 Type of Admission,Count,Col %,Row % Count,Col %,Row %,Total Col %
 1 Committed From Court,"32,117",69.31%,"93.67%  2,171",66.13%,6.33%,"34,288  69.10%"

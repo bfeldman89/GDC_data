@@ -542,9 +542,9 @@ Total Reported,"48,884",100%,93.05%,"3,654",100%,6.95%,"52,538  100.0%"
 Not Reported,275,0,275
 Grand Total,"49,159","3,654","52,813"
 "",Male,Female,Total
-Mean    (average),185,165,183
+Mean (average),185,165,183
 Median (middle),180,160,180
-Mode    (most frequent),180,160,180
+Mode (most frequent),180,160,180
 "",,Male,,,Female,,Total
 Military service,Count,Col %,Row %,Count,Col %,Row %,Total Col %
 1 Air Force,"1,911",4.73%,98.35%,32,.93%,1.65%,"1,943  4.43%"
@@ -704,7 +704,8 @@ Not Reported,0,0,0
 "",Male,Female,Total
 Grand Total,"35,419","3,233","38,652"
 "",,,
-Mode (most frequent),546 Wilcox State Prison,508 Arrendale State Prison,"546 Wilcox StatePrison"
+Mode (most frequent),546 Wilcox State Prison,508 Arrendale State Prison,"546 Wilcox State
+Prison"
 "",,Male,,,Female,,Total
 Institution Type - Private Prisons,Count,Col %,Row %,Count,Col %,Row %,Total Col %
 569 Coffee Corr Facility,"2,060",38.11%,100.00%,,,,"2,060  38.11%"

@@ -528,9 +528,9 @@ Total Reported,"50,687",100%,93.25%,"3,667",100%,6.75%,"54,354  100%"
 Not Reported,582,13,595
 Grand Total,"51,269","3,680","54,949"
 "",Male,Female,Total
-Mean    (average),187,172,186
+Mean (average),187,172,186
 Median (middle),180,165,180
-Mode    (most frequent),180,150,180
+Mode (most frequent),180,150,180
 "",,Male,,,Female,,Total
 Military service,Count,Col %,Row %,Count,Col %,Row %,Total Col %
 1 Air Force,"1,556",59.71%,98.11%,30,75.00%,1.89%,"1,586  59.94%"
@@ -1639,7 +1639,8 @@ Total Rported,"51,191",101%,93.3%,"3,679",100%,6.7%,"54,870  101%"
 Not Reported,78,1,79
 Grand Total,"51,269","3,680","54,949"
 "",,,
-Mode (most frequent),1601 Burg Bef 7/1/12,1701 Forg 1st Bef 7/1/12,"1601 Burg Bef7/1/12"
+Mode (most frequent),1601 Burg Bef 7/1/12,1701 Forg 1st Bef 7/1/12,"1601 Burg Bef
+7/1/12"
 "",,Male,,,Female,,Total
 County of Conviction,Count,Col %,Row %,Count,Col %,Row %,Total Col %
 000 Unknown,292,.57%,93.59%,20,.54%,6.41%,312  .57%

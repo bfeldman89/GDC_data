@@ -536,9 +536,9 @@ Total Reported,"48,917",100%,92.90%,"3,737",100%,7.10%,"52,654  100%"
 Not Reported,262,3,265
 Grand Total,"49,179","3,740","52,919"
 "",Male,Female,Total
-Mean    (average),185,165,184
+Mean (average),185,165,184
 Median (middle),180,160,180
-Mode    (most frequent),180,140,180
+Mode (most frequent),180,140,180
 "",,Male,,,Female,,Total
 Military service,Count,Col %,Row %,Count,Col %,Row %,Total Col %
 1 Air Force,"1,797",5.15%,98.41%,29,1.05%,1.59%,"1,826  4.84%"
@@ -689,7 +689,8 @@ Total Reported,"35,484",100%,91.41%,"3,326",100%,8.57%,"38,819  100%"
 Not Reported,0,0,0
 Grand Total,"35,484","3,326","38,819"
 "",Male,Female,Total
-Mode (most frequent),521 Ga Diag & Class Pris,508 Arrendale State Prison,"521 Ga Diag &Class Pris"
+Mode (most frequent),521 Ga Diag & Class Pris,508 Arrendale State Prison,"521 Ga Diag &
+Class Pris"
 "",,Male,,,Female,,Total
 Institution Type - Private Prisons,Count,Col %,Row %,Count,Col %,Row %,Total Col %
 569 Coffee Corr Facility,"2,617",49.91%,100.00%,,,,"2,617  49.91%"

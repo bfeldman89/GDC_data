@@ -508,9 +508,9 @@ Total Reported,"50,038",100%,93.53%,"3,464",100%,6.47%,"53,502  100%"
 Not Reported,419,95,514
 Grand Total,"50,457","3,559","54,016"
 "",Male,Female,Total
-Mean    (average),5'10'',5'05'',5'10''
+Mean (average),5'10'',5'05'',5'10''
 Median (middle),5'10'',5'05'',5'10''
-Mode    (most frequent),5'11'',5'04'',5'09''
+Mode (most frequent),5'11'',5'04'',5'09''
 "",,Male,,,Female,,Total
 Weight,Count,Col %,Row %,Count,Col %,Row %,Total Col %
 Under 80 pounds,8,0.02%,80.00%,2,0.06%,20.00%,10  0.02%
@@ -551,9 +551,9 @@ Total Reported,"50,038",100%,93.53%,"3,464",100%,6.47%,"53,502  100%"
 Not Reported,419,95,514
 Grand Total,"50,457","3,559","54,016"
 "",Male,Female,Total
-Mean    (average),186,175,185
+Mean (average),186,175,185
 Median (middle),180,167,180
-Mode    (most frequent),180,150,180
+Mode (most frequent),180,150,180
 "",,Male,,,Female,,Total
 Military service,Count,Col %,Row %,Count,Col %,Row %,Total Col %
 1 Air Force,289,.71%,97.31%,8,.24%,2.69%,297  .68%

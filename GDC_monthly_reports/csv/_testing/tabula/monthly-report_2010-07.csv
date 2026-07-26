@@ -540,9 +540,9 @@ Total Reported,"48,411",100%,92.84%,"3,736",100%,7.16%,"52,147  100.0%"
 Not Reported,254,0,254
 Grand Total,"48,665","3,736","52,401"
 "",Male,Female,Total
-Mean    (average),185,165,183
+Mean (average),185,165,183
 Median (middle),180,160,180
-Mode    (most frequent),180,140,180
+Mode (most frequent),180,140,180
 "",,Male,,,Female,,Total
 Military service,Count,Col %,Row %,Count,Col %,Row %,Total Col %
 1 Air Force,"1,853",4.63%,98.25%,33,.96%,1.75%,"1,886  4.34%"
@@ -698,7 +698,8 @@ Total Reported,"35,162",100%,91.43%,"3,295",100%,8.57%,"38,458  100%"
 Not Reported,0,0,0
 Grand Total,"35,162","3,295","38,458"
 "",Male,Female,Total
-Mode (most frequent),546 Wilcox State Prison,508 Arrendale State Prison,"546 Wilcox StatePrison"
+Mode (most frequent),546 Wilcox State Prison,508 Arrendale State Prison,"546 Wilcox State
+Prison"
 "",,Male,,,Female,,Total
 Institution Type - Private Prisons,Count,Col %,Row %,Count,Col %,Row %,Total Col %
 569 Coffee Corr Facility,"2,556",51.74%,100.00%,,,,"2,556  51.74%"
@@ -1593,7 +1594,8 @@ Total Rported,"48,622",100%,92.87%,"3,731",100%,7.13%,"52,354",100%
 Not Reported,43,5,48
 Grand Total,"48,665","3,736","52,402"
 "",,,
-Mode (most frequent),1902 Armed Robbery,1701 Forgery 1st Degree,"1902 ArmedRobbery"
+Mode (most frequent),1902 Armed Robbery,1701 Forgery 1st Degree,"1902 Armed
+Robbery"
 "",,Male,,,Female,,Total
 County of Conviction,Count,Col %,Row %,Count,Col %,Row %,Total Col %
 1 Appling,102,.21%,93.58%,7,.19%,6.42%,109  .21%

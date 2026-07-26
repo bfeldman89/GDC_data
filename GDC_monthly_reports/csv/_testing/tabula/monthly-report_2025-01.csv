@@ -431,7 +431,7 @@ Grand Total,"47,940","3,836","51,776"
 "",Male,Female,Total
 NMoeta Rn e  p (oarvterdage),34.34,35.75,34.45
 GMreadniadn T (omtaidl dle),32,34,33
-Mode    (most frequent),22,32,22
+Mode (most frequent),22,32,22
 "",,Male,,,Female,,Total
 Height,Count,Col %,Row %,Count,Col %,Row %,Total Col %
 0,710,1.48%,95.95%,30,0.78%,4.05%,740  1.43%
@@ -477,8 +477,8 @@ Total Reported,"47,940",100%,92.59%,"3,836",100%,7.41%,"51,776  100%"
 "",Male,Female,Total
 Not Reported,0,0,0
 Grand Total,"47,940","3,836","51,776"
-Mean    (average),5'10'',5'05'',5'10''
-Mode    (most frequent),"5'09""","5'03""","5'09"""
+Mean (average),5'10'',5'05'',5'10''
+Mode (most frequent),"5'09""","5'03""","5'09"""
 "",,Male,,,Female,,Total
 Weight,Count,Col %,Row %,Count,Col %,Row %,Total Col %
 Under 80 pounds,6,0.01%,100.00%,,,,6  0.01%

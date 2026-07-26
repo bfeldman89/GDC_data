@@ -468,7 +468,7 @@ Grand Total,"52,694","3,896","56,590"
 "",Male,Female,Total
 MNoeta Rn e  p (oarvterdage),32.03,34.13,32.18
 GMreadniadn T (omtaidl dle),30,33,30
-Mode    (most frequent),20,24,21
+Mode (most frequent),20,24,21
 "",,Male,,,Female,,Total
 Height,Count,Col %,Row %,Count,Col %,Row %,Total Col %
 4'10'',2,0.02%,13.33%,13,5.88%,86.67%,15  0.12%
@@ -537,9 +537,9 @@ Total Reported,"51,679",100%,93.04%,"3,863",100%,6.96%,"55,542  100%"
 Not Reported,"1,015",33,"1,048"
 Grand Total,"52,694","3,896","56,590"
 "",Male,Female,Total
-Mean    (average),186,171,185
+Mean (average),186,171,185
 Median (middle),180,165,180
-Mode    (most frequent),180,150,180
+Mode (most frequent),180,150,180
 "",,Male,,,Female,,Total
 Military service,Count,Col %,Row %,Count,Col %,Row %,Total Col %
 1 Air Force,"1,667",6.68%,97.94%,35,2.23%,2.06%,"1,702  6.41%"
