@@ -56,31 +56,97 @@ def create_csv_from_pdf(folder):
 
 
 def PSIY_csv_data_to_airtable():
-    records = airtab.all(view='testing', fields=['report', 'dc_page_number'])
+    records = airtab.all(view='prison_sentence_in_years', fields=['report'])
     for record in records:
         report = record['fields']['report']
-        pg_no = record['fields']['dc_page_number']
-        print(f"report: {report}\tpage: {pg_no}")
-        csv_file = f'/Users/blakefeldman/code/GDC_data/GDC_monthly_reports/csv/camelot/prison_sentence_in_years/{report}-page-{pg_no}-table-1.csv'
+        csv_file = f'/Users/blakefeldman/code/GDC_data/GDC_monthly_reports/csv/prison_sentence_in_years/{report}.csv'
         this_dict = {}
-        with open(csv_file, 'r') as this_file:
+        with open(csv_file, 'r', encoding='utf-8') as this_file:
             reader = csv.DictReader(this_file)
             for row in reader:
                 if row['Prison Sentence In Years'] == '20.1 - Over':
-                    string_a = row['Total'].replace(',', '')
-                    this_dict['20+'] = int(string_a)
+                    this_dict['PSIY_20.1+'] = row['Total'].replace(',', '')
+                    this_dict['PSIY_20.1+_m'] = row['M count'].replace(',', '')
+                    this_dict['PSIY_20.1+_f'] = row['F count'].replace(',', '')
                 elif row['Prison Sentence In Years'] == 'Life':
-                    string_b = row['Total'].replace(',', '')
-                    this_dict['life'] = int(string_b)
+                    this_dict['PSIY_life'] = row['Total'].replace(',', '')
+                    this_dict['PSIY_life_m'] = row['M count'].replace(',', '')
+                    this_dict['PSIY_life_f'] = row['F count'].replace(',', '')                    
                 elif row['Prison Sentence In Years'] == 'Death':
-                    string_c = row['Total'].replace(',', '')
-                    this_dict['death'] = int(string_c)
+                    this_dict['PSIY_death'] = row['Total'].replace(',', '')
+                    this_dict['PSIY_death_m'] = row['M count'].replace(',', '')
+                    this_dict['PSIY_death_f'] = row['F count'].replace(',', '')
                 elif row['Prison Sentence In Years'] == 'Life Without Parole':
-                    string_d = row['Total'].replace(',', '')
-                    this_dict['LWOP'] = int(string_d)
+                    this_dict['PSIY_LWOP'] = row['Total'].replace(',', '')
+                    this_dict['PSIY_LWOP_m'] = row['M count'].replace(',', '')
+                    this_dict['PSIY_LWOP_f'] = row['F count'].replace(',', '')
                 elif row['Prison Sentence In Years'] == 'Total Reported':
-                    string_e = row['Total'].replace(',', '')
-                    this_dict['total_pop'] = int(string_e)
+                    this_dict['PSIY_total_reported'] = row['Total'].replace(',', '')
+                    this_dict['PSIY_total_reported_m'] = row['M count'].replace(',', '')
+                    this_dict['PSIY_total_reported_f'] = row['F count'].replace(',', '')
+                elif row['Prison Sentence In Years'] == 'Not Reported':
+                    this_dict['PSIY_not_reported'] = row['Total'].replace(',', '')
+                    this_dict['PSIY_not_reported_m'] = row['M count'].replace(',', '')
+                    this_dict['PSIY_not_reported_f'] = row['F count'].replace(',', '')
+                elif row['Prison Sentence In Years'] == '0 - 1':
+                    this_dict['PSIY_0-1'] = row['Total'].replace(',', '')
+                    this_dict['PSIY_0-1_m'] = row['M count'].replace(',', '')
+                    this_dict['PSIY_0-1_f'] = row['F count'].replace(',', '')
+                elif row['Prison Sentence In Years'] == '1.1 - 2':
+                    this_dict['PSIY_1.1-2'] = row['Total'].replace(',', '')
+                    this_dict['PSIY_1.1-2_m'] = row['M count'].replace(',', '')
+                    this_dict['PSIY_1.1-2_f'] = row['F count'].replace(',', '')
+                elif row['Prison Sentence In Years'] == '2.1 - 3':
+                    this_dict['PSIY_2.1-3'] = row['Total'].replace(',', '')
+                    this_dict['PSIY_2.1-3_m'] = row['M count'].replace(',', '')
+                    this_dict['PSIY_2.1-3_f'] = row['F count'].replace(',', '')
+                elif row['Prison Sentence In Years'] == '3.1 - 4':
+                    this_dict['PSIY_3.1-4'] = row['Total'].replace(',', '')
+                    this_dict['PSIY_3.1-4_m'] = row['M count'].replace(',', '')
+                    this_dict['PSIY_3.1-4_f'] = row['F count'].replace(',', '')
+                elif row['Prison Sentence In Years'] == '4.1 - 5':
+                    this_dict['PSIY_4.1-5'] = row['Total'].replace(',', '')
+                    this_dict['PSIY_4.1-5_m'] = row['M count'].replace(',', '')
+                    this_dict['PSIY_4.1-5_f'] = row['F count'].replace(',', '')
+                elif row['Prison Sentence In Years'] == '5.1 - 6':
+                    this_dict['PSIY_5.1-6'] = row['Total'].replace(',', '')
+                    this_dict['PSIY_5.1-6_m'] = row['M count'].replace(',', '')
+                    this_dict['PSIY_5.1-6_f'] = row['F count'].replace(',', '')
+                elif row['Prison Sentence In Years'] == '6.1 - 7':
+                    this_dict['PSIY_6.1-7'] = row['Total'].replace(',', '')
+                    this_dict['PSIY_6.1-7_m'] = row['M count'].replace(',', '')
+                    this_dict['PSIY_6.1-7_f'] = row['F count'].replace(',', '')
+                elif row['Prison Sentence In Years'] == '7.1 - 8':
+                    this_dict['PSIY_7.1-8'] = row['Total'].replace(',', '')
+                    this_dict['PSIY_7.1-8_m'] = row['M count'].replace(',', '')
+                    this_dict['PSIY_7.1-8_f'] = row['F count'].replace(',', '')
+                elif row['Prison Sentence In Years'] == '8.1 - 9':
+                    this_dict['PSIY_8.1-9'] = row['Total'].replace(',', '')
+                    this_dict['PSIY_8.1-9_m'] = row['M count'].replace(',', '')
+                    this_dict['PSIY_8.1-9_f'] = row['F count'].replace(',', '')
+                elif row['Prison Sentence In Years'] == '9.1 - 10':
+                    this_dict['PSIY_9.1-10'] = row['Total'].replace(',', '')
+                    this_dict['PSIY_9.1-10_m'] = row['M count'].replace(',', '')
+                    this_dict['PSIY_9.1-10_f'] = row['F count'].replace(',', '')
+                elif row['Prison Sentence In Years'] == '10.1 - 12':
+                    this_dict['PSIY_10.1-12'] = row['Total'].replace(',', '')
+                    this_dict['PSIY_10.1-12_m'] = row['M count'].replace(',', '')
+                    this_dict['PSIY_10.1-12_f'] = row['F count'].replace(',', '')
+                elif row['Prison Sentence In Years'] == '12.1 - 15':
+                    this_dict['PSIY_12.1-15'] = row['Total'].replace(',', '')
+                    this_dict['PSIY_12.1-15_m'] = row['M count'].replace(',', '')
+                    this_dict['PSIY_12.1-15_f'] = row['F count'].replace(',', '')
+                elif row['Prison Sentence In Years'] == '15.1 - 20':
+                    this_dict['PSIY_15.1-20'] = row['Total'].replace(',', '')
+                    this_dict['PSIY_15.1-20_m'] = row['M count'].replace(',', '')
+                    this_dict['PSIY_15.1-20_f'] = row['F count'].replace(',', '')
+                elif row['Prison Sentence In Years'] == 'Youthful Offenders':
+                    this_dict['PSIY_YO'] = row['Total'].replace(',', '')
+                    this_dict['PSIY_YO_m'] = row['M count'].replace(',', '')
+                    this_dict['PSIY_YO_f'] = row['F count'].replace(',', '')
+        # now convert all those strings to integers
+        for key, value in this_dict.items():
+            this_dict[key] = int(value)
         airtab.update(record['id'], this_dict)
         time.sleep(3)
 
@@ -93,82 +159,82 @@ def race_csv_data_to_airtable():
         print(f"report: {report}\tpage: {pg_no}")
         csv_file = f'/Users/blakefeldman/code/GDC_data/GDC_monthly_reports/csv/camelot/race_group/{report}-page-{pg_no}-table-1.csv'
         this_dict = {}
-        with open(csv_file, 'r') as this_file:
+        with open(csv_file, 'r', encoding='utf-8') as this_file:
             reader = csv.DictReader(this_file)
             for row in reader:
                 if row['Race Group'] == 'White':
-                    white_m_string = row['M Count'].replace(',', '')
-                    white_f_string = row['F Count'].replace(',', '')
+                    white_m_string = row['M count'].replace(',', '')
+                    white_f_string = row['F count'].replace(',', '')
                     white_string = row['Total'].replace(',', '')
                     this_dict['white_male_pop'] = int(white_m_string)
                     this_dict['white_female_pop'] = int(white_f_string)
                     this_dict['white_pop'] = int(white_string)
                 elif row['Race Group'] == 'Black':
-                    black_m_string = row['M Count'].replace(',', '')
-                    black_f_string = row['F Count'].replace(',', '')
+                    black_m_string = row['M count'].replace(',', '')
+                    black_f_string = row['F count'].replace(',', '')
                     black_string = row['Total'].replace(',', '')
                     this_dict['black_male_pop'] = int(black_m_string)
                     this_dict['black_female_pop'] = int(black_f_string)
                     this_dict['black_pop'] = int(black_string)
                 elif row['Race Group'] == 'Indian':
-                    indian_m_string = row['M Count'].replace(',', '')
-                    indian_f_string = row['F Count'].replace(',', '')
+                    indian_m_string = row['M count'].replace(',', '')
+                    indian_f_string = row['F count'].replace(',', '')
                     indian_string = row['Total'].replace(',', '')
                     this_dict['indian_male_pop'] = int(indian_m_string)
                     this_dict['indian_female_pop'] = int(indian_f_string)
                     this_dict['indian_pop'] = int(indian_string)
                 elif row['Race Group'] == 'Asian':
-                    asian_m_string = row['M Count'].replace(',', '')
-                    asian_f_string = row['F Count'].replace(',', '')
+                    asian_m_string = row['M count'].replace(',', '')
+                    asian_f_string = row['F count'].replace(',', '')
                     asian_string = row['Total'].replace(',', '')
                     this_dict['asian_male_pop'] = int(asian_m_string)
                     this_dict['asian_female_pop'] = int(asian_f_string)
                     this_dict['asian_pop'] = int(asian_string)
                 elif row['Race Group'] == 'Unknown':
-                    unknown_m_string = row['M Count'].replace(',', '')
-                    unknown_f_string = row['F Count'].replace(',', '')
+                    unknown_m_string = row['M count'].replace(',', '')
+                    unknown_f_string = row['F count'].replace(',', '')
                     unknown_string = row['Total'].replace(',', '')
                     this_dict['race_unknown_male_pop'] = int(unknown_m_string)
                     this_dict['race_unknown_female_pop'] = int(unknown_f_string)
                     this_dict['race_unknown_pop'] = int(unknown_string)
                 elif row['Race Group'] == 'Not Reported':
-                    not_reported_m_string = row['M Count'].replace(',', '')
-                    not_reported_f_string = row['F Count'].replace(',', '')
+                    not_reported_m_string = row['M count'].replace(',', '')
+                    not_reported_f_string = row['F count'].replace(',', '')
                     not_reported_string = row['Total'].replace(',', '')
                     this_dict['race_not_reported_male_pop'] = int(not_reported_m_string)
                     this_dict['race_not_reported_female_pop'] = int(not_reported_f_string)
                     this_dict['race_not_reported_pop'] = int(not_reported_string)
                 elif row['Race Group'] == 'Total Reported':
-                    total_reported_m_string = row['M Count'].replace(',', '')
-                    total_reported_f_string = row['F Count'].replace(',', '')
+                    total_reported_m_string = row['M count'].replace(',', '')
+                    total_reported_f_string = row['F count'].replace(',', '')
                     total_reported_string = row['Total'].replace(',', '')
                     this_dict['race_total_reported_male_pop'] = int(total_reported_m_string)
                     this_dict['race_total_reported_female_pop'] = int(total_reported_f_string)
                     this_dict['race_total_reported_pop'] = int(total_reported_string)
                 elif row['Race Group'] == 'Hispanic':
-                    hispanic_m_string = row['M Count'].replace(',', '')
-                    hispanic_f_string = row['F Count'].replace(',', '')
+                    hispanic_m_string = row['M count'].replace(',', '')
+                    hispanic_f_string = row['F count'].replace(',', '')
                     hispanic_string = row['Total'].replace(',', '')
                     this_dict['hispanic_male_pop'] = int(hispanic_m_string)
                     this_dict['hispanic_female_pop'] = int(hispanic_f_string)
                     this_dict['hispanic_pop'] = int(hispanic_string)
                 elif row['Race Group'] == 'Native American':
-                    native_american_m_string = row['M Count'].replace(',', '')
-                    native_american_f_string = row['F Count'].replace(',', '')
+                    native_american_m_string = row['M count'].replace(',', '')
+                    native_american_f_string = row['F count'].replace(',', '')
                     native_american_string = row['Total'].replace(',', '')
                     this_dict['native_american_male_pop'] = int(native_american_m_string)
                     this_dict['native_american_female_pop'] = int(native_american_f_string)
                     this_dict['native_american_pop'] = int(native_american_string)
                 elif row['Race Group'] == 'Native Hawaiian':
-                    native_hawaiian_m_string = row['M Count'].replace(',', '')
-                    native_hawaiian_f_string = row['F Count'].replace(',', '')
+                    native_hawaiian_m_string = row['M count'].replace(',', '')
+                    native_hawaiian_f_string = row['F count'].replace(',', '')
                     native_hawaiian_string = row['Total'].replace(',', '')
                     this_dict['native_hawaiian_male_pop'] = int(native_hawaiian_m_string)
                     this_dict['native_hawaiian_female_pop'] = int(native_hawaiian_f_string)
                     this_dict['native_hawaiian_pop'] = int(native_hawaiian_string)
                 elif row['Race Group'] == 'Other':
-                    other_m_string = row['M Count'].replace(',', '')
-                    other_f_string = row['F Count'].replace(',', '')
+                    other_m_string = row['M count'].replace(',', '')
+                    other_f_string = row['F count'].replace(',', '')
                     other_string = row['Total'].replace(',', '')
                     this_dict['race_other_male_pop'] = int(other_m_string)
                     this_dict['race_other_female_pop'] = int(other_f_string)
@@ -186,77 +252,77 @@ def current_age_csv_data_to_airtable():
         print(f"report: {report}\tpage: {pg_no}")
         csv_file = f'/Users/blakefeldman/code/GDC_data/GDC_monthly_reports/csv/camelot/current_age/{report}-page-{pg_no}-table-1.csv'
         this_dict = {}
-        with open(csv_file, 'r') as this_file:
+        with open(csv_file, 'r', encoding='utf-8') as this_file:
             reader = csv.DictReader(this_file)
             for row in reader:
                 age_group = row['Current Age'][:5]
                 print(age_group)
                 if age_group == 'Teens':
-                    teens_m_string = row['M Count'].replace(',', '')
-                    teens_f_string = row['F Count'].replace(',', '')
+                    teens_m_string = row['M count'].replace(',', '')
+                    teens_f_string = row['F count'].replace(',', '')
                     teens_string = row['Total'].replace(',', '')
                     this_dict['teens_male_pop'] = int(teens_m_string)
                     this_dict['teens_female_pop'] = int(teens_f_string)
                     this_dict['teens_pop'] = int(teens_string)
                 elif age_group == 'Twent':
-                    twenties_m_string = row['M Count'].replace(',', '')
-                    twenties_f_string = row['F Count'].replace(',', '')
+                    twenties_m_string = row['M count'].replace(',', '')
+                    twenties_f_string = row['F count'].replace(',', '')
                     twenties_string = row['Total'].replace(',', '')
                     this_dict['twenties_male_pop'] = int(twenties_m_string)
                     this_dict['twenties_female_pop'] = int(twenties_f_string)
                     this_dict['twenties_pop'] = int(twenties_string)
                 elif age_group == 'Thirt':
-                    thirties_m_string = row['M Count'].replace(',', '')
-                    thirties_f_string = row['F Count'].replace(',', '')
+                    thirties_m_string = row['M count'].replace(',', '')
+                    thirties_f_string = row['F count'].replace(',', '')
                     thirties_string = row['Total'].replace(',', '')
                     this_dict['thirties_male_pop'] = int(thirties_m_string)
                     this_dict['thirties_female_pop'] = int(thirties_f_string)
                     this_dict['thirties_pop'] = int(thirties_string)
                 elif age_group == 'Forti':
-                    forties_m_string = row['M Count'].replace(',', '')
-                    forties_f_string = row['F Count'].replace(',', '')
+                    forties_m_string = row['M count'].replace(',', '')
+                    forties_f_string = row['F count'].replace(',', '')
                     forties_string = row['Total'].replace(',', '')
                     this_dict['forties_male_pop'] = int(forties_m_string)
                     this_dict['forties_female_pop'] = int(forties_f_string)
                     this_dict['forties_pop'] = int(forties_string)
                 elif age_group == 'Fifti':
-                    fifties_m_string = row['M Count'].replace(',', '')
-                    fifties_f_string = row['F Count'].replace(',', '')
+                    fifties_m_string = row['M count'].replace(',', '')
+                    fifties_f_string = row['F count'].replace(',', '')
                     fifties_string = row['Total'].replace(',', '')
                     this_dict['fifties_male_pop'] = int(fifties_m_string)
                     this_dict['fifties_female_pop'] = int(fifties_f_string)
                     this_dict['fifties_pop'] = int(fifties_string)
                 elif age_group == 'Sixti':
-                    sixties_m_string = row['M Count'].replace(',', '')
-                    sixties_f_string = row['F Count'].replace(',', '')
+                    sixties_m_string = row['M count'].replace(',', '')
+                    sixties_f_string = row['F count'].replace(',', '')
                     sixties_string = row['Total'].replace(',', '')
                     this_dict['sixties_male_pop'] = int(sixties_m_string)
                     this_dict['sixties_female_pop'] = int(sixties_f_string)
                     this_dict['sixties_pop'] = int(sixties_string)
                 elif age_group == 'Seven':
-                    seventy_plus_m_string = row['M Count'].replace(',', '')
-                    seventy_plus_f_string = row['F Count'].replace(',', '')
+                    seventy_plus_m_string = row['M count'].replace(',', '')
+                    seventy_plus_f_string = row['F count'].replace(',', '')
                     seventy_plus_string = row['Total'].replace(',', '')
                     this_dict['70_plus_male_pop'] = int(seventy_plus_m_string)
                     this_dict['70_plus_female_pop'] = int(seventy_plus_f_string)
                     this_dict['70_plus_pop'] = int(seventy_plus_string)
                 elif age_group == 'Grand':
-                    total_m_pop_string = row['M Count'].replace(',', '')
-                    total_f_pop_string = row['F Count'].replace(',', '')
+                    total_m_pop_string = row['M count'].replace(',', '')
+                    total_f_pop_string = row['F count'].replace(',', '')
                     total_string = row['Total'].replace(',', '')
                     this_dict['total_male_pop'] = int(total_m_pop_string)
                     this_dict['total_female_pop'] = int(total_f_pop_string)
                     this_dict['total_pop_2'] = int(total_string)
                 elif age_group == 'Not R':
-                    not_reported_m_string = row['M Count'].replace(',', '')
-                    not_reported_f_string = row['F Count'].replace(',', '')
+                    not_reported_m_string = row['M count'].replace(',', '')
+                    not_reported_f_string = row['F count'].replace(',', '')
                     not_reported_string = row['Total'].replace(',', '')
                     this_dict['current_age_not_reported_male'] = int(not_reported_m_string)
                     this_dict['current_age_not_reported_female'] = int(not_reported_f_string)
                     this_dict['current_age_not_reported'] = int(not_reported_string)
                 elif age_group == 'Total':
-                    total_reported_m_pop_string = row['M Count'].replace(',', '')
-                    total_reported_f_pop_string = row['F Count'].replace(',', '')
+                    total_reported_m_pop_string = row['M count'].replace(',', '')
+                    total_reported_f_pop_string = row['F count'].replace(',', '')
                     total_reported_string = row['Total'].replace(',', '')
                     this_dict['current_age_reported_male'] = int(total_reported_m_pop_string)
                     this_dict['current_age_reported_female'] = int(total_reported_f_pop_string)
