@@ -5,11 +5,12 @@
 ### summary
 
 The Georgia Department of Corrections publishes monthly statistical reports that describe its population and admissions according to several data points, such as race, age, offense, sentence, etc. The reports are [published](https://gdc.georgia.gov/organization/about-gdc/agency-activity/research-and-reports/monthly-statistical-reports/profiles) in PDF format. This repository includes:
- - a python script used to (1) convert tables in the PDF files into csv files and (2) upload the data into an Airtable base
- - each monthly report in PDF format (available at `GDC_monthly_reports/pdf`)
- - csv tables extracted from the PDFs (available at `GDC_monthly_reports/csv/camelot`)
 
-One of the goals of this project was to be able to visualize trends in GDC admissions and population. `csv` files of data aggregated from hundreds of monthly reports to better understand trends will be made available `GDC_monthly_reports/csv/`. Line charts and other data visualizations might also be added in the future. For now, Airtable views of aggregated data are hyperlinked in the [final section of this README document](https://github.com/bfeldman89/GDC_data/blob/main/README.md#tabular-data). 
+- a python script used to (1) convert tables in the PDF files into csv files and (2) upload the data into an Airtable base
+- each monthly report in PDF format (available at `GDC_monthly_reports/pdf`)
+- csv tables extracted from the PDFs (available at `GDC_monthly_reports/csv`)
+
+One of the goals of this project was to be able to visualize trends in GDC admissions and population. `csv` files of data aggregated from hundreds of monthly reports to better understand trends will be made available `GDC_monthly_reports/csv`. Line charts and other data visualizations might also be added in the future. For now, Airtable views of aggregated data are hyperlinked in the [final section of this README document](https://github.com/bfeldman89/GDC_data/blob/main/README.md#tabular-data).
 
 _note that the PDFs are also available in a public [DocumentCloud project](https://www.documentcloud.org/projects/225200-gdc_monthly_reports/)_
 
@@ -41,14 +42,13 @@ The python script is used to extract the 3 tables from the page and create 3 csv
 | **Not Reported**    | 0           |             |             | 0           |             |             | 0         |           |
 | **Grand Total**     | 49,135      |             |             | 4,075       |             |             | 53,210    |           |
 
-
 | **statistic**            | **Male** | **Female** | **Total** |
 |--------------------------|----------|------------|-----------|
 | **Mode (most frequent)** | Black    | White      | Black     |
 
-#### airtable 
+#### airtable
 
-This data is taken from each monthly report's "Race Group" table (mid-2005 to present) and uploaded to an Airtable Base. Here is a screenshot highlighting the "Race Group" data for the 2026_01 report. 
+This data is taken from each monthly report's "Race Group" table (mid-2005 to present) and uploaded to an Airtable Base. Here is a screenshot highlighting the "Race Group" data for the 2026_01 report.
 
 <img width="1210" height="566" alt="Screenshot 2026-07-22 at 1 25 04 AM" src="https://github.com/user-attachments/assets/a04e0952-74c0-4319-a79f-8bd48ebf01e0" />
 <br/>
@@ -66,11 +66,10 @@ This data is taken from each monthly report's "Race Group" table (mid-2005 to pr
 
 | Table (as titled by GDC)                                    | csv extracted from each PDF                         | data pulled from all reports (2005-07 to present)                    |
 |-------------------------------------------------------------|-----------------------------------------------------|----------------------------------------------------------------------|
-| Prison sentence in years                                    | `GDC_monthly_reports/csv/prison_sentence_in_years/` | [Airtable](https://airtable.com/appxNeOaDgZm07EhE/shr3i1YAdVlAX3XbW) |
+| Prison sentence in years                                    | `GDC_monthly_reports/csv/prison_sentence_in_years/` | [Airtable](https://airtable.com/appxNeOaDgZm07EhE/shr3JAcBIP6dqRYxR) |
 | Current age, broken out in ten-year age groups              | `GDC_monthly_reports/csv/current_age/`              | [Airtable](https://airtable.com/appxNeOaDgZm07EhE/shrjripCdl7TxwEWl) |
 | Race group                                                  | `GDC_monthly_reports/csv/race_group/`               | [Airtable](https://airtable.com/appxNeOaDgZm07EhE/shr8EFMIix4AJ7JeT) |
 | Primary offense, broken out into six broad crime categories | `GDC_monthly_reports/csv/primary_offense_category/` | [Airtable](https://airtable.com/appxNeOaDgZm07EhE/shr07wH3tMwmNX9Tc) |
-| Years served (jail + prison) in this incarceration          | `GDC_monthly_reports/csv/years_served/`              | Airtable                                                             |
-| Age at admission                                            | `GDC_monthly_reports/csv/age_at_admission/`          | Airtable                                                             |
-| County of conviction of primary offense                     | `GDC_monthly_reports/csv/county_of_conviction/`      | Airtable                                                             |
-
+| Years served (jail + prison) in this incarceration          | `GDC_monthly_reports/csv/years_served/`             | [Airtable](https://airtable.com/appxNeOaDgZm07EhE/shrdzQiCBwiF2CKFs) |
+| Age at admission                                            | `GDC_monthly_reports/csv/age_at_admission/`         | [Airtable](https://airtable.com/appxNeOaDgZm07EhE/shrObdjcnb1KLljJd) |
+| County of conviction of primary offense                     | `GDC_monthly_reports/csv/county_of_conviction/`     | [Airtable](https://airtable.com/appxNeOaDgZm07EhE/shrDGfiNtpEw36t1f) |
