@@ -3,10 +3,16 @@ import glob
 import os
 import time
 
+import requests
+
 from pyairtable import Api
+from documentcloud import DocumentCloud
 
 api = Api(os.environ['AIRTABLE_PAT'])
 airtab = api.table(os.environ['GAGA_db'], 'GDC monthly reports')
+airtab2 = api.table(os.environ['GAGA_db'], 'reports')
+
+dc = DocumentCloud(os.environ['MUCKROCK_USERNAME'], os.environ['MUCKROCK_PW'])
 
 def merge_csv_files_variation(folder):
     # I used this vatiation for several folders (see lines 71-73)
@@ -74,10 +80,10 @@ def merge_tables_3_and_4(folder):
             with open(t3, 'a', encoding='utf-8') as outfile:
                 with open(t4, 'r', encoding='utf-8') as infile:
                     outfile.write(infile.read())
-            os.rename(t4, f'archive/{t4}')
+            # os.rename(t4, f'archive/{t4}')
         else:
             print("table 3 doesn't exist.")
-        time.sleep(.5)
+        time.sleep(1)
 
 merge_tables_3_and_4('current_age')
 merge_tables_3_and_4('prison_sentence_in_years')
@@ -171,3 +177,47 @@ def idk_3():
         # keeping these two lines to print the countdown tho :)
         remaining_records = total_records - records.index(record) - 1
         print(f"Remaining records to process: {remaining_records}")
+
+
+def airtab_to_pdf():
+    records = airtab2.all(view='links')
+    headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
+    for record in records:
+        pdf_url = record['fields']['url']
+        output_filename = f"{record['fields']['file_name']}.pdf"
+        # 1. Send an HTTP GET request to the URL with streaming enabled
+        response = requests.get(pdf_url, headers=headers, stream=True)
+        # 2. Check if the server responded with a successful status code (200 OK)
+        if response.status_code == 200:
+            # 3. Open a local file in Write-Binary ('wb') mode
+            with open(output_filename, 'wb') as file:
+                # 4. Write the file data in chunks of 8KB to save RAM
+                for chunk in response.iter_content(chunk_size=8192):
+                    file.write(chunk)
+            print(f"Success! Saved as {output_filename}")
+        else:
+            print(f"Failed to download. HTTP Status Code: {response.status_code}")
+        time.sleep(2)
+
+
+def pdf_to_dc():
+    records = airtab2.all(view='links')
+    for record in records:
+        this_pdf = f"{record['fields']['path']}/{record['fields']['file_name']}.pdf"
+        try:
+            obj = dc.documents.upload(this_pdf, access='public', source='GDC', project='225190')
+        except requests.exceptions.ReadTimeout:
+            time.sleep(5)
+            continue
+        obj = dc.documents.get(obj.id)
+        while obj.status != 'success':
+            time.sleep(5)
+            obj = dc.documents.get(obj.id)
+        this_dict = {}
+        this_dict["dc_id"] = str(obj.id)
+        print(f"successfully uploaded {obj.title}. . .")
+        this_dict["dc_title"] = obj.title
+        this_dict["dc_access"] = obj.access
+        this_dict["dc_pages"] = obj.pages
+        this_dict["dc_canonical_url"] = obj.canonical_url
+        airtab2.update(record["id"], this_dict)
