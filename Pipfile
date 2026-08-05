@@ -8,6 +8,7 @@ camelot-py = "*"
 pyairtable = "*"
 python-documentcloud = "*"
 requests = "*"
+datawrapper = "*"
 
 [dev-packages]
 
