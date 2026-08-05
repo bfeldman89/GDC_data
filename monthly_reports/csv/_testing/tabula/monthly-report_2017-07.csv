@@ -319,7 +319,7 @@ Home County,Count,Col %,Row %,Count,Col %,Row %,Total Col %
 159 Worth County,113,.22%,91.87%,10,.26%,8.13%,123  .22%
 999 Other Custody/Out Of,136,.27%,95.10%,7,.18%,4.90%,143  .26%
 State,,,,,,,
-Total Rported,"50,872",100%,92.98%,"3,843",100%,7.02%,"54,715  100%"
+Total Reported,"50,872",100%,92.98%,"3,843",100%,7.02%,"54,715  100%"
 Not Reported,0,0,0
 Grand Total,"50,872","3,843","54,715"
 Mode,(most frequent),Fulton County,Fulton County,Fulton County
@@ -706,7 +706,7 @@ Mode (most frequent),Wheeler Corr Facility,Null,Wheeler Corr
 "",,,Facility
 "",,Male,,,Female,,Total,
 Institution Type - Boot Camps,Count,Col %,Row %,Count,Col %,Row %,Total,Col %
-Total Rported,,,,,,,,
+Total Reported,,,,,,,,
 Not Reported,0,0,0
 Grand Total,,,
 Mode (most frequent),Null,Null,Null
@@ -1485,7 +1485,7 @@ Theft By Taking - Larceny (41),23,.05%,100.00%,,,,23,.04%
 Viol Dangerous Drugs Act (167),1,.01%,50.00%,1,.03%,50.00%,2,.01%
 Viol Motor Veh Law (71),3,.01%,100.00%,,,,3,.01%
 Wife Beating (28),2,.01%,100.00%,,,,2,.01%
-Total Rported,"50,794",101%,92.97%,"3,843",100%,7.03%,"54,637",101%
+Total Reported,"50,794",101%,92.97%,"3,843",100%,7.03%,"54,637",101%
 Not Reported,78,0,78
 Grand Total,"50,872","3,843","54,715"
 Mode (most frequent),1101 Murder,1101 Murder,1101 Murder
@@ -1660,7 +1660,7 @@ County of Conviction,Count,Col %,Row %,Count,Col %,Row %,Total Col %
 158 Wilkinson County,49,.10%,98.00%,1,.03%,2.00%,50  .09%
 159 Worth County,130,.26%,90.91%,13,.34%,9.09%,143  .26%
 447 Troup County Ci,1,.01%,100.00%,,,,1  .01%
-Total Rported,"50,872",100%,92.98%,"3,843",100%,7.02%,"54,715  100%"
+Total Reported,"50,872",100%,92.98%,"3,843",100%,7.02%,"54,715  100%"
 Not Reported,0,0,0
 Grand Total,"50,872","3,843","54,715"
 Mode (most frequent),Fulton County,Cobb County,Fulton County
@@ -1717,7 +1717,7 @@ Circuit of Conviction,Count,Col %,Row %,Count,Col %,Row %,Total Col %
 47 Bell-Forsyth J.C.,377,.74%,90.63%,39,1.02%,9.38%,416  .76%
 48 Towaliga Judicial Circuit,316,.62%,92.67%,25,.65%,7.33%,341  .63%
 49 Paulding Circuit,233,.46%,92.83%,18,.47%,7.17%,251  .46%
-Total Rported,"50,679",100%,92.97%,"3,832",100%,7.03%,"54,511  100%"
+Total Reported,"50,679",100%,92.97%,"3,832",100%,7.03%,"54,511  100%"
 Not Reported,193,11,204
 Grand Total,"50,872","3,843","54,715"
 Mode (most frequent),Atlanta,Cobb,Atlanta

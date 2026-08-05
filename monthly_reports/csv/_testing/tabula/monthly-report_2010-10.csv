@@ -336,7 +336,7 @@ Home County,Count,Col %,Row %,Count,Col %,Row %,Total Col %
 158 Wilkinson,53,.12%,88.33%,7,.19%,11.67%,60  .12%
 159 Worth,108,.24%,93.91%,7,.19%,6.09%,115  .23%
 160 Unknown,"1,148",2.52%,92.51%,93,2.57%,7.49%,"1,241  2.52%"
-Total Rported,"45,591",100%,92.65%,"3,616",100%,7.35%,"49,207  100%"
+Total Reported,"45,591",100%,92.65%,"3,616",100%,7.35%,"49,207  100%"
 Not Reported,"3,524",147,"3,671"
 Grand Total,"49,115","3,763","52,878"
 Mode,(most frequent),Fulton,Fulton,Fulton
@@ -733,7 +733,7 @@ Mode (most frequent),556 Western Pre-Release,7538 W Central Pre-Release,556 West
 "",Cntr,Ctr,Release Cntr
 "",,Male,,,Female,,Total,
 Institution Type - Boot Camps,Count,Col %,Row %,Count,Col %,Row %,Total,Col %
-Total Rported,,,,,,,,
+Total Reported,,,,,,,,
 Not Reported,0,0,0
 Grand Total,,,
 Mode (most frequent),Null,Null,Null
@@ -1607,7 +1607,7 @@ Devices,,,,,,,,
 9910 Crmnl Solicitation,2,.01%,100.00%,,,,2,.01%
 9914 Gang Participation,22,.05%,95.65%,1,.03%,4.35%,23,.04%
 9999 Unknown Offense,10,.02%,55.56%,8,.22%,44.44%,18,.03%
-Total Rported,"48,812",100%,92.96%,"3,695",100%,7.04%,"52,507",100%
+Total Reported,"48,812",100%,92.96%,"3,695",100%,7.04%,"52,507",100%
 Not Reported,303,68,371
 Grand Total,"49,115","3,763","52,878"
 Mode (most frequent),1902 Armed Robbery,1701 Forgery 1st Degree,1902 Armed
@@ -1781,13 +1781,13 @@ County of Conviction,Count,Col %,Row %,Count,Col %,Row %,Total Col %
 157 Wilkes,72,.15%,97.30%,2,.05%,2.70%,74  .14%
 158 Wilkinson,49,.10%,90.74%,5,.14%,9.26%,54  .10%
 159 Worth,114,.23%,95.00%,6,.16%,5.00%,120  .23%
-Total Rported,"48,812",100%,92.96%,"3,695",100%,7.04%,"52,507  100%"
+Total Reported,"48,812",100%,92.96%,"3,695",100%,7.04%,"52,507  100%"
 Not Reported,303,68,371
 Grand Total,"49,115","3,763","52,878"
 Mode (most frequent),Fulton,Cobb,Fulton
 "",,Male,,,Female,,Total,
 Circuit of Conviction,Count,Col %,Row %,Count,Col %,Row %,Total,Col %
-Total Rported,,,,,,,,
+Total Reported,,,,,,,,
 Not Reported,"49,115","3,763","52,878"
 Grand Total,,,
 Mode (most frequent),Null,Null,Null

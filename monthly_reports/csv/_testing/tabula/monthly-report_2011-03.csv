@@ -333,7 +333,7 @@ Home County,Count,Col %,Row %,Count,Col %,Row %,Total Col %
 158 Wilkinson,50,.11%,92.59%,4,.12%,7.41%,54  .11%
 159 Worth,110,.24%,94.83%,6,.18%,5.17%,116  .24%
 160 Unknown,"1,234",2.74%,93.34%,88,2.58%,6.66%,"1,322  2.72%"
-Total Rported,"45,113",100%,92.98%,"3,406",100%,7.02%,"48,519  100%"
+Total Reported,"45,113",100%,92.98%,"3,406",100%,7.02%,"48,519  100%"
 Not Reported,"3,935",185,"4,120"
 Grand Total,"49,048","3,591","52,639"
 Mode,(most frequent),Fulton,Fulton,Fulton
@@ -687,7 +687,8 @@ Total Reported,"35,178",100%,92.22%,"2,966",100%,7.78%,"38,144  100%"
 Not Reported,0,0,0
 Grand Total,"35,178","2,966","38,144"
 "",Male,Female,Total
-Mode (most frequent),521 Ga Diag & Class Pris,508 Arrendale State Prison,"521 Ga Diag &Class Pris"
+Mode (most frequent),521 Ga Diag & Class Pris,508 Arrendale State Prison,"521 Ga Diag &
+Class Pris"
 "",,Male,,,Female,,Total
 Institution Type - Private Prisons,Count,Col %,Row %,Count,Col %,Row %,Total Col %
 569 Coffee Corr Facility,"2,755",50.00%,100.00%,,,,"2,755  50.00%"
@@ -717,7 +718,7 @@ Grand Total,867,180,"1,047"
 Mode (most frequent),7572 Wilkes Pre-Release,7538 W Central Pre-Release,7572 Wilkes Pre-
 "",Center,Ctr,Release Center
 "",,Male,,,Female,,Total,
-Institution Type - Boot Camps,Count,Col %,Row %,Count,Col %,Row %,Total,Col %
+InstitReportedype - Boot Camps,Count,Col %,Row %,Count,Col %,Row %,Total,Col %
 Total Rported,,,,,,,,
 Not Reported,0,0,0
 Grand Total,,,
@@ -1558,7 +1559,7 @@ Devices,,,,,,,,
 9910 Crmnl Solicitation,3,.01%,100.00%,,,,3,.01%
 9912 Crmnl Trespassing,1,.01%,100.00%,,,,1,.01%
 9914 Gang Participation,21,.04%,95.45%,1,.03%,4.55%,22,.04%
-9999 Unknown Offense,19,.04%,73.08%,7,.20%,26.92%,26,.05%
+9999 UReportedOffense,19,.04%,73.08%,7,.20%,26.92%,26,.05%
 Total Rported,"48,051",100%,93.25%,"3,476",100%,6.75%,"51,527",100%
 Not Reported,997,115,"1,112"
 Grand Total,"49,048","3,591","52,639"
@@ -1732,7 +1733,7 @@ County of Conviction,Count,Col %,Row %,Count,Col %,Row %,Total Col %
 156 Wilcox,51,.11%,87.93%,7,.20%,12.07%,58  .11%
 157 Wilkes,72,.15%,96.00%,3,.09%,4.00%,75  .15%
 158 Wilkinson,42,.09%,95.45%,2,.06%,4.55%,44  .09%
-159 Worth,109,.23%,93.16%,8,.23%,6.84%,117  .23%
+159 WoReported,.23%,93.16%,8,.23%,6.84%,117  .23%
 Total Rported,"48,051",100%,93.25%,"3,476",100%,6.75%,"51,527  100%"
 Not Reported,997,115,"1,112"
 Grand Total,"49,048","3,591","52,639"
@@ -1789,7 +1790,7 @@ Circuit of Conviction,Count,Col %,Row %,Count,Col %,Row %,Total Col %
 46 Enotah Circuit,333,.69%,88.56%,43,1.24%,11.44%,376  .73%
 47 Bell-Forsyth Circuit,279,.58%,86.11%,45,1.29%,13.89%,324  .63%
 48 Towaliga Circuit,372,.77%,93.00%,28,.81%,7.00%,400  .78%
-49 Paulding Circuit,258,.54%,93.14%,19,.55%,6.86%,277  .54%
+49 PauReportedircuit,258,.54%,93.14%,19,.55%,6.86%,277  .54%
 Total Rported,"48,051",100%,93.25%,"3,476",100%,6.75%,"51,527  100%"
 Not Reported,997,115,"1,112"
 Grand Total,"49,048","3,591","52,639"

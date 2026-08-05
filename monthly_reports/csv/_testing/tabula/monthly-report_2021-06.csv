@@ -329,7 +329,7 @@ Home County,Count,Col %,Row %,Count,Col %,Row %,Total Col %
 159 Worth County,104,.24%,92.86%,8,.27%,7.14%,112  .24%
 999 Other Custody/Out Of,116,.27%,98.31%,2,.07%,1.69%,118  .25%
 State,,,,,,,
-Total Rported,"43,639",100%,93.67%,"2,947",100%,6.33%,"46,586  100%"
+Total Reported,"43,639",100%,93.67%,"2,947",100%,6.33%,"46,586  100%"
 Not Reported,0,0,0
 Grand Total,"43,639","2,947","46,586"
 Mode,(most frequent),Fulton County,Fulton County,Fulton County
@@ -713,7 +713,7 @@ Mode (most frequent),Coffee Corr Facility,Null,Coffee Corr
 "",,,Facility
 "",,Male,,,Female,,Total,
 Institution Type - Boot Camps,Count,Col %,Row %,Count,Col %,Row %,Total,Col %
-Total Rported,,,,,,,,
+Total Reported,,,,,,,,
 Not Reported,0,0,0
 Grand Total,,,
 Mode (most frequent),Null,Null,Null
@@ -1494,7 +1494,7 @@ Terroristic Threats (78),1,.01%,100.00%,,,,1  .01%
 Theft By Taking - Larceny (41),35,.08%,100.00%,,,,35  .08%
 Viol Motor Veh Law (71),3,.01%,100.00%,,,,3  .01%
 Wife Beating (28),2,.01%,100.00%,,,,2  .01%
-Total Rported,"43,530",100%,93.66%,"2,946",100%,6.34%,"46,476  101%"
+Total Reported,"43,530",100%,93.66%,"2,946",100%,6.34%,"46,476  101%"
 Not Reported,109,1,110
 Grand Total,"43,639","2,947","46,586"
 Mode (most frequent),1101 Murder,1101 Murder,1101 Murder
@@ -1668,7 +1668,7 @@ County of Conviction,Count,Col %,Row %,Count,Col %,Row %,Total Col %
 157 Wilkes County,60,.14%,98.36%,1,.03%,1.64%,61  .13%
 158 Wilkinson County,40,.09%,97.56%,1,.03%,2.44%,41  .09%
 159 Worth County,121,.28%,89.63%,14,.48%,10.37%,135  .29%
-Total Rported,"43,639",100%,93.67%,"2,947",100%,6.33%,"46,586  100%"
+Total Reported,"43,639",100%,93.67%,"2,947",100%,6.33%,"46,586  100%"
 Not Reported,0,0,0
 Grand Total,"43,639","2,947","46,586"
 Mode (most frequent),Fulton County,Fulton County,Fulton County
@@ -1725,7 +1725,7 @@ Circuit of Conviction,Count,Col %,Row %,Count,Col %,Row %,Total Col %
 47 Bell-Forsyth J.C.,344,.79%,91.73%,31,1.06%,8.27%,375  .81%
 48 Towaliga Judicial Circuit,348,.80%,90.63%,36,1.23%,9.38%,384  .83%
 49 Paulding Circuit,214,.49%,93.86%,14,.48%,6.14%,228  .49%
-Total Rported,"43,452",100%,93.67%,"2,935",100%,6.33%,"46,387  100%"
+Total Reported,"43,452",100%,93.67%,"2,935",100%,6.33%,"46,387  100%"
 Not Reported,187,12,199
 Grand Total,"43,639","2,947","46,586"
 Mode (most frequent),Atlanta,Atlanta,Atlanta

@@ -328,7 +328,7 @@ Home County,Count,Col %,Row %,Count,Col %,Row %,Total Col %
 158 Wilkinson,62,.15%,92.54%,5,.19%,7.46%,67  .15%
 159 Worth,123,.30%,93.18%,9,.34%,6.82%,132  .30%
 160 Unknown,"2,038",4.90%,92.72%,160,6.05%,7.28%,"2,198  4.97%"
-Total Rported,"41,578",100%,94.02%,"2,645",100%,5.98%,"44,223  100%"
+Total Reported,"41,578",100%,94.02%,"2,645",100%,5.98%,"44,223  100%"
 Not Reported,"3,847",183,"4,030"
 Grand Total,"45,425","2,828","48,253"
 Mode,(most frequent),Fulton,Fulton,Fulton
@@ -602,7 +602,7 @@ State Prison,"32,214",70.92%,92.57%,"2,584",91.37%,7.43%,"34,798  72.12%"
 Private Prison,"4,752",10.46%,100.00%,,,,"4,752  9.85%"
 Prison Annex,"1,160",2.55%,100.00%,,,,"1,160  2.40%"
 Inmate Boot Camp,609,1.34%,100.00%,,,,609  1.26%
-Total Rported,"45,425",100%,94.14%,"2,828",100%,5.86%,"48,253  100%"
+Total Reported,"45,425",100%,94.14%,"2,828",100%,5.86%,"48,253  100%"
 Not Reported,0,0,0
 Grand Total,"45,425","2,828","48,253"
 Mode (most frequent),State Prison,State Prison,State Prison
@@ -620,14 +620,14 @@ Institution Type - Trans. Centers,Count,Col %,Row %,Count,Col %,Row %,Total Col 
 242 Savannah Mens Trans-Ctr,202,12.44%,100.00%,,,,202  10.81%
 245 Savannah Womens Trans-,,,,1,.41%,100.00%,1  .05%
 Ctr,,,,,,,
-Total Rported,"1,624",100%,86.94%,244,100%,13.06%,"1,868  100%"
+Total Reported,"1,624",100%,86.94%,244,100%,13.06%,"1,868  100%"
 Not Reported,0,0,0
 Grand Total,"1,624",244,"1,868"
 Mode (most frequent),223 Atlanta Male Trans-Ctr,235 Metro Womens Trans-,223 Atlanta Male
 "",,Ctr,Trans-Ctr
 "",,Male,,,Female,,Total
 Institution Type - Mental Hospitals,Count,Col %,Row %,Count,Col %,Row %,Total Col %
-Total Rported,,,,,,,
+Total Reported,,,,,,,
 Not Reported,0,0,0
 Grand Total,,,
 Mode (most frequent),Null,Null,Null
@@ -657,7 +657,7 @@ Institution Type -  County Prisons,Count,Col %,Row %,Count,Col %,Row %,Total Col
 444 Terrell County Ci,121,2.39%,100.00%,,,,121  2.39%
 445 Thomas County Ci,150,2.96%,100.00%,,,,150  2.96%
 447 Troup County Ci,277,5.47%,100.00%,,,,277  5.47%
-Total Rported,"5,066",100%,100%,,,%,"5,066  100%"
+Total Reported,"5,066",100%,100%,,,%,"5,066  100%"
 Not Reported,0,0,0
 Grand Total,"5,066",0,"5,066"
 Mode (most frequent),435 Muscogee County Ci,Null,435 Muscogee
@@ -710,7 +710,7 @@ Institution Type - State Prisons,Count,Col %,Row %,Count,Col %,Row %,Total Col %
 507 Wayne State Prison,178,.55%,100.00%,,,,178  .51%
 546 Wilcox State Prison,"1,423",4.42%,100.00%,,,,"1,423  4.09%"
 528 Womens Ci,,,,1,.04%,100.00%,1  .01%
-Total Rported,"32,214",100%,92.57%,"2,584",100%,7.43%,"34,798  100%"
+Total Reported,"32,214",100%,92.57%,"2,584",100%,7.43%,"34,798  100%"
 Not Reported,0,0,0
 Grand Total,"32,214","2,584","34,798"
 Mode (most frequent),521 Ga Diag & Class Pris,557 Pulaski State Prison (W),521 Ga Diag &
@@ -720,7 +720,7 @@ Institution Type - Private Prisons,Count,Col %,Row %,Count,Col %,Row %,Total Col
 569 Coffee Corr Facility,"1,504",31.65%,100.00%,,,,"1,504  31.65%"
 567 D Ray James Corr Fac,"1,743",36.68%,100.00%,,,,"1,743  36.68%"
 571 Wheeler Corr Facility,"1,505",31.67%,100.00%,,,,"1,505  31.67%"
-Total Rported,"4,752",100%,100%,,,%,"4,752  100%"
+Total Reported,"4,752",100%,100%,,,%,"4,752  100%"
 Not Reported,0,0,0
 Grand Total,"4,752",0,"4,752"
 Mode (most frequent),567 D Ray James Corr Fac,Null,567 D Ray James
@@ -732,7 +732,7 @@ Institution Type - Prison Annexe,Count,Col %,Row %,Count,Col %,Row %,Total Col %
 7505 Phillips Annex,215,18.53%,100.00%,,,,215  18.53%
 7501 Ware Annex,215,18.53%,100.00%,,,,215  18.53%
 7552 Washington Sp Annex,145,12.50%,100.00%,,,,145  12.50%
-Total Rported,"1,160",100%,100%,,,%,"1,160  100%"
+Total Reported,"1,160",100%,100%,,,%,"1,160  100%"
 Not Reported,0,0,0
 Grand Total,"1,160",0,"1,160"
 Mode (most frequent),7540 Hays Annex,Null,7540 Hays Annex
@@ -746,7 +746,7 @@ Institution Type - Boot Camps,Count,Col %,Row %,Count,Col %,Row %,Total Col %
 9509 Nontgomery Boot Camp,1,.16%,100.00%,,,,1  .16%
 9504 West Georgia Pb,9,1.48%,100.00%,,,,9  1.48%
 Bootcamp,,,,,,,
-Total Rported,609,100%,100%,,,%,609  100%
+Total Reported,609,100%,100%,,,%,609  100%
 Not Reported,0,0,0
 Grand Total,609,0,609
 Mode (most frequent),9540 Hays Inm Boot Camp,Null,9540 Hays Inm
@@ -1578,7 +1578,7 @@ Amt,,,,,,,,
 Devices,,,,,,,,
 9910 Crmnl Solicitation,5,.01%,100.00%,,,,5,.01%
 9911 Party To A Crime,5,.01%,100.00%,,,,5,.01%
-Total Rported,"45,249",100%,94.13%,"2,821",100%,5.87%,"48,070",100%
+Total Reported,"45,249",100%,94.13%,"2,821",100%,5.87%,"48,070",100%
 Not Reported,176,7,183
 Grand Total,"45,425","2,828","48,253"
 Mode (most frequent),1601 Burglary,1701 Forgery 1st Degree,1601 Burglary
@@ -1751,7 +1751,7 @@ County of Conviction,Count,Col %,Row %,Count,Col %,Row %,Total Col %
 157 Wilkes,66,.15%,95.65%,3,.11%,4.35%,69  .14%
 158 Wilkinson,60,.13%,93.75%,4,.14%,6.25%,64  .13%
 159 Worth,159,.35%,96.95%,5,.18%,3.05%,164  .34%
-Total Rported,"45,249",100%,94.13%,"2,821",100%,5.87%,"48,070  100%"
+Total Reported,"45,249",100%,94.13%,"2,821",100%,5.87%,"48,070  100%"
 Not Reported,176,7,183
 Grand Total,"45,425","2,828","48,253"
 Mode (most frequent),Fulton,Fulton,Fulton
@@ -1809,7 +1809,7 @@ Circuit of Conviction,Count,Col %,Row %,Count,Col %,Row %,Total Col %
 47 Bell-Forsyth Circuit,210,.46%,90.13%,23,.82%,9.87%,233  .48%
 48 Towaliga Circuit,351,.78%,95.12%,18,.64%,4.88%,369  .77%
 49 Paulding Circuit,184,.41%,93.88%,12,.43%,6.12%,196  .41%
-Total Rported,"45,249",100%,94.13%,"2,821",100%,5.87%,"48,070  100%"
+Total Reported,"45,249",100%,94.13%,"2,821",100%,5.87%,"48,070  100%"
 Not Reported,176,7,183
 Grand Total,"45,425","2,828","48,253"
 Mode (most frequent),Atlanta,Atlanta,Atlanta

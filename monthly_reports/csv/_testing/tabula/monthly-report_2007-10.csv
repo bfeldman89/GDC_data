@@ -335,7 +335,7 @@ Home County,Count,Col %,Row %,Count,Col %,Row %,Total Col %
 158 Wilkinson,71,.15%,87.65%,10,.29%,12.35%,81  .16%
 159 Worth,113,.24%,93.39%,8,.23%,6.61%,121  .24%
 160 Unknown,"2,755",5.77%,92.42%,226,6.50%,7.58%,"2,981  5.82%"
-Total Rported,"47,785",100%,93.22%,"3,478",100%,6.78%,"51,263  100%"
+Total Reported,"47,785",100%,93.22%,"3,478",100%,6.78%,"51,263  100%"
 Not Reported,"2,171",100,"2,271"
 Grand Total,"49,956","3,578","53,534"
 Mode,(most frequent),Fulton,Fulton,Fulton
@@ -765,7 +765,7 @@ Mode (most frequent),556 Western Pre-Release,Null,556 Western Pre-
 Institution Type - Boot Camps,Count,Col %,Row %,Count,Col %,Row %,Total Col %
 9553 Baldwin Diag Ibc,2,.90%,100.00%,,,,2  .90%
 9534 Burruss Inm Boot Camp,220,99.10%,100.00%,,,,220  99.10%
-Total Rported,222,100%,100%,,,%,222  100%
+Total Reported,222,100%,100%,,,%,222  100%
 Not Reported,0,0,0
 Grand Total,222,0,222
 Mode (most frequent),9534 Burruss Inm Boot,Null,9534 Burruss Inm
@@ -1599,7 +1599,7 @@ Devices,,,,,,,,
 9910 Crmnl Solicitation,3,.01%,100.00%,,,,3,.01%
 9911 Party To A Crime,2,.01%,100.00%,,,,2,.01%
 9914 Gang Participation,1,.01%,100.00%,,,,1,.01%
-Total Rported,"47,672",100%,93.37%,"3,385",100%,6.63%,"51,057",100%
+Total Reported,"47,672",100%,93.37%,"3,385",100%,6.63%,"51,057",100%
 "",Male,Female,Total
 Not Reported,"2,284",193,"2,477"
 Grand Total,"49,956","3,578","53,534"
@@ -1774,7 +1774,7 @@ County of Conviction,Count,Col %,Row %,Count,Col %,Row %,Total Col %
 157 Wilkes,78,.16%,96.30%,3,.09%,3.70%,81  .16%
 158 Wilkinson,63,.13%,94.03%,4,.12%,5.97%,67  .13%
 159 Worth,139,.29%,94.56%,8,.24%,5.44%,147  .29%
-Total Rported,"47,672",100%,93.37%,"3,385",100%,6.63%,"51,057  100%"
+Total Reported,"47,672",100%,93.37%,"3,385",100%,6.63%,"51,057  100%"
 Not Reported,"2,284",193,"2,477"
 Grand Total,"49,956","3,578","53,534"
 Mode (most frequent),Fulton,Cobb,Fulton
@@ -1831,7 +1831,7 @@ Circuit of Conviction,Count,Col %,Row %,Count,Col %,Row %,Total Col %
 47 Bell-Forsyth Circuit,282,.59%,89.52%,33,.97%,10.48%,315  .62%
 48 Towaliga Circuit,411,.86%,93.84%,27,.80%,6.16%,438  .86%
 49 Paulding Circuit,226,.47%,94.56%,13,.38%,5.44%,239  .47%
-Total Rported,"47,672",100%,93.37%,"3,385",100%,6.63%,"51,057  100%"
+Total Reported,"47,672",100%,93.37%,"3,385",100%,6.63%,"51,057  100%"
 Not Reported,"2,284",193,"2,477"
 Grand Total,"49,956","3,578","53,534"
 Mode (most frequent),Atlanta,Cobb,Atlanta

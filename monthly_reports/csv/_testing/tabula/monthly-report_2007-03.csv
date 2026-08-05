@@ -335,7 +335,7 @@ Home County,Count,Col %,Row %,Count,Col %,Row %,Total Col %
 158 Wilkinson,69,.15%,89.61%,8,.23%,10.39%,77  .15%
 159 Worth,116,.25%,94.31%,7,.20%,5.69%,123  .24%
 160 Unknown,"2,533",5.40%,91.98%,221,6.35%,8.02%,"2,754  5.47%"
-Total Rported,"46,883",100%,93.09%,"3,479",100%,6.91%,"50,362  100%"
+Total Reported,"46,883",100%,93.09%,"3,479",100%,6.91%,"50,362  100%"
 Not Reported,"2,039",93,"2,132"
 Grand Total,"48,922","3,572","52,494"
 Mode,(most frequent),Fulton,Fulton,Fulton
@@ -749,7 +749,7 @@ Mode (most frequent),7546 Turner Pre-Release,Null,7546 Turner Pre-
 Institution Type - Boot Camps,Count,Col %,Row %,Count,Col %,Row %,Total Col %
 9553 Baldwin Diag Ibc,18,5.75%,100.00%,,,,18  5.75%
 9534 Burruss Inm Boot Camp,295,94.25%,100.00%,,,,295  94.25%
-Total Rported,313,100%,100%,,,%,313  100%
+Total Reported,313,100%,100%,,,%,313  100%
 Not Reported,0,0,0
 Grand Total,313,0,313
 Mode (most frequent),9534 Burruss Inm Boot,Null,9534 Burruss Inm
@@ -1566,7 +1566,7 @@ Amt,,,,,,,,
 9905 Crmnl Atmpt,23,.05%,92.00%,2,.06%,8.00%,25,.05%
 9910 Crmnl Solicitation,3,.01%,100.00%,,,,3,.01%
 9911 Party To A Crime,6,.01%,100.00%,,,,6,.01%
-Total Rported,"47,488",100%,93.27%,"3,429",100%,6.73%,"50,917",100%
+Total Reported,"47,488",100%,93.27%,"3,429",100%,6.73%,"50,917",100%
 Not Reported,"1,434",143,"1,577"
 Grand Total,"48,922","3,572","52,494"
 Mode (most frequent),1601 Burglary,1701 Forgery 1st Degree,1601 Burglary
@@ -1739,7 +1739,7 @@ County of Conviction,Count,Col %,Row %,Count,Col %,Row %,Total Col %
 157 Wilkes,78,.16%,92.86%,6,.17%,7.14%,84  .16%
 158 Wilkinson,65,.14%,97.01%,2,.06%,2.99%,67  .13%
 159 Worth,145,.31%,96.03%,6,.17%,3.97%,151  .30%
-Total Rported,"47,488",100%,93.27%,"3,429",100%,6.73%,"50,917  100%"
+Total Reported,"47,488",100%,93.27%,"3,429",100%,6.73%,"50,917  100%"
 Not Reported,"1,434",143,"1,577"
 Grand Total,"48,922","3,572","52,494"
 Mode (most frequent),Fulton,Cobb,Fulton
@@ -1777,7 +1777,7 @@ Circuit of Conviction,Count,Col %,Row %,Count,Col %,Row %,Total Col %
 46 Enotah Circuit,149,1.18%,90.85%,15,1.59%,9.15%,164  1.21%
 48 Towaliga Circuit,178,1.41%,89.00%,22,2.34%,11.00%,200  1.47%
 49 Paulding Circuit,203,1.60%,93.12%,15,1.59%,6.88%,218  1.60%
-Total Rported,"12,665",100%,93.08%,941,100%,6.92%,"13,606  100%"
+Total Reported,"12,665",100%,93.08%,941,100%,6.92%,"13,606  100%"
 Not Reported,"36,257","2,631","38,888"
 Grand Total,"48,922","3,572","52,494"
 "",Male,Female,Total

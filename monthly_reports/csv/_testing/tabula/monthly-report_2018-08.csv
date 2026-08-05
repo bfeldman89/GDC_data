@@ -321,7 +321,7 @@ Home County,Count,Col %,Row %,Count,Col %,Row %,Total Col %
 159 Worth County,113,.22%,88.98%,14,.36%,11.02%,127  .23%
 999 Other Custody/Out Of,122,.24%,95.31%,6,.15%,4.69%,128  .23%
 State,,,,,,,
-Total Rported,"50,833",100%,92.82%,"3,931",100%,7.18%,"54,764  100%"
+Total Reported,"50,833",100%,92.82%,"3,931",100%,7.18%,"54,764  100%"
 Not Reported,0,0,0
 Grand Total,"50,833","3,931","54,764"
 Mode,(most frequent),Fulton County,Fulton County,Fulton County
@@ -705,7 +705,7 @@ Mode (most frequent),Wheeler Corr Facility,Null,Wheeler Corr
 "",,,Facility
 "",,Male,,,Female,,Total,
 Institution Type - Boot Camps,Count,Col %,Row %,Count,Col %,Row %,Total,Col %
-Total Rported,,,,,,,,
+Total Reported,,,,,,,,
 Not Reported,0,0,0
 Grand Total,,,
 Mode (most frequent),Null,Null,Null
@@ -1488,7 +1488,7 @@ Simple Battery (25),1,.01%,100.00%,,,,1  .01%
 Theft By Taking - Larceny (41),25,.05%,100.00%,,,,25  .05%
 Viol Motor Veh Law (71),3,.01%,100.00%,,,,3  .01%
 Wife Beating (28),2,.01%,100.00%,,,,2  .01%
-Total Rported,"50,748",101%,92.81%,"3,931",100%,7.19%,"54,679  101%"
+Total Reported,"50,748",101%,92.81%,"3,931",100%,7.19%,"54,679  101%"
 Not Reported,85,0,85
 Grand Total,"50,833","3,931","54,764"
 "",Male,Female,Total
@@ -1663,7 +1663,7 @@ County of Conviction,Count,Col %,Row %,Count,Col %,Row %,Total Col %
 157 Wilkes County,77,.15%,91.67%,7,.18%,8.33%,84  .15%
 158 Wilkinson County,45,.09%,95.74%,2,.05%,4.26%,47  .09%
 159 Worth County,132,.26%,91.67%,12,.31%,8.33%,144  .26%
-Total Rported,"50,833",100%,92.82%,"3,931",100%,7.18%,"54,764  100%"
+Total Reported,"50,833",100%,92.82%,"3,931",100%,7.18%,"54,764  100%"
 Not Reported,0,0,0
 Grand Total,"50,833","3,931","54,764"
 Mode (most frequent),Fulton County,Cobb County,Fulton County
@@ -1720,7 +1720,7 @@ Circuit of Conviction,Count,Col %,Row %,Count,Col %,Row %,Total Col %
 47 Bell-Forsyth J.C.,341,.67%,91.67%,31,.79%,8.33%,372  .68%
 48 Towaliga Judicial Circuit,324,.64%,92.31%,27,.69%,7.69%,351  .64%
 49 Paulding Circuit,230,.45%,91.27%,22,.56%,8.73%,252  .46%
-Total Rported,"50,657",100%,92.82%,"3,918",100%,7.18%,"54,575  100%"
+Total Reported,"50,657",100%,92.82%,"3,918",100%,7.18%,"54,575  100%"
 Not Reported,176,13,189
 Grand Total,"50,833","3,931","54,764"
 Mode (most frequent),Atlanta,Cobb,Atlanta

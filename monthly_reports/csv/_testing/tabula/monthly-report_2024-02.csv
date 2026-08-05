@@ -331,7 +331,7 @@ Home County,Count,Col %,Row %,Count,Col %,Row %,Total Col %
 159 Worth County,107,.23%,88.43%,14,.38%,11.57%,121  .24%
 999 Other Custody/Out Of,102,.22%,97.14%,3,.08%,2.86%,105  .21%
 State,,,,,,,
-Total Rported,"47,078",100%,92.71%,"3,701",100%,7.29%,"50,779  100%"
+Total Reported,"47,078",100%,92.71%,"3,701",100%,7.29%,"50,779  100%"
 Not Reported,0,0,0
 Grand Total,"47,078","3,701","50,779"
 Mode,(most frequent),Fulton County,Fulton County,Fulton County
@@ -717,7 +717,7 @@ Mode (most frequent),Coffee Corr Facility,Null,Coffee Corr
 "",,,Facility
 "",,Male,,,Female,,Total,
 Institution Type - Boot Camps,Count,Col %,Row %,Count,Col %,Row %,Total,Col %
-Total Rported,,,,,,,,
+Total Reported,,,,,,,,
 Not Reported,0,0,0
 Grand Total,,,
 Mode (most frequent),Null,Null,Null
@@ -1516,7 +1516,7 @@ Primary Offense,Count,Col %,Row %,Count,Col %,Row %,Total,Col %
 Vagrancy (91),1,.01%,100.00%,,,,1,.01%
 Viol Motor Veh Law (71),2,.01%,100.00%,,,,2,.01%
 Wife Beating (28),2,.01%,100.00%,,,,2,.01%
-Total Rported,"46,961",101%,92.7%,"3,699",100%,7.3%,"50,660",101%
+Total Reported,"46,961",101%,92.7%,"3,699",100%,7.3%,"50,660",101%
 Not Reported,117,2,119
 Grand Total,"47,078","3,701","50,779"
 Mode (most frequent),1101 Murder,1101 Murder,1101 Murder
@@ -1690,7 +1690,7 @@ County of Conviction,Count,Col %,Row %,Count,Col %,Row %,Total Col %
 157 Wilkes County,67,.14%,97.10%,2,.05%,2.90%,69  .14%
 158 Wilkinson County,40,.08%,95.24%,2,.05%,4.76%,42  .08%
 159 Worth County,135,.29%,91.84%,12,.32%,8.16%,147  .29%
-Total Rported,"47,078",100%,92.71%,"3,701",100%,7.29%,"50,779  100%"
+Total Reported,"47,078",100%,92.71%,"3,701",100%,7.29%,"50,779  100%"
 Not Reported,0,0,0
 Grand Total,"47,078","3,701","50,779"
 Mode (most frequent),Fulton County,Gwinnett County,Fulton County
@@ -1747,7 +1747,7 @@ Circuit of Conviction,Count,Col %,Row %,Count,Col %,Row %,Total Col %
 47 Bell-Forsyth J.C.,394,.84%,89.14%,48,1.30%,10.86%,442  .87%
 48 Towaliga Judicial Circuit,437,.93%,88.10%,59,1.60%,11.90%,496  .98%
 49 Paulding Circuit,233,.50%,92.09%,20,.54%,7.91%,253  .50%
-Total Rported,"46,860",100%,92.71%,"3,686",100%,7.29%,"50,546  100%"
+Total Reported,"46,860",100%,92.71%,"3,686",100%,7.29%,"50,546  100%"
 Not Reported,218,15,233
 Grand Total,"47,078","3,701","50,779"
 Mode (most frequent),Atlanta,Gwinnett,Atlanta

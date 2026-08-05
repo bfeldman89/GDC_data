@@ -330,7 +330,7 @@ Home County,Count,Col %,Row %,Count,Col %,Row %,Total Col %
 159 Worth County,94,.20%,91.26%,9,.23%,8.74%,103  .20%
 999 Other Custody/Out Of,105,.22%,97.22%,3,.08%,2.78%,108  .21%
 State,,,,,,,
-Total Rported,"48,029",100%,92.6%,"3,837",100%,7.4%,"51,866  100%"
+Total Reported,"48,029",100%,92.6%,"3,837",100%,7.4%,"51,866  100%"
 Not Reported,0,0,0
 Grand Total,"48,029","3,837","51,866"
 Mode,(most frequent),Fulton County,Fulton County,Fulton County
@@ -718,7 +718,7 @@ Mode (most frequent),Wheeler Corr Facility,Null,Wheeler Corr
 "",,,Facility
 "",,Male,,,Female,,Total
 Institution Type - Boot Camps,Count,Col %,Row %,Count,Col %,Row %,Total Col %
-Total Rported,,,,,,,
+Total Reported,,,,,,,
 Not Reported,0,0,0
 Grand Total,,,
 Mode (most frequent),Null,Null,Null
@@ -1510,7 +1510,7 @@ Vagrancy (91),2,.01%,100.00%,,,,2  .01%
 Primary Offense,Count,Col %,Row %,Count,Col %,Row %,Total Col %
 Viol Motor Veh Law (71),1,.01%,100.00%,,,,1  .01%
 Wife Beating (28),2,.01%,100.00%,,,,2  .01%
-Total Rported,"47,906",101%,92.59%,"3,833",100%,7.41%,"51,739  101%"
+Total Reported,"47,906",101%,92.59%,"3,833",100%,7.41%,"51,739  101%"
 Not Reported,123,4,127
 Grand Total,"48,029","3,837","51,866"
 Mode (most frequent),1101 Murder,1101 Murder,1101 Murder
@@ -1684,7 +1684,7 @@ County of Conviction,Count,Col %,Row %,Count,Col %,Row %,Total Col %
 157 Wilkes County,68,.14%,97.14%,2,.05%,2.86%,70  .13%
 158 Wilkinson County,35,.07%,97.22%,1,.03%,2.78%,36  .07%
 159 Worth County,115,.24%,92.00%,10,.26%,8.00%,125  .24%
-Total Rported,"48,029",100%,92.6%,"3,837",100%,7.4%,"51,866  100%"
+Total Reported,"48,029",100%,92.6%,"3,837",100%,7.4%,"51,866  100%"
 Not Reported,0,0,0
 Grand Total,"48,029","3,837","51,866"
 Mode (most frequent),Fulton County,Fulton County,Fulton County
@@ -1741,7 +1741,7 @@ Circuit of Conviction,Count,Col %,Row %,Count,Col %,Row %,Total Col %
 47 Bell-Forsyth J.C.,404,.85%,88.40%,53,1.39%,11.60%,457  .89%
 48 Towaliga Judicial Circuit,426,.89%,86.23%,68,1.78%,13.77%,494  .96%
 49 Paulding Circuit,245,.51%,91.76%,22,.58%,8.24%,267  .52%
-Total Rported,"47,810",100%,92.6%,"3,822",100%,7.4%,"51,632  100%"
+Total Reported,"47,810",100%,92.6%,"3,822",100%,7.4%,"51,632  100%"
 Not Reported,219,15,234
 Grand Total,"48,029","3,837","51,866"
 Mode (most frequent),Atlanta,Atlanta,Atlanta
